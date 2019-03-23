@@ -1,6 +1,10 @@
-Modificare i file e fare l'upload del mod con
+Modificare i file, andare nella cartella
 
-D:\Giochi\Steam\SteamApps\common\DarkestDungeon\_windows>steam_workshop_upload.exe "d:\Sviluppo\Darkest Dungeon\Italiano per italiani\mod\project.xml"
+D:\Giochi\Steam\SteamApps\common\DarkestDungeon\_windows
+
+e fare l'upload del mod con
+
+steam_workshop_upload.exe "d:\Sviluppo\Darkest Dungeon\Italiano per italiani\mod\project.xml"
 
 Seguire la guida di seguito per più dettagli:
 
