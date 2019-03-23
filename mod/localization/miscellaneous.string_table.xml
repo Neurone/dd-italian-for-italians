@@ -2151,9 +2151,9 @@
     <entry id="str_prayer_go_missing_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} è in viaggio in cerca di una visione sacra.]]></entry>
     <entry id="str_prayer_stress_relief_affliction_cured_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} ha pregato e ha recuperato {colour_start|town_activity_log_positive_result}{?stress_amount}%d{colour_end} {colour_start|stressNOT1}stress{colour_end} e non è più {colour_start|town_activity_log_positive_result}{?affliction}%s{colour_end}.]]></entry>
     <entry id="str_prayer_stress_relief_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} ha pregato e ha recuperato {colour_start|town_activity_log_positive_result}{?stress_amount}%d{colour_end} {colour_start|stressNOT1}stress{colour_end}.]]></entry>
-    <entry id="str_preamble_0"><![CDATA[Il tema di Darkest Dungeon consiste nel trarre il massimo da una situazione difficile. Le missioni possono fallire o dover essere abbandonate. Gli eroi possono morire, e quando accade non è rimediabile. Sono in corso costanti salvataggi automatici, e ogni azione è permanente.]]></entry>
-    <entry id="str_preamble_1"><![CDATA[Questo gioco ti costerà fatica. Fino a che punto spingerai i tuoi avventurieri? Quanto sei disposto a rischiare nelle tue missioni per ricostruire il Borgo? Cosa sarai pronto a sacrificare per salvare la vita del tuo eroe preferito?]]></entry>
-    <entry id="str_preamble_2"><![CDATA[Fortunatamente ci sono sempre anime fresche in arrivo con la diligenza, in cerca di avventura e fama all'ombra del...]]></entry>
+    <entry id="str_preamble_0"><![CDATA[Darkest Dungeon consiste nel trarre il massimo da una situazione difficile. Le missioni falliscono o devono essere abbandonate. Gli eroi muoiono. E quando muoiono, rimangono morti. Il salvataggio dei progressi è costante, quindi ogni azione è permanente.]]></entry>
+    <entry id="str_preamble_1"><![CDATA[Questo gioco si aspetta molto da te. Fino a che punto spingerai i tuoi avventurieri? Quanto sei disposto a rischiare nella tue missione per la ricostruzione del Borgo? Cosa sarai pronto a sacrificare per salvare la vita del tuo eroe preferito?]]></entry>
+    <entry id="str_preamble_2"><![CDATA[Fortunatamente, ci sono sempre anime fresche in arrivo con la diligenza, in cerca di avventura e fama all'ombra del...]]></entry>
     <entry id="str_quest_complete_banner"><![CDATA[Missione compiuta!]]></entry>
     <entry id="str_quest_darkest_dungeon"><![CDATA[Non tornerò mai più in quel luogo.]]></entry>
     <entry id="str_quest_darkest_dungeon"><![CDATA[Ho visto abbastanza del Darkest Dungeon per il resto della mia vita.]]></entry>
@@ -2539,7 +2539,7 @@
     <entry id="str_returned_from_plot_trinket_retention_add_from_storage_success"><![CDATA[{?hero_names}%s hanno recuperato con successo gli accessori rubati!]]></entry>
     <entry id="str_returned_from_plot_tutorial_crypts_failure"><![CDATA[{?hero_names}%s non sono riusciti ad esplorare per intero le Rovine. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_tutorial_crypts_success"><![CDATA[{?hero_names}%s sono riusciti ad esplorare le Rovine. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_roster_list_full"><![CDATA[pieni]]></entry>
+    <entry id="str_roster_list_full"><![CDATA[Al completo]]></entry>
     <entry id="str_sanitarium_cost_upgrade_lvl_1"><![CDATA[Il registro dei trattamenti è stato migliorato. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_sanitarium_cost_upgrade_lvl_2"><![CDATA[Il registro dei trattamenti è stato migliorato. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_sanitarium_cost_upgrade_lvl_3"><![CDATA[Il registro dei trattamenti è stato migliorato. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
@@ -4242,7 +4242,7 @@ Questa condizione di potenziamento dura finché non accumuleranno grandi quantit
     <entry id="houndmaster+str_monster_user_selected_targets_kill_pill"><![CDATA[Buona, piccola. Rispondiamo se ci chiamano.]]></entry>
     <entry id="jester+str_monster_user_selected_targets_kill_pill"><![CDATA[Ha! Sono io lo zimbello, ora...?]]></entry>
     <entry id="leper+str_monster_user_selected_targets_kill_pill"><![CDATA[Risparmia gli altri, sono pronto.]]></entry>
-    <entry id="man_at_arms+str_monster_user_selected_targets_kill_pill"><![CDATA[Me ne vado con la coscienza pulita. Ho fatto il mio meglio.]]></entry>
+    <entry id="man_at_arms+str_monster_user_selected_targets_kill_pill"><![CDATA[Me ne vado con la coscienza pulita. Ho fatto del mio meglio.]]></entry>
     <entry id="musketeer+str_monster_user_selected_targets_kill_pill"><![CDATA[Uno per tutti e tutti per uno!]]></entry>
     <entry id="occultist+str_monster_user_selected_targets_kill_pill"><![CDATA[Finalmente il volto del mio aguzzino. Fatti avanti.]]></entry>
     <entry id="plague_doctor+str_monster_user_selected_targets_kill_pill"><![CDATA[Non me! Io sono uno studioso erudito!]]></entry>

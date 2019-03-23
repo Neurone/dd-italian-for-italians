@@ -11,3 +11,5 @@ Seguire la guida di seguito per più dettagli:
 https://steamcommunity.com/sharedfiles/filedetails/?id=819597757
 
 NOTA: Inserisco dentro "mod" tutto il progetto altrimenti viene caricato anche la cartella git el repo
+
+Le modifiche alla descrizione del mod è più comodo farle da Steam direttamente, per questo il tag <ItemDescription> dentro il file project.xml è vuoto
