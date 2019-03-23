@@ -2539,7 +2539,7 @@
     <entry id="str_returned_from_plot_trinket_retention_add_from_storage_success"><![CDATA[{?hero_names}%s hanno recuperato con successo gli accessori rubati!]]></entry>
     <entry id="str_returned_from_plot_tutorial_crypts_failure"><![CDATA[{?hero_names}%s non sono riusciti ad esplorare per intero le Rovine. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_tutorial_crypts_success"><![CDATA[{?hero_names}%s sono riusciti ad esplorare le Rovine. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_roster_list_full"><![CDATA[Al completo]]></entry>
+    <entry id="str_roster_list_full"><![CDATA[Completo]]></entry>
     <entry id="str_sanitarium_cost_upgrade_lvl_1"><![CDATA[Il registro dei trattamenti è stato migliorato. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_sanitarium_cost_upgrade_lvl_2"><![CDATA[Il registro dei trattamenti è stato migliorato. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_sanitarium_cost_upgrade_lvl_3"><![CDATA[Il registro dei trattamenti è stato migliorato. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
@@ -3983,8 +3983,8 @@
     <entry id="town_quest_trinket_retention_description_format"><![CDATA[Sconfiggi l'urlatore per recuperare %d degli accessori che ti ha sottratto.]]></entry>
     <entry id="tray_icon_tooltip_bleed_format"><![CDATA[%d danno per (%d rds) round]]></entry>
     <entry id="tray_icon_tooltip_buff_duration_combat_end_format"><![CDATA[%s (%d Battaglie)]]></entry>
-    <entry id="tray_icon_tooltip_buff_duration_quest_end_format"><![CDATA[%s (mission)]]></entry>
-    <entry id="tray_icon_tooltip_buff_duration_quest_not_complete_format"><![CDATA[%s (mission)]]></entry>
+    <entry id="tray_icon_tooltip_buff_duration_quest_end_format"><![CDATA[%s (missione)]]></entry>
+    <entry id="tray_icon_tooltip_buff_duration_quest_not_complete_format"><![CDATA[%s (missione)]]></entry>
     <entry id="tray_icon_tooltip_buff_duration_round_format"><![CDATA[%s (%d Round)]]></entry>
     <entry id="tray_icon_tooltip_buff_duration_before_turn_format"><![CDATA[%s (%d Round)]]></entry>
     <entry id="tray_icon_tooltip_buff_duration_after_turn_format"><![CDATA[%s (%d Round)]]></entry>
