@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort>Revisioni e correzioni per la traduzione italiana di Darkest Dungeon</ItemDescriptionShort>
+	<ModDataPath>D:/Sviluppo/Darkest Dungeon/Italiano per italiani/mod</ModDataPath>
+	<Title>Italiano per italiani</Title>
+	<Language>italian</Language>
+	<UpdateDetails/>
+	<Visibility>public</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>3</VersionMinor>
+	<TargetBuild>24787</TargetBuild>
+	<Tags>
+		<Tags>UI</Tags>
+		<Tags>Localization</Tags>
+	</Tags>
+	<ItemDescription/>
+	<PublishedFileId>1691372612</PublishedFileId>
+</project>
+
