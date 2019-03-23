@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
+  <language id="english"/>
   <language id="italian">
     <entry id="hero_name_0"><![CDATA[Miron]]></entry>
     <entry id="hero_name_1"><![CDATA[Sigman]]></entry>
