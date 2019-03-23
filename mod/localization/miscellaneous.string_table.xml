@@ -177,7 +177,7 @@
     <entry id="buff_stat_tooltip_stress_dmg_received_percent_hunger"><![CDATA[%+d%% {colour_start|stress}stress{colour_end} dalla fame]]></entry>
     <entry id="buff_stat_tooltip_stress_dmg_received_percent_mode"><![CDATA[%+d%% allo {colour_start|stress}Stress{colour_end} da Trasformazione]]></entry>
     <entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[%+d%% abilità {colour_start|stress}Stress {colour_end}]]></entry>
-    <entry id="buff_stat_tooltip_stress_heal_received_percent"><![CDATA[%+d%% guarigione da {colour_start|stress}Stress {colour_end}ricevuta]]></entry>
+    <entry id="buff_stat_tooltip_stress_heal_received_percent"><![CDATA[ricevono %+d%% guarigione da {colour_start|stress}Stress{colour_end}]]></entry>
     <entry id="buff_stat_tooltip_stun_chance"><![CDATA[%+d%% possibilità di {colour_start|stun}Stordimento{colour_end}]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_armour"><![CDATA[%-d%% Costo di Potenziamento Armatura]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_weapon"><![CDATA[%-d%% Costo di Potenziamento Arma]]></entry>
