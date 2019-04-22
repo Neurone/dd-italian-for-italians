@@ -198,7 +198,7 @@
     <entry id="camping_skill_effect_campingDmgPercentBuffLargeMonsters"><![CDATA[DANNO +%d%% contro mostri grossi]]></entry>
     <entry id="camping_skill_effect_campingDmgPercentBuffRanged"><![CDATA[Migliora DANNO Attacchi a distanza del %d%%]]></entry>
     <entry id="camping_skill_effect_campingSpeedBuff"><![CDATA[VEL +%d]]></entry>
-    <entry id="camping_skill_effect_campingStressResistBuff"><![CDATA[Migliora Resistenza allo{colour_start|stressNOT1}Stress{colour_end} del +%d%%]]></entry>
+    <entry id="camping_skill_effect_campingStressResistBuff"><![CDATA[Migliora Resistenza allo {colour_start|stressNOT1}Stress{colour_end} del +%d%%]]></entry>
     <entry id="camping_skill_effect_health_damage_max_health_percent"><![CDATA[Subire %d%% DANNO ai PF]]></entry>
     <entry id="camping_skill_effect_health_heal_max_health_percent"><![CDATA[{colour_start|healhp}Cura{colour_end} %d%% PF]]></entry>
     <entry id="camping_skill_effect_increase_monsters_surprise_chance"><![CDATA[Maggiori probabilità di sorprendere mostri fino al prossimo Accampamento]]></entry>
@@ -225,7 +225,7 @@
     <entry id="camping_skill_selection_individual"><![CDATA[Un Compagno:]]></entry>
     <entry id="camping_skill_selection_party"><![CDATA[Gruppo:]]></entry>
     <entry id="camping_skill_selection_party_other"><![CDATA[Tutti i Compagni:]]></entry>
-    <entry id="camping_skill_selection_self"><![CDATA[Se stesso:]]></entry>
+    <entry id="camping_skill_selection_self"><![CDATA[Sé stesso:]]></entry>
     <entry id="camping_skill_uses_remaining_format"><![CDATA[Usa: %d rimanente]]></entry>
     <entry id="cant_discard_quest_item_confirm"><![CDATA[Non puoi scartare gli oggetti della missione.]]></entry>
     <entry id="cant_unequip_trinket_in_battle"><![CDATA[Impossibile rimuovere ornamenti durante la battaglia]]></entry>
@@ -294,7 +294,7 @@
     <entry id="effect_tooltip_party_other_buff"><![CDATA[{colour_start|buff}Bonus su altri:{colour_end}]]></entry>
     <entry id="effect_tooltip_party_other_debuff"><![CDATA[{colour_start|debuff}Malus su altri:{colour_end}]]></entry>
     <entry id="effect_tooltip_riposte"><![CDATA[Attiva {colour_start|riposte}Risposta{colour_end}]]></entry>
-    <entry id="effect_tooltip_self"><![CDATA[Se stessi:]]></entry>
+    <entry id="effect_tooltip_self"><![CDATA[Sé stessi:]]></entry>
     <entry id="effect_tooltip_self_buff"><![CDATA[{colour_start|buff}Bonus su te stesso:{colour_end}]]></entry>
     <entry id="effect_tooltip_self_debuff"><![CDATA[{colour_start|debuff}Malus su te stesso:{colour_end}]]></entry>
     <entry id="effect_tooltip_set_actor_mode_format"><![CDATA[Cambia in modalità: %s]]></entry>
@@ -342,7 +342,7 @@
     <entry id="fe_flow_new_game_plus_confirm_no"><![CDATA[No]]></entry>
     <entry id="fe_flow_new_game_plus_confirm_question"><![CDATA[Iniziare una campagna NewGame+?]]></entry>
     <entry id="fe_flow_new_game_plus_confirm_yes"><![CDATA[Sì]]></entry>
-    <entry id="game_over_estate_name_format"><![CDATA[La %s Tenuta]]></entry>
+    <entry id="game_over_estate_name_format"><![CDATA[La Tenuta %s]]></entry>
     <entry id="game_over_number_of_dead_heroes_format"><![CDATA[Eroi Morti: %d]]></entry>
     <entry id="game_over_number_of_weeks_format"><![CDATA[Settimane: %d]]></entry>
     <entry id="game_over_porgress_forward"><![CDATA[Fine]]></entry>
@@ -679,9 +679,9 @@
     <entry id="str_caretaker_goal_plot_kill_hag_1"><![CDATA[Sconfiggete la Vecchia Strega]]></entry>
     <entry id="str_caretaker_goal_plot_kill_hag_2"><![CDATA[Sconfiggete la Strega]]></entry>
     <entry id="str_caretaker_goal_plot_kill_hag_3"><![CDATA[Sconfiggete la Strega Cattiva]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_necromancer_1"><![CDATA[Sconfiggete l'Apprendista Necromante]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_necromancer_2"><![CDATA[Sconfiggete il Necromante]]></entry>
-    <entry id="str_caretaker_goal_plot_kill_necromancer_3"><![CDATA[Sconfiggete il Signore dei Necromanti]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_necromancer_1"><![CDATA[Sconfiggete l'Apprendista Negromante]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_necromancer_2"><![CDATA[Sconfiggete il Negromante]]></entry>
+    <entry id="str_caretaker_goal_plot_kill_necromancer_3"><![CDATA[Sconfiggete il Signore dei Negromanti]]></entry>
     <entry id="str_caretaker_goal_plot_kill_prophet_1"><![CDATA[Sconfiggete il Profeta Roboante]]></entry>
     <entry id="str_caretaker_goal_plot_kill_prophet_2"><![CDATA[Sconfiggete il Profeta Fulminante]]></entry>
     <entry id="str_caretaker_goal_plot_kill_prophet_3"><![CDATA[Sconfiggete il Profeta Farneticante]]></entry>
@@ -866,7 +866,7 @@
     <entry id="str_embarked_on_inventory_activate_crypts"><![CDATA[{?hero_names}%s hanno intrapreso una missione nelle Rovine, ripristinare altari sacri nel nome della Luce. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_inventory_activate_warrens"><![CDATA[{?hero_names}%s si sono messi in viaggio per saldare i conti con la Feccia Suina, facendo a pezzi i loro santuari nel Dedalo. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_inventory_activate_weald"><![CDATA[{?hero_names}%s sono partiti con l'intento di purificare la Landa dalla dilagante malattia. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_embarked_on_kill_boss_crypts"><![CDATA[{?hero_names}%s si sono messi in viaggio per mondare le nostre ancestrali Rovine dal Necromante. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_embarked_on_kill_boss_crypts"><![CDATA[{?hero_names}%s si sono messi in viaggio per mondare le nostre ancestrali Rovine dal Negromante. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_kill_boss_warrens"><![CDATA[{?hero_names}%s si sono inoltrati nel Dedalo determinati a distruggere il gargantuesco Principe Suino. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_kill_boss_weald"><![CDATA[{?hero_names}%s si sono avventurati alla volta della Landa, determinati a stanare e sconfiggere una pazza Strega cannibale. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_crow_trinket"><![CDATA[{?hero_names}%s stanno perlustrando il Trespolo dell'urlatore in cerca di tesori preziosi!]]></entry>
@@ -886,9 +886,9 @@
     <entry id="str_embarked_on_plot_kill_hag_1"><![CDATA[{?hero_names}%s si sono avventurati alla volta della Landa, determinati a stanare e sconfiggere una pazza Strega cannibale. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_kill_hag_2"><![CDATA[{?hero_names}%s si sono avventurati alla volta della Landa, determinati a stanare e sconfiggere una pazza Strega cannibale. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_kill_hag_3"><![CDATA[{?hero_names}%s si sono avventurati alla volta della Landa, determinati a stanare e sconfiggere una pazza Strega cannibale. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_embarked_on_plot_kill_necromancer_1"><![CDATA[{?hero_names}%s si sono messi in viaggio per mondare le nostre ancestrali Rovine dal Necromante. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_embarked_on_plot_kill_necromancer_2"><![CDATA[{?hero_names}%s si sono messi in viaggio per mondare le nostre ancestrali Rovine dal Necromante. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_embarked_on_plot_kill_necromancer_3"><![CDATA[{?hero_names}%s si sono messi in viaggio per mondare le nostre ancestrali Rovine dal Necromante. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_embarked_on_plot_kill_necromancer_1"><![CDATA[{?hero_names}%s si sono messi in viaggio per mondare le nostre ancestrali Rovine dal Negromante. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_embarked_on_plot_kill_necromancer_2"><![CDATA[{?hero_names}%s si sono messi in viaggio per mondare le nostre ancestrali Rovine dal Negromante. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_embarked_on_plot_kill_necromancer_3"><![CDATA[{?hero_names}%s si sono messi in viaggio per mondare le nostre ancestrali Rovine dal Negromante. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_kill_prophet_1"><![CDATA[{?hero_names}%s sono partiti per mettere a tacere il Profeta. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_kill_prophet_2"><![CDATA[{?hero_names}%s sono partiti per mettere a tacere il Profeta. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_kill_prophet_3"><![CDATA[{?hero_names}%s sono partiti per mettere a tacere il Profeta. ({?difficulty}%s {?length}%s)]]></entry>
@@ -984,7 +984,7 @@
     <entry id="str_glossary_term_42"><![CDATA[PE di Risolutezza]]></entry>
     <entry id="str_glossary_term_43"><![CDATA[Ranghi]]></entry>
     <entry id="str_glossary_term_44"><![CDATA[Vanga]]></entry>
-    <entry id="str_glossary_term_45"><![CDATA[Chiave Passepartout]]></entry>
+    <entry id="str_glossary_term_45"><![CDATA[Chiave Passe-partout]]></entry>
     <entry id="str_glossary_term_46"><![CDATA[VEL]]></entry>
     <entry id="str_glossary_term_47"><![CDATA[Stress]]></entry>
     <entry id="str_glossary_term_48"><![CDATA[Stordimento]]></entry>
@@ -1207,7 +1207,7 @@
     <entry id="str_inventory_description_quest_itemancestors_crate"><![CDATA[Alcune cose è meglio lasciarle chiuse.]]></entry>
     <entry id="str_inventory_description_quest_itemantivenom"><![CDATA[Un preparato tremendamente potente per respingere gli effetti di malattia e infezione.]]></entry>
     <entry id="str_inventory_description_quest_itembeacon_light"><![CDATA[La mano sinistra di un malfattore morto sulla gogna, trasformata in una candela con lo stesso grasso del disgraziato.]]></entry>
-    <entry id="str_inventory_description_quest_itemeldritch_lantern"><![CDATA[Emette una luminescenza ultraterrena, usata per attivare Sigilli di Protezione.]]></entry>
+    <entry id="str_inventory_description_quest_itemeldritch_lantern"><![CDATA[Emette una luminescenza sovrannaturale, usata per attivare Sigilli di Protezione.]]></entry>
     <entry id="str_inventory_description_quest_itemgrain_sack"><![CDATA[Un sacco di prezioso grano fresco.]]></entry>
     <entry id="str_inventory_description_quest_itemholy_relic"><![CDATA[Un trofeo sopravvissuto a una passata guerra santa.]]></entry>
     <entry id="str_inventory_description_quest_itemholy_water"><![CDATA[Usato per purificare gli altari corrotti.]]></entry>
@@ -1265,7 +1265,7 @@
     <entry id="str_inventory_title_supplymedicinal_herbs"><![CDATA[Erbe Medicinali]]></entry>
     <entry id="str_inventory_title_supplyrope"><![CDATA[Corda]]></entry>
     <entry id="str_inventory_title_supplyshovel"><![CDATA[Vanga]]></entry>
-    <entry id="str_inventory_title_supplyskeleton_key"><![CDATA[Chiave Passepartout]]></entry>
+    <entry id="str_inventory_title_supplyskeleton_key"><![CDATA[Chiave Passe-partout]]></entry>
     <entry id="str_inventory_title_supplytorch"><![CDATA[Torcia]]></entry>
     <entry id="str_inventory_title_trinket_unlockdd_trinket"><![CDATA[Talismano della Fiamma]]></entry>
     <entry id="str_inventory_title_trinketaccuracy_stone"><![CDATA[Pietra della Precisione]]></entry>
@@ -1310,7 +1310,7 @@
     <entry id="str_inventory_title_trinketbloody_herb"><![CDATA[Erbe del Sangue]]></entry>
     <entry id="str_inventory_title_trinketbook_of_constitution"><![CDATA[Libro della Costituzione]]></entry>
     <entry id="str_inventory_title_trinketbook_of_holiness"><![CDATA[Libro della Sacralità]]></entry>
-    <entry id="str_inventory_title_trinketbook_of_holy_healing"><![CDATA[Tomo delle Scare Cure]]></entry>
+    <entry id="str_inventory_title_trinketbook_of_holy_healing"><![CDATA[Tomo della Cura Sacra]]></entry>
     <entry id="str_inventory_title_trinketbook_of_intuition"><![CDATA[Libro dell'Intuizione]]></entry>
     <entry id="str_inventory_title_trinketbook_of_rage"><![CDATA[Libro della Rabbia]]></entry>
     <entry id="str_inventory_title_trinketbook_of_relaxation"><![CDATA[Libro del Riposo]]></entry>
@@ -1319,7 +1319,7 @@
     <entry id="str_inventory_title_trinketboss_crew"><![CDATA[Campana dell'Equipaggio]]></entry>
     <entry id="str_inventory_title_trinketboss_flesh"><![CDATA[Cuore della Carne]]></entry>
     <entry id="str_inventory_title_trinketboss_hag"><![CDATA[Mestolo della Strega]]></entry>
-    <entry id="str_inventory_title_trinketboss_necromancer"><![CDATA[Collare del Necromante]]></entry>
+    <entry id="str_inventory_title_trinketboss_necromancer"><![CDATA[Collare del Negromante]]></entry>
     <entry id="str_inventory_title_trinketboss_prophet"><![CDATA[Occhio del Profeta]]></entry>
     <entry id="str_inventory_title_trinketboss_siren"><![CDATA[Conchiglia della Sirena]]></entry>
     <entry id="str_inventory_title_trinketboss_tassle"><![CDATA[Nappa di Vvulf]]></entry>
@@ -1368,7 +1368,7 @@
     <entry id="str_inventory_title_trinketdiseased_herb"><![CDATA[Erbe Malate]]></entry>
     <entry id="str_inventory_title_trinketdodge_stone"><![CDATA[Pietra della Schivata]]></entry>
     <entry id="str_inventory_title_trinketdodgy_sheath"><![CDATA[Fodero Malfamato]]></entry>
-    <entry id="str_inventory_title_trinketdouble_edged_pendant"><![CDATA[Pendente Doppialama]]></entry>
+    <entry id="str_inventory_title_trinketdouble_edged_pendant"><![CDATA[Ciondolo a Doppio Taglio]]></entry>
     <entry id="str_inventory_title_trinketdrifters_buckle"><![CDATA[Fibbia del Vagabondo]]></entry>
     <entry id="str_inventory_title_trinketeldritch_killing_incense"><![CDATA[Incenso Annientatore del Sovrannaturale]]></entry>
     <entry id="str_inventory_title_trinketeldritch_slayers_ring"><![CDATA[Anello Sterminatore del Sovrannaturale]]></entry>
@@ -1410,7 +1410,7 @@
     <entry id="str_inventory_title_trinketmove_amulet"><![CDATA[Amuleto del Movimento]]></entry>
     <entry id="str_inventory_title_trinketmove_charm"><![CDATA[Amuleto del Movimento]]></entry>
     <entry id="str_inventory_title_trinketmove_stone"><![CDATA[Pietra del Movimento]]></entry>
-    <entry id="str_inventory_title_trinketnecromancer_5"><![CDATA[Collare del Necromante]]></entry>
+    <entry id="str_inventory_title_trinketnecromancer_5"><![CDATA[Collare del Negromante]]></entry>
     <entry id="str_inventory_title_trinketpadlock_1"><![CDATA[Lucchetto della Pazienza]]></entry>
     <entry id="str_inventory_title_trinketpadlock_2"><![CDATA[Lucchetto del Passaggio]]></entry>
     <entry id="str_inventory_title_trinketpadlock_3"><![CDATA[Lucchetto Protettivo]]></entry>
@@ -1423,14 +1423,14 @@
     <entry id="str_inventory_title_trinketprophet_5"><![CDATA[Occhio del Profeta]]></entry>
     <entry id="str_inventory_title_trinketprotection_stone"><![CDATA[Pietra della Protezione]]></entry>
     <entry id="str_inventory_title_trinketprotective_collar"><![CDATA[Collare Protettivo]]></entry>
-    <entry id="str_inventory_title_trinketquick_draw_charm"><![CDATA[Amuleto Manolesta]]></entry>
+    <entry id="str_inventory_title_trinketquick_draw_charm"><![CDATA[Amuleto Mano Lesta]]></entry>
     <entry id="str_inventory_title_trinketquickening_satchel"><![CDATA[Tracolla Accelerante]]></entry>
     <entry id="str_inventory_title_trinketraiders_talisman"><![CDATA[Talismano del Razziatore]]></entry>
     <entry id="str_inventory_title_trinketrampart_shield"><![CDATA[Scudo Targone]]></entry>
     <entry id="str_inventory_title_trinketreckless_charm"><![CDATA[Amuleto del Temerario]]></entry>
     <entry id="str_inventory_title_trinketrecovery_chalice"><![CDATA[Calice Virtuoso]]></entry>
     <entry id="str_inventory_title_trinketrecovery_charm"><![CDATA[Amuleto del Recupero]]></entry>
-    <entry id="str_inventory_title_trinketrotgut_censer"><![CDATA[Turibolo Bruciabudella]]></entry>
+    <entry id="str_inventory_title_trinketrotgut_censer"><![CDATA[Turibolo Brucia Budella]]></entry>
     <entry id="str_inventory_title_trinketsacred_scroll"><![CDATA[Pergamena Sacra]]></entry>
     <entry id="str_inventory_title_trinketsacrificial_cauldron"><![CDATA[Calderone Sacrificale]]></entry>
     <entry id="str_inventory_title_trinketscouting_whistle"><![CDATA[Fischietto dell'Esplorazione]]></entry>
@@ -1885,18 +1885,18 @@
     <entry id="str_monstername_formless_weak_A"><![CDATA[Carne Mutante]]></entry>
     <entry id="str_monstername_formless_weak_B"><![CDATA[Carne Instabile]]></entry>
     <entry id="str_monstername_formless_weak_C"><![CDATA[Carne Informe]]></entry>
-    <entry id="str_monstername_fungal_artillery_A"><![CDATA[Fungo Artigliere]]></entry>
-    <entry id="str_monstername_fungal_artillery_B"><![CDATA[Fungo Graffiatore]]></entry>
-    <entry id="str_monstername_fungal_artillery_C"><![CDATA[Fungo Bombardiere]]></entry>
-    <entry id="str_monstername_fungal_bloat_A"><![CDATA[Fungal Scratcher]]></entry>
-    <entry id="str_monstername_fungal_bloat_B"><![CDATA[Fungal Grabber]]></entry>
-    <entry id="str_monstername_fungal_bloat_C"><![CDATA[Fungal Clawer]]></entry>
+    <entry id="str_monstername_fungal_artillery_A"><![CDATA[Artiglieria Fungoide]]></entry>
+    <entry id="str_monstername_fungal_artillery_B"><![CDATA[Batteria Fungoide]]></entry>
+    <entry id="str_monstername_fungal_artillery_C"><![CDATA[Bombardiere Fungoide]]></entry>
+    <entry id="str_monstername_fungal_bloat_A"><![CDATA[Fungo Graffiatore]]></entry>
+    <entry id="str_monstername_fungal_bloat_B"><![CDATA[Fungo Arpionatore]]></entry>
+    <entry id="str_monstername_fungal_bloat_C"><![CDATA[Fungo Mazzolatore]]></entry>
     <entry id="str_monstername_gargoyle_A"><![CDATA[Gargoyle]]></entry>
     <entry id="str_monstername_gargoyle_B"><![CDATA[Gargoyle]]></entry>
     <entry id="str_monstername_gargoyle_C"><![CDATA[Gargoyle Minaccioso]]></entry>
-    <entry id="str_monstername_ghoul_A"><![CDATA[Ghoul]]></entry>
-    <entry id="str_monstername_ghoul_B"><![CDATA[Ghoul Sbavante]]></entry>
-    <entry id="str_monstername_ghoul_C"><![CDATA[Ghoul Insaziabile]]></entry>
+    <entry id="str_monstername_ghoul_A"><![CDATA[Ghul]]></entry>
+    <entry id="str_monstername_ghoul_B"><![CDATA[Ghul Sbavante]]></entry>
+    <entry id="str_monstername_ghoul_C"><![CDATA[Ghul Insaziabile]]></entry>
     <entry id="str_monstername_hag"><![CDATA[Strega]]></entry>
     <entry id="str_monstername_hag_A"><![CDATA[Vecchia Strega]]></entry>
     <entry id="str_monstername_hag_B"><![CDATA[Strega]]></entry>
@@ -1910,10 +1910,10 @@
     <entry id="str_monstername_maggot_A"><![CDATA[Verme]]></entry>
     <entry id="str_monstername_maggot_B"><![CDATA[Verme Contorto]]></entry>
     <entry id="str_monstername_maggot_C"><![CDATA[Verme Bulboso]]></entry>
-    <entry id="str_monstername_necromancer"><![CDATA[Necromante]]></entry>
-    <entry id="str_monstername_necromancer_A"><![CDATA[Apprendista Necromante]]></entry>
-    <entry id="str_monstername_necromancer_B"><![CDATA[Necromante]]></entry>
-    <entry id="str_monstername_necromancer_C"><![CDATA[Signore dei Necromanti]]></entry>
+    <entry id="str_monstername_necromancer"><![CDATA[Negromante]]></entry>
+    <entry id="str_monstername_necromancer_A"><![CDATA[Apprendista Negromante]]></entry>
+    <entry id="str_monstername_necromancer_B"><![CDATA[Negromante]]></entry>
+    <entry id="str_monstername_necromancer_C"><![CDATA[Signore dei Negromanti]]></entry>
     <entry id="str_monstername_nest_A"><![CDATA[Nido di urlatore]]></entry>
     <entry id="str_monstername_nest_B"><![CDATA[Nido di urlatore]]></entry>
     <entry id="str_monstername_nest_C"><![CDATA[Nido di urlatore]]></entry>
@@ -1949,7 +1949,7 @@
     <entry id="str_monstername_siren_A"><![CDATA[Sirena]]></entry>
     <entry id="str_monstername_siren_B"><![CDATA[Sirena Seducente]]></entry>
     <entry id="str_monstername_siren_C"><![CDATA[Sirena Ammaliante]]></entry>
-    <entry id="str_monstername_skeleton_arbalist_A"><![CDATA[Arbalista d'Ossa]]></entry>
+    <entry id="str_monstername_skeleton_arbalist_A"><![CDATA[Balestriere d'Ossa]]></entry>
     <entry id="str_monstername_skeleton_arbalist_B"><![CDATA[Tiratore d'Ossa]]></entry>
     <entry id="str_monstername_skeleton_arbalist_C"><![CDATA[Cecchino d'Ossa]]></entry>
     <entry id="str_monstername_skeleton_bearer_A"><![CDATA[Portatore d'ossa]]></entry>
@@ -2055,7 +2055,7 @@
     <entry id="str_obstacle_town_rubble_title"><![CDATA[Muro crollato]]></entry>
     <entry id="str_overlay_loot_battle_description"><![CDATA[Hai trovato:]]></entry>
     <entry id="str_overlay_loot_battle_title"><![CDATA[Vittoria!]]></entry>
-    <entry id="str_overlay_loot_camping_description"><![CDATA[A vostra disposizone...]]></entry>
+    <entry id="str_overlay_loot_camping_description"><![CDATA[A vostra disposizione...]]></entry>
     <entry id="str_overlay_loot_camping_title"><![CDATA[Bottino!]]></entry>
     <entry id="str_overlay_loot_chest_description"><![CDATA[A vostra disposizione...]]></entry>
     <entry id="str_overlay_loot_chest_title"><![CDATA[Tesoro!]]></entry>
@@ -2111,11 +2111,11 @@
     <entry id="str_plot_kill_hag_3_audio_line"><![CDATA[Benvenuto nelle Terre Selvagge]]></entry>
     <entry id="str_plot_kill_hag_3_tip"><![CDATA[Memorie dell'Antenato - La Strega (3 / 3)]]></entry>
     <entry id="str_plot_kill_necromancer_1_audio_line"><![CDATA[Il Dominio sulla Vita e sulla Morte]]></entry>
-    <entry id="str_plot_kill_necromancer_1_tip"><![CDATA[Memorie dell'Antenato - Il Necromante (1 / 3)]]></entry>
+    <entry id="str_plot_kill_necromancer_1_tip"><![CDATA[Memorie dell'Antenato - Il Negromante (1 / 3)]]></entry>
     <entry id="str_plot_kill_necromancer_2_audio_line"><![CDATA[Gli Ospiti]]></entry>
-    <entry id="str_plot_kill_necromancer_2_tip"><![CDATA[Memorie dell'Antenato - Il Necromante (2 / 3)]]></entry>
+    <entry id="str_plot_kill_necromancer_2_tip"><![CDATA[Memorie dell'Antenato - Il Negromante (2 / 3)]]></entry>
     <entry id="str_plot_kill_necromancer_3_audio_line"><![CDATA[Il Morto che rianima i Morti]]></entry>
-    <entry id="str_plot_kill_necromancer_3_tip"><![CDATA[Memorie dell'Antenato - Il Necromante (3 / 3)]]></entry>
+    <entry id="str_plot_kill_necromancer_3_tip"><![CDATA[Memorie dell'Antenato - Il Negromante (3 / 3)]]></entry>
     <entry id="str_plot_kill_prophet_1_audio_line"><![CDATA[Il Profeta Errante]]></entry>
     <entry id="str_plot_kill_prophet_1_tip"><![CDATA[Memorie dell'Antenato - Il Profeta (1 / 3)]]></entry>
     <entry id="str_plot_kill_prophet_2_audio_line"><![CDATA[Ancora e ancora]]></entry>
@@ -2152,7 +2152,7 @@
     <entry id="str_prayer_stress_relief_affliction_cured_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} ha pregato e ha recuperato {colour_start|town_activity_log_positive_result}{?stress_amount}%d{colour_end} {colour_start|stressNOT1}stress{colour_end} e non è più {colour_start|town_activity_log_positive_result}{?affliction}%s{colour_end}.]]></entry>
     <entry id="str_prayer_stress_relief_story"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} ha pregato e ha recuperato {colour_start|town_activity_log_positive_result}{?stress_amount}%d{colour_end} {colour_start|stressNOT1}stress{colour_end}.]]></entry>
     <entry id="str_preamble_0"><![CDATA[Darkest Dungeon consiste nel trarre il massimo da una situazione difficile. Le missioni falliscono o devono essere abbandonate. Gli eroi muoiono. E quando muoiono, rimangono morti. Il salvataggio dei progressi è costante, quindi ogni azione è permanente.]]></entry>
-    <entry id="str_preamble_1"><![CDATA[Questo gioco si aspetta molto da te. Fino a che punto spingerai i tuoi avventurieri? Quanto sei disposto a rischiare nella tue missione per la ricostruzione del Borgo? Cosa sarai pronto a sacrificare per salvare la vita del tuo eroe preferito?]]></entry>
+    <entry id="str_preamble_1"><![CDATA[Questo gioco si aspetta molto da te. Fino a che punto spingerai i tuoi avventurieri? Quanto sei disposto a rischiare nella tua missione per la ricostruzione del Borgo? Cosa sarai pronto a sacrificare per salvare la vita del tuo eroe preferito?]]></entry>
     <entry id="str_preamble_2"><![CDATA[Fortunatamente, ci sono sempre anime fresche in arrivo con la diligenza, in cerca di avventura e fama all'ombra del...]]></entry>
     <entry id="str_quest_complete_banner"><![CDATA[Missione compiuta!]]></entry>
     <entry id="str_quest_darkest_dungeon"><![CDATA[Non tornerò mai più in quel luogo.]]></entry>
@@ -2213,7 +2213,7 @@
     <entry id="str_quirk_description_tither"><![CDATA[Paga denaro aggiuntivo per ogni attività nell'Abbazia.]]></entry>
     <entry id="str_quirk_description_unquiet_mind"><![CDATA[Non può Meditare finché si trova nel villaggio.]]></entry>
     <entry id="str_quirk_description_wasting_sickness"><![CDATA[La vita viene risucchiata via ad ogni passo...]]></entry>
-    <entry id="str_quirk_description_witness"><![CDATA[In seguito a certi traumatici eventi non prenderà parte alla Preghiera quando si trva nel villaggio.]]></entry>
+    <entry id="str_quirk_description_witness"><![CDATA[In seguito a certi traumatici eventi non prenderà parte alla Preghiera quando si trova nel villaggio.]]></entry>
     <entry id="str_quirk_description_zoophobia"><![CDATA[Terrorizzato dalle bestie.]]></entry>
     <entry id="str_quirk_name_ablutomania"><![CDATA[Ablutomania]]></entry>
     <entry id="str_quirk_name_accurate"><![CDATA[Letale]]></entry>
@@ -2228,7 +2228,7 @@
     <entry id="str_quirk_name_bloodthirsty"><![CDATA[Sanguinario]]></entry>
     <entry id="str_quirk_name_bulimic"><![CDATA[Bulimico]]></entry>
     <entry id="str_quirk_name_calm"><![CDATA[Calma]]></entry>
-    <entry id="str_quirk_name_claustrophobia"><![CDATA[Clustrofobia]]></entry>
+    <entry id="str_quirk_name_claustrophobia"><![CDATA[Claustrofobia]]></entry>
     <entry id="str_quirk_name_clotter"><![CDATA[Coagulo Rapido]]></entry>
     <entry id="str_quirk_name_clumsy"><![CDATA[Goffo]]></entry>
     <entry id="str_quirk_name_clutch_hitter"><![CDATA[Affidabile]]></entry>
@@ -2270,7 +2270,7 @@
     <entry id="str_quirk_name_early_riser"><![CDATA[Mattiniero]]></entry>
     <entry id="str_quirk_name_egomania"><![CDATA[Egomania]]></entry>
     <entry id="str_quirk_name_enlightened"><![CDATA[Illuminazione]]></entry>
-    <entry id="str_quirk_name_ennui"><![CDATA[Ennui]]></entry>
+    <entry id="str_quirk_name_ennui"><![CDATA[Noia]]></entry>
     <entry id="str_quirk_name_evasive"><![CDATA[Sfuggente]]></entry>
     <entry id="str_quirk_name_faithless"><![CDATA[Senza Fede]]></entry>
     <entry id="str_quirk_name_fast_healer"><![CDATA[Guarigione Veloce]]></entry>
@@ -2287,16 +2287,16 @@
     <entry id="str_quirk_name_gift_of_the_healer"><![CDATA[Dono del Guaritore]]></entry>
     <entry id="str_quirk_name_god_fearing"><![CDATA[Timorato di Dio]]></entry>
     <entry id="str_quirk_name_guilty_conscience"><![CDATA[Coscienza Sporca]]></entry>
-    <entry id="str_quirk_name_hagiomania"><![CDATA[Agiomania]]></entry>
+    <entry id="str_quirk_name_hagiomania"><![CDATA[Fanatico dei Santi]]></entry>
     <entry id="str_quirk_name_hard_noggin"><![CDATA[Testa Dura]]></entry>
     <entry id="str_quirk_name_hard_skinned"><![CDATA[Pelle Dura]]></entry>
     <entry id="str_quirk_name_hatred_of_beast"><![CDATA[Odio delle Bestie]]></entry>
-    <entry id="str_quirk_name_hatred_of_eldritch"><![CDATA[Odio dell'Empio]]></entry>
+    <entry id="str_quirk_name_hatred_of_eldritch"><![CDATA[Odio del Sovrannaturale]]></entry>
     <entry id="str_quirk_name_hatred_of_man"><![CDATA[Odio degli Umani]]></entry>
     <entry id="str_quirk_name_hatred_of_unholy"><![CDATA[Odio dell'Empio]]></entry>
     <entry id="str_quirk_name_hemophilia"><![CDATA[Emofilia]]></entry>
-    <entry id="str_quirk_name_hieromania"><![CDATA[Ieromania]]></entry>
-    <entry id="str_quirk_name_hylomania"><![CDATA[Ilomania]]></entry>
+    <entry id="str_quirk_name_hieromania"><![CDATA[Invasato Religioso]]></entry>
+    <entry id="str_quirk_name_hylomania"><![CDATA[Materialista]]></entry>
     <entry id="str_quirk_name_hysterical_blindness"><![CDATA[Cecità Isterica]]></entry>
     <entry id="str_quirk_name_improved_balance"><![CDATA[Piedi Saldi]]></entry>
     <entry id="str_quirk_name_in_the_zone"><![CDATA[Ignaro]]></entry>
@@ -2311,12 +2311,12 @@
     <entry id="str_quirk_name_light_sleeper"><![CDATA[Sonno Leggero]]></entry>
     <entry id="str_quirk_name_love_interest"><![CDATA[Interesse Romantico]]></entry>
     <entry id="str_quirk_name_lurker"><![CDATA[Vista Notturna]]></entry>
-    <entry id="str_quirk_name_lygophobia"><![CDATA[Aclufobia]]></entry>
+    <entry id="str_quirk_name_lygophobia"><![CDATA[Acluofobia]]></entry>
     <entry id="str_quirk_name_meditator"><![CDATA[Meditatore]]></entry>
     <entry id="str_quirk_name_mercurial"><![CDATA[Volubile]]></entry>
     <entry id="str_quirk_name_natural_eye"><![CDATA[Colpo d'Occhio]]></entry>
     <entry id="str_quirk_name_natural_swing"><![CDATA[Tiratore Nato]]></entry>
-    <entry id="str_quirk_name_necromania"><![CDATA[Necromania]]></entry>
+    <entry id="str_quirk_name_necromania"><![CDATA[Necrofilia]]></entry>
     <entry id="str_quirk_name_necrophobia"><![CDATA[Necrofobia]]></entry>
     <entry id="str_quirk_name_nervous"><![CDATA[Nervi Tesi]]></entry>
     <entry id="str_quirk_name_night_blindness"><![CDATA[Cecità Notturna]]></entry>
@@ -2337,7 +2337,7 @@
     <entry id="str_quirk_name_quickdraw"><![CDATA[Estrazione Rapida]]></entry>
     <entry id="str_quirk_name_rabies"><![CDATA[Rabbia]]></entry>
     <entry id="str_quirk_name_resilient"><![CDATA[Robusto]]></entry>
-    <entry id="str_quirk_name_resolution"><![CDATA[Astinenza]]></entry>
+    <entry id="str_quirk_name_resolution"><![CDATA[Risoluto]]></entry>
     <entry id="str_quirk_name_robust"><![CDATA[Vigore]]></entry>
     <entry id="str_quirk_name_ruins_adventurer"><![CDATA[Avventuriero delle Rovine]]></entry>
     <entry id="str_quirk_name_ruins_explorer"><![CDATA[Esploratore delle Rovine]]></entry>
@@ -2347,7 +2347,7 @@
     <entry id="str_quirk_name_ruins_survivor"><![CDATA[Sopravvissuto delle Rovine]]></entry>
     <entry id="str_quirk_name_ruins_tactician"><![CDATA[Tattico delle Rovine]]></entry>
     <entry id="str_quirk_name_ruminator"><![CDATA[Ansioso]]></entry>
-    <entry id="str_quirk_name_satanophobia"><![CDATA[Satanofobia]]></entry>
+    <entry id="str_quirk_name_satanophobia"><![CDATA[Terrorizzato dal Satanico]]></entry>
     <entry id="str_quirk_name_scattering"><![CDATA[Dispersivo]]></entry>
     <entry id="str_quirk_name_scurvy"><![CDATA[Scorbuto]]></entry>
     <entry id="str_quirk_name_second_wind"><![CDATA[Nuova Forza]]></entry>
@@ -2355,7 +2355,7 @@
     <entry id="str_quirk_name_shocker"><![CDATA[Fifone]]></entry>
     <entry id="str_quirk_name_sickly"><![CDATA[Cagionevole]]></entry>
     <entry id="str_quirk_name_sitiomania"><![CDATA[Sitomania]]></entry>
-    <entry id="str_quirk_name_skilled_gambler"><![CDATA[Giocatore d'azzardo]]></entry>
+    <entry id="str_quirk_name_skilled_gambler"><![CDATA[Giocatore d'Azzardo]]></entry>
     <entry id="str_quirk_name_slayer_of_beast"><![CDATA[Sterminatore di Bestie]]></entry>
     <entry id="str_quirk_name_slayer_of_eldritch"><![CDATA[Sterminatore del Sovrannaturale]]></entry>
     <entry id="str_quirk_name_slayer_of_man"><![CDATA[Sterminatore di Umani]]></entry>
@@ -2463,8 +2463,8 @@
     <entry id="str_returned_from_inventory_activate_warrens_success"><![CDATA[{?hero_names}%s hanno fatto a pezzi i santuari Suini nel Dedalo. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_inventory_activate_weald_failure"><![CDATA[{?hero_names}%s non hanno potuto trovare e purificare i cadaveri nella Landa. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_inventory_activate_weald_success"><![CDATA[{?hero_names}%s hanno purificato i cadaveri appestati che giacevano nella Landa. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_boss_crypts_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Necromante. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_kill_boss_crypts_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Necromante! ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_kill_boss_crypts_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Negromante. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_kill_boss_crypts_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Negromante! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_kill_boss_warrens_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Principe Suino. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_kill_boss_warrens_success"><![CDATA[{?hero_names}%s hanno rimandato il Principe Suino negli inferi dai quali era venuto! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_kill_boss_weald_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare la Strega. ({?difficulty}%s {?length}%s)]]></entry>
@@ -2503,10 +2503,10 @@
     <entry id="str_returned_from_plot_kill_hag_2_success"><![CDATA[{?hero_names}%s hanno messo fine al cannibalismo della Strega! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_hag_3_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare la Strega Cattiva. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_hag_3_success"><![CDATA[{?hero_names}%s hanno messo fine al cannibalismo della Strega Cattiva! ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_plot_kill_necromancer_1_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare l'Apprendista Necromante. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_plot_kill_necromancer_1_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Apprendista Necromante! ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_plot_kill_necromancer_2_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Necromante. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_plot_kill_necromancer_2_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Necromante! ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_plot_kill_necromancer_1_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare l'Apprendista Negromante. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_plot_kill_necromancer_1_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Apprendista Negromante! ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_plot_kill_necromancer_2_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Negromante. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_plot_kill_necromancer_2_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Negromante! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_necromancer_3_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Signore dei Necromanti. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_necromancer_3_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Signore dei Necromanti! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_prophet_1_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Profeta Roboante. ({?difficulty}%s {?length}%s)]]></entry>
@@ -2678,7 +2678,7 @@
     <entry id="str_torch_info_1"><![CDATA[LUCE INTENSA
  Danno da Stress, attacchi dei mostri, bottino e critici del giocatore leggermente aumentati]]></entry>
     <entry id="str_torch_info_2"><![CDATA[LUCE SOFFUSA
- Danno da Stress, attacchi dei mostri, bottini e critici del giocatore aumenati]]></entry>
+ Danno da Stress, attacchi dei mostri, bottini e critici del giocatore aumentati]]></entry>
     <entry id="str_torch_info_3"><![CDATA[OMBRA
  Danno da Stress, attacchi dei mostri, bottino e critici del giocatore fortemente aumentati]]></entry>
     <entry id="str_torch_info_4"><![CDATA[OSCURITÀ
@@ -2841,19 +2841,19 @@
     <entry id="str_vo_bad_half_health_half_stress_01_0"><![CDATA[Le ferite e lo sconforto preparano il terreno
  all'eroismo... o alla codardia.]]></entry>
     <entry id="str_vo_bad_obstacle_01_0"><![CDATA[Senza arnesi di ferro, ti devi affidare alla carne ed alla convinzione incrollabile.]]></entry>
-    <entry id="str_vo_bad_obstacle_cove_0"><![CDATA[Un altro marinaio, an'altra sventura.]]></entry>
+    <entry id="str_vo_bad_obstacle_cove_0"><![CDATA[Un altro marinaio, un'altra sventura.]]></entry>
     <entry id="str_vo_bad_obstacle_crypts_0"><![CDATA[Anche la fredda pietra sembra piegata per impedire il passaggio.]]></entry>
     <entry id="str_vo_bad_obstacle_warrens_0"><![CDATA[Intoppi del genere non sono una sorpresa - queste gallerie precedono anche i primi coloni.]]></entry>
     <entry id="str_vo_bad_obstacle_weald_0"><![CDATA[La natura stessa, una vittima della corruzione dilagante, deformata con cattive intenzioni.]]></entry>
     <entry id="str_vo_bad_retreat_fail_01_0"><![CDATA[La vera disperazione la si conosce soltanto quando non c'è via di fuga.]]></entry>
     <entry id="str_vo_bad_retreat_fail_02_0"><![CDATA[Messo all'angolo! In trappola! Ed obbligato a combattere ancora...]]></entry>
-    <entry id="str_vo_bad_retreat_fail_03_0"><![CDATA[Non c'è modo di uscirne - sara' un massacro?]]></entry>
-    <entry id="str_vo_bad_starve_01_0"><![CDATA[La fame consumante inizia, rivoltando il corpo contro sè stesso, indebolendo la mente.]]></entry>
-    <entry id="str_vo_bad_starve_02_0"><![CDATA[Fallire per una cosa così piccola...un tozzo di pane!]]></entry>
+    <entry id="str_vo_bad_retreat_fail_03_0"><![CDATA[Non c'è modo di uscirne. Sarà un massacro?]]></entry>
+    <entry id="str_vo_bad_starve_01_0"><![CDATA[La fame consumante inizia, rivoltando il corpo contro sé stesso, indebolendo la mente.]]></entry>
+    <entry id="str_vo_bad_starve_02_0"><![CDATA[Fallire per una cosa così piccola... un tozzo di pane!]]></entry>
     <entry id="str_vo_bad_starve_03_0"><![CDATA[Mucchi di acciaio e guerra, ma nessuno che pensi all'aratro!]]></entry>
     <entry id="str_vo_bad_starve_04_0"><![CDATA[Nessuna forza di volontà può prevalere su un corpo debole.]]></entry>
-    <entry id="str_vo_bad_starve_05_0"><![CDATA[Con lo stomaco vuoto non si possono s
- oddisfare i requisiti della sopravvivenza.]]></entry>
+    <entry id="str_vo_bad_starve_05_0"><![CDATA[Con lo stomaco vuoto non si possono
+ soddisfare i requisiti della sopravvivenza.]]></entry>
     <entry id="str_vo_bad_torchlight_01_0"><![CDATA[L'oscurità cela avversità molto peggiori dei
  semplici inganni e dei mostri immaginari.]]></entry>
     <entry id="str_vo_bad_torchlight_02_0"><![CDATA[L'oscurità si avvicina, tormentando i cuori degli uomini.]]></entry>
@@ -2878,7 +2878,7 @@
  delle conseguenze della corruzione!]]></entry>
     <entry id="str_vo_bad_weald_boss_alt_0"><![CDATA[Una meraviglia della tecnologia; un motore di distruzione!]]></entry>
     <entry id="str_vo_crimson_court_shared_collector_kill_01_0"><![CDATA[Mentre la nefasta calca si sparpaglia, i topi si preparano a festeggiare.]]></entry>
-    <entry id="str_vo_crimson_court_shared_collector_kill_02_0"><![CDATA[Un predatore è spesso incurante del pericolo in cui mette se stesso.]]></entry>
+    <entry id="str_vo_crimson_court_shared_collector_kill_02_0"><![CDATA[Un predatore è spesso incurante del pericolo in cui mette sé stesso.]]></entry>
     <entry id="str_vo_crimson_court_shared_collector_spawn_01_0"><![CDATA[Facce deformate di dannati ammucchiati e ammantati di cattiveria!]]></entry>
     <entry id="str_vo_crimson_court_shared_collector_spawn_02_0"><![CDATA[Alla gioventù brillano gli occhi, ma sono occhi promiscui e spietati!]]></entry>
     <entry id="str_vo_crimson_court_shared_heal_01_0"><![CDATA[La compassione è una rarità, nel bel mezzo di una battaglia.]]></entry>
@@ -2920,7 +2920,7 @@
     <entry id="str_vo_epilog_11"><![CDATA[Schiudendosi da questo fragile guscio
  di terra e roccia,]]></entry>
     <entry id="str_vo_epilog_12"><![CDATA[e conducendoci, inesorabilmente, verso la nostra fine.]]></entry>
-    <entry id="str_vo_epilog_13"><![CDATA[Cerca, ordunque, la consolazione in una maniera
+    <entry id="str_vo_epilog_13"><![CDATA[Cerca, or dunque, la consolazione in una maniera
  consona al tuo lignaggio,]]></entry>
     <entry id="str_vo_epilog_14"><![CDATA[e dedicati alla tua futile veglia,]]></entry>
     <entry id="str_vo_epilog_15"><![CDATA[per sempre nella trappola di quella
@@ -2939,7 +2939,7 @@
     <entry id="str_vo_epilog_9"><![CDATA[Finché le stelle non si allineeranno nella loro
  formazione inesorabile]]></entry>
     <entry id="str_vo_good_affliction_pass_01_0"><![CDATA[Un momento di coraggio splende più luminosamente su uno sfondo di disperazione.]]></entry>
-    <entry id="str_vo_good_boss_kill_01_0"><![CDATA[Anche le oosa rianimate possono cadere; anche i morti possono morire ancora.]]></entry>
+    <entry id="str_vo_good_boss_kill_01_0"><![CDATA[Anche le ossa rianimate possono cadere; anche i morti possono morire ancora.]]></entry>
     <entry id="str_vo_good_camp_01_0"><![CDATA[Un attimo di tregua, la possibilità 
  di prepararsi agli orrori in arrivo.]]></entry>
     <entry id="str_vo_good_camp_02_0"><![CDATA[Una scintilla senza legna da ardere è come un obiettivo senza speranza.]]></entry>
@@ -3034,7 +3034,7 @@
     <entry id="str_vo_good_victory_first_06_0"><![CDATA[Attenti - l'orgoglio trionfante precipita vertiginosamente...]]></entry>
     <entry id="str_vo_good_victory_first_07_0"><![CDATA[Macabri orrori, scagliati giù in mezzo al fango!]]></entry>
     <entry id="str_vo_good_victory_first_08_0"><![CDATA[Cogli l'attimo, insisti fino alla fine del lavoro!]]></entry>
-    <entry id="str_vo_good_victory_first_09_0"><![CDATA[Il successo, così chiaramente visibile. Oppure è soltanto un' illusione ottica?]]></entry>
+    <entry id="str_vo_good_victory_first_09_0"><![CDATA[Il successo, così chiaramente visibile. Oppure è soltanto un'illusione ottica?]]></entry>
     <entry id="str_vo_good_virtue_focused_0"><![CDATA[Un momento di lucidità nell'occhio del ciclone...]]></entry>
     <entry id="str_vo_good_virtue_powerful_0"><![CDATA[La rabbia è potere - scatenala!]]></entry>
     <entry id="str_vo_good_virtue_stalwart_0"><![CDATA[In molti cadono guardando il caos; ma non lui, non oggi.]]></entry>
@@ -3169,7 +3169,7 @@
     <entry id="str_vo_load_crypts_02_2"><![CDATA[Dopo aver imparato il più possibile dai miei ospiti,
  li ho assassinati nel sonno.]]></entry>
     <entry id="str_vo_load_crypts_03_0"><![CDATA[Ho rianimato i miei colleghi con gran parte del loro intelletto intatto,
- un grande successo anche per il necromante più esperto.]]></entry>
+ un grande successo anche per il negromante più esperto.]]></entry>
     <entry id="str_vo_load_crypts_03_1"><![CDATA[Liberati dal peso della loro umanità, hanno accettato il loro
  nuovo destino: morti che resuscitano morti, anno dopo anno...]]></entry>
     <entry id="str_vo_load_crypts_03_2"><![CDATA[Per sempre.]]></entry>
@@ -3285,7 +3285,7 @@
  venire abbattute, possono essere vinte!]]></entry>
     <entry id="str_vo_narr_neutral_quest_start_01_0"><![CDATA[Il male percorre queste sale...
  Solo i pazzi o i disperati lo cercheranno.]]></entry>
-    <entry id="str_vo_neutral_cove_activate_0"><![CDATA[La flaccide creature-pesce aborrono i sigilli difensivi
+    <entry id="str_vo_neutral_cove_activate_0"><![CDATA[Le flaccide creature-pesce aborrono i sigilli difensivi
  sopra ogni cosa. Reclamiamo questo posto!]]></entry>
     <entry id="str_vo_neutral_cove_cleanse_0"><![CDATA[Queste caverne incrostate di sale pullulano
  di incubi marittimi. Spazzali via!]]></entry>
@@ -3303,7 +3303,7 @@
  smarriti e porta conforto alle masse.]]></entry>
     <entry id="str_vo_neutral_crypts_kill_alt_0"><![CDATA[Gli echi di queste risatine folli rimbombano senza sosta...
  Devono tacere al più presto!]]></entry>
-    <entry id="str_vo_neutral_darkest_01_hall_0"><![CDATA[I sangue dei caduti scorre senza sosta attraverso questi pinnacoli
+    <entry id="str_vo_neutral_darkest_01_hall_0"><![CDATA[Il sangue dei caduti scorre senza sosta attraverso questi pinnacoli
  titanici, e la creatura si nutre dei nostri fallimenti...]]></entry>
     <entry id="str_vo_neutral_darkest_01_loading_0"><![CDATA[Ancora una volta, le stelle hanno ragione, e la magione
  giace all'epicentro dell'agitazione cosmica.]]></entry>
@@ -3421,7 +3421,7 @@
     <entry id="str_vo_town_backstory_17_0"><![CDATA[Scavammo per mesi, anni - un'eternità.
  E fummo ripagati con la pazzia.]]></entry>
     <entry id="str_vo_town_backstory_18_0"><![CDATA[La piuma e la pistola - la giusta fine per la 
- mia follia, ed una maledizone per tutti noi]]></entry>
+ mia follia, ed una maledizione per tutti noi]]></entry>
     <entry id="str_vo_town_backstory_19_0"><![CDATA[Tutti gli orrori che ho visto impallidiscono al confronto
  di quello che non ho osato guardare...]]></entry>
     <entry id="str_vo_town_backstory_20_0"><![CDATA[Riesci a sentirlo? i muri tra il mondo normale e quella 
@@ -3429,7 +3429,7 @@
     <entry id="str_vo_town_backstory_21_0"><![CDATA[Per tutta la vita, ho sentito questo insistente 
  tormento in un angolo della mia mente.]]></entry>
     <entry id="str_vo_town_backstory_21_1"><![CDATA[Era un desiderio, una sete di scoperta 
- che non poteva essere addormentata nè saziata.]]></entry>
+ che non poteva essere addormentata ne saziata.]]></entry>
     <entry id="str_vo_town_backstory_22_0"><![CDATA[Una vita di inutile sacrificio - la penitenza 
  per i miei indicibili peccati]]></entry>
     <entry id="str_vo_town_dismiss_general_01_0"><![CDATA[Un' altra anima maltrattata e spezzata. Messo da parte come una torcia consumata.]]></entry>
@@ -3437,7 +3437,7 @@
     <entry id="str_vo_town_dismiss_general_03_0"><![CDATA[Mandalo altrove:
  qui servono elementi di tempra più dura.]]></entry>
     <entry id="str_vo_town_dismiss_general_04_0"><![CDATA[Non accettare né il cavallo zoppo, né l'uomo distrutto.]]></entry>
-    <entry id="str_vo_town_dismiss_general_05_0"><![CDATA[E' rimasta appena una traccia di lui. Inutilizzabile.]]></entry>
+    <entry id="str_vo_town_dismiss_general_05_0"><![CDATA[È rimasta appena una traccia di lui. Inutilizzabile.]]></entry>
     <entry id="str_vo_town_dismiss_general_06_0"><![CDATA[Il compito che ci attende è terribile, e la debolezza non può essere tollerata.]]></entry>
     <entry id="str_vo_town_dismiss_general_07_0"><![CDATA[Ormai è fatta. Concentrati sulla condizione
  dei poveri diavoli che rimangono.]]></entry>
@@ -3454,7 +3454,7 @@
     <entry id="str_vo_town_event_dead_recruit_02_0"><![CDATA[La vita... il più grande tesoro.]]></entry>
     <entry id="str_vo_town_event_dead_recruit_03_0"><![CDATA[Né riposo, né pace per questa misera anima.]]></entry>
     <entry id="str_vo_town_event_embark_party_buff_affliction_chance_0"><![CDATA[Le menti dei tuoi uomini sono impantanate nelle maldicenze: la paura ha messo radici!]]></entry>
-    <entry id="str_vo_town_event_embark_party_buff_cove_buff_0"><![CDATA[La acque schiumose si placano; il vantaggio è nostro!]]></entry>
+    <entry id="str_vo_town_event_embark_party_buff_cove_buff_0"><![CDATA[Le acque schiumose si placano; il vantaggio è nostro!]]></entry>
     <entry id="str_vo_town_event_embark_party_buff_crypts_buff_0"><![CDATA[I morti striscianti tacciono, abbiamo ottenuto nuovamente il dominio sulle Rovine!]]></entry>
     <entry id="str_vo_town_event_embark_party_buff_virtue_chance_0"><![CDATA[Un'ondata di ferrea determinazione si diffonde negli accampamenti come una febbre.]]></entry>
     <entry id="str_vo_town_event_embark_party_buff_warrens_buff_0"><![CDATA[Le intricate gallerie non esalano più il tanfo velenoso della perversione ...]]></entry>
@@ -3465,7 +3465,7 @@
     <entry id="str_vo_town_event_free_sanitarium_0"><![CDATA[La prevalenza di ferite insolite ed esotiche rende questo luogo perfetto per lo studio della sofferenza.]]></entry>
     <entry id="str_vo_town_event_free_tavern_0"><![CDATA[Morte e rovina, motivi per celebrare!]]></entry>
     <entry id="str_vo_town_event_idle_resolve_level_abomination_0"><![CDATA[L'uomo è schiavo della bestia e la bestia è schiava della luna.]]></entry>
-    <entry id="str_vo_town_event_idle_resolve_level_arbalest_0"><![CDATA[La competizione affina l'abilità e la fiducia in se stessi...]]></entry>
+    <entry id="str_vo_town_event_idle_resolve_level_arbalest_0"><![CDATA[La competizione affina l'abilità e la fiducia in sé stessi...]]></entry>
     <entry id="str_vo_town_event_idle_resolve_level_grave_robber_0"><![CDATA[Per un ladro intraprendente i sepolcri sono solo... questioni transitorie.]]></entry>
     <entry id="str_vo_town_event_idle_resolve_level_highwayman_0"><![CDATA[Le ombre nascondono sia le colpe che i colpevoli...]]></entry>
     <entry id="str_vo_town_event_idle_resolve_level_houndmaster_0"><![CDATA[Eretici e rivoltosi si nascondono nei vicoli: devono essere trovati!]]></entry>
@@ -3490,7 +3490,7 @@
     <entry id="str_vo_town_event_upgrade_tag_free_armour_0"><![CDATA[Un magnifico esempio di maestria... e futilità.]]></entry>
     <entry id="str_vo_town_event_upgrade_tag_free_building_upgrade_0"><![CDATA[Persino questi luridi babbei servono a qualcosa: metteteli al lavoro!]]></entry>
     <entry id="str_vo_town_event_upgrade_tag_free_weapon_0"><![CDATA[Un raffinato strumento di carneficina e massacro: a vostra disposizione.]]></entry>
-    <entry id="str_vo_town_recruit_abomination_0"><![CDATA[Torturato e solitario, quest'uomo è piu pericoloso di come sembra.]]></entry>
+    <entry id="str_vo_town_recruit_abomination_0"><![CDATA[Torturato e solitario, quest'uomo è più pericoloso di come sembra.]]></entry>
     <entry id="str_vo_town_recruit_antiquarian_0"><![CDATA[Cerca dove gli altri non cercano,
  vede ciò che gli altri non vedono.]]></entry>
     <entry id="str_vo_town_recruit_arbalest_0"><![CDATA[Spara, benda e saccheggia - i passi di danza della guerra!]]></entry>
@@ -3502,7 +3502,7 @@
     <entry id="str_vo_town_recruit_hellion_0"><![CDATA[Rabbia barbarica ed inarrestabile brutalità 
  ne fanno un potente alleato.]]></entry>
     <entry id="str_vo_town_recruit_highwayman_0"><![CDATA[Sfuggente, evasivo, tenace - ottime caratteristiche, per un brigante.]]></entry>
-    <entry id="str_vo_town_recruit_houndmaster_0"><![CDATA[Un uomo di legge e la sua fedele bestia - un legame forgiato dal sangue e dalla caneficina.]]></entry>
+    <entry id="str_vo_town_recruit_houndmaster_0"><![CDATA[Un uomo di legge e la sua fedele bestia: un legame forgiato dal sangue e dalla carneficina.]]></entry>
     <entry id="str_vo_town_recruit_jester_0"><![CDATA[Starà ancora ridendo, alla fine.]]></entry>
     <entry id="str_vo_town_recruit_leper_0"><![CDATA[Quest'uomo capisce che avversità 
  ed esistenza sono la stessa cosa.]]></entry>
@@ -3523,7 +3523,7 @@
     <entry id="str_vo_town_upgrade_camping_trainer_01_0"><![CDATA[Da solo nei boschi o nelle gallerie, sopravvivere
  è la stessa cosa. Preparati, persisti, e prevali.]]></entry>
     <entry id="str_vo_town_upgrade_camping_trainer_02_0"><![CDATA[Devono imparare più che massacrare brutalmente 
- devono impaarare a sopravvivere!]]></entry>
+ devono imparare a sopravvivere!]]></entry>
     <entry id="str_vo_town_upgrade_camping_trainer_03_0"><![CDATA[Il successo dipende dalla sopravvivenza.]]></entry>
     <entry id="str_vo_town_upgrade_guild_01_0"><![CDATA[Alcuni possono cadere, ma la loro conoscenza continua a vivere.]]></entry>
     <entry id="str_vo_town_upgrade_guild_02_0"><![CDATA[Ogni creatura ha una debolezza. L'eroe saggio
@@ -3630,7 +3630,7 @@
     <entry id="town_event_description_bonus_recruit_vestal"><![CDATA[Le Sorelle di Santa Martha celebreranno gli uffizi con un coro di Noi Siamo La Fiamma," dopodiché accoglieranno le confessioni nella sala secondaria."]]></entry>
     <entry id="town_event_description_dead_recruit"><![CDATA[Per una ripugnante maledizione o un prodigio maligno, sembra che anche in questo luogo dannato si possa sfuggire alla morte. Solo UNO di questi soldati può tornare tra i vivi...]]></entry>
     <entry id="town_event_description_embark_party_buff_affliction_chance"><![CDATA[Abbattimento e incertezza aleggiano nel vento. Molti avventurieri confessano di sentirsi a disagio, anche qui nella relativa sicurezza del Borgo.]]></entry>
-    <entry id="town_event_description_embark_party_buff_cove_buff"><![CDATA[Quest'oggi i marinai superstiziosi gioivano alla notizia che gli innobinabili orrori sovrannaturali hanno cessato di minacciare il loro carico.]]></entry>
+    <entry id="town_event_description_embark_party_buff_cove_buff"><![CDATA[Quest'oggi i marinai superstiziosi gioivano alla notizia che gli innominabili orrori sovrannaturali hanno cessato di minacciare il loro carico.]]></entry>
     <entry id="town_event_description_embark_party_buff_crypts_buff"><![CDATA[Le notizie dalle cascine sulle colline confermano un sollievo dall'aria di turbamento che circondava e proveniva dalle vecchie Rovine.]]></entry>
     <entry id="town_event_description_embark_party_buff_virtue_chance"><![CDATA[Erano un gruppo terrificante: denti stretti e sguardi distanti; e tra di loro, un indistruttibile legame di solidarietà.]]></entry>
     <entry id="town_event_description_embark_party_buff_warrens_buff"><![CDATA[I residenti della zona ovest hanno espresso sollievo per la diminuzione del fetore nauseante che proveniva dagli antichi acquedotti.]]></entry>
@@ -3645,7 +3645,7 @@
     <entry id="town_event_description_idle_resolve_level_grave_robber"><![CDATA[La cosa più strana è l'assenza di prove all'interno della cripta. Tuttavia il forziere è stato trovato aperto e completamente vuoto.]]></entry>
     <entry id="town_event_description_idle_resolve_level_highwayman"><![CDATA[Nella conseguente rissa, due degli uomini sono fuggiti e sono ora latitanti. Sono da ritenersi armati. pericolosi e disperati.]]></entry>
     <entry id="town_event_description_idle_resolve_level_houndmaster"><![CDATA[Le minacce alla sicurezza collettiva non vengono mai meno, ma questa settimana la gendarmeria locale ha accolto una gradita aggiunta...]]></entry>
-    <entry id="town_event_description_idle_resolve_level_jester"><![CDATA[La musica è dannatamente familiare, ma stranamente insolita. E' il prodotto di qualche strana accordatura, o di una sovrumana qualità nelle mani del bardo?]]></entry>
+    <entry id="town_event_description_idle_resolve_level_jester"><![CDATA[La musica è dannatamente familiare, ma stranamente insolita. È il prodotto di qualche strana accordatura, o di una sovrumana qualità nelle mani del bardo?]]></entry>
     <entry id="town_event_description_idle_resolve_level_man_at_arms"><![CDATA[Il Sergente veterano darà prova del regime di addestramento nella Sala della Gilda ogni notte della prossima settimana. Gli interessati a sopravvivere sono invitati ad assistere.]]></entry>
     <entry id="town_event_description_idle_resolve_level_plague_doctor"><![CDATA[L'ombra di pestilenza e malattia si è abbattuta sul nostro Borgo, e con essa il panico.]]></entry>
     <entry id="town_event_description_idle_stress_heal_buff"><![CDATA[...e mentre la campagna si protrae, eventi recenti hanno rincuorato i nostri ranghi. Ci giunge voce che il morale non è mai stato così alto.]]></entry>
@@ -3760,7 +3760,7 @@
     <entry id="town_provision_no_trinkets_equipped"><![CDATA[Non tutti i membri del tuo gruppo hanno equipaggiato degli accessori. Vuoi intraprendere comunque la missione?]]></entry>
     <entry id="town_provision_not_enough_food_confirm_format"><![CDATA[Non hai acquistato molto cibo per la spedizione. È consigliabile portare almeno %d unità di cibo per questa missione. Vuoi intraprenderla comunque?]]></entry>
     <entry id="town_quest_description_cleanse+1+cove+battle_all_rooms"><![CDATA[Un pesce su due game? Appurate la forza di questa nuova minaccia.]]></entry>
-    <entry id="town_quest_description_cleanse+1+crypts+battle_all_rooms"><![CDATA[Abomini empi ritorcono la Luce contro se stessa. Affrontateli in battaglia e imparate come combattono.]]></entry>
+    <entry id="town_quest_description_cleanse+1+crypts+battle_all_rooms"><![CDATA[Abomini empi ritorcono la Luce contro sé stessa. Affrontateli in battaglia e imparate come combattono.]]></entry>
     <entry id="town_quest_description_cleanse+1+warrens+battle_all_rooms"><![CDATA[Una missione di perlustrazione in un delirante reame di gallerie. Scontratevi con il nemico in battaglia e poi riparatevi al sicuro con nuove informazioni.]]></entry>
     <entry id="town_quest_description_cleanse+1+weald+battle_all_rooms"><![CDATA[Respingete le creature e i banditi che minacciano il transito sulla Vecchia Strada.]]></entry>
     <entry id="town_quest_description_cleanse+2+cove+battle_all_rooms"><![CDATA[Invadete le loro acque e mostrate loro la forza della terraferma.]]></entry>
@@ -3791,8 +3791,8 @@
     <entry id="town_quest_description_inventory_activate+2+crypts+inventory_activate_corrupted_altar"><![CDATA[Gli empi abomini che abitano la cadente dimora hanno trasformato spiragli di Luce in ricettacoli della loro fede diabolica. Purificate questi altari con l'Essenza Consacrata e riportare la Luce.]]></entry>
     <entry id="town_quest_description_inventory_activate+2+warrens+inventory_activate_animalistic_shrine"><![CDATA[Gli uomini-bestia hanno eretto osceni e luridi santuari alle loro divinità pagane. Abbatteteli con i picconi e forza, fermate il loro culto!]]></entry>
     <entry id="town_quest_description_inventory_activate+2+weald+inventory_activate_infected_corpse"><![CDATA[Cadaveri ammorbati giacciono lungo la Vecchia Strada, ricettacoli di sporcizia e malattie. I viaggi da e verso il Borgo pongono una costante minaccia di infezioni. Distruggete questo morbo con il Balsamo Portentoso.]]></entry>
-    <entry id="town_quest_description_kill_boss+2+crypts+kill_necromancer"><![CDATA[Un Necromante sta officiando innominabili rituali nelle aule in rovina della vostra dimora ancestrale. Dev'essere fermato.]]></entry>
-    <entry id="town_quest_description_kill_boss+3+crypts+kill_necromancer"><![CDATA[Nelle profondità delle cadenti cripte della vostra dimora ancestrale, un Necromante sta officiando innominabili rituali... persino rianimare i morti! Deve essere fermato.]]></entry>
+    <entry id="town_quest_description_kill_boss+2+crypts+kill_necromancer"><![CDATA[Un Negromante sta officiando innominabili rituali nelle aule in rovina della vostra dimora ancestrale. Dev'essere fermato.]]></entry>
+    <entry id="town_quest_description_kill_boss+3+crypts+kill_necromancer"><![CDATA[Nelle profondità delle cadenti cripte della vostra dimora ancestrale, un Negromante sta officiando innominabili rituali... persino rianimare i morti! Deve essere fermato.]]></entry>
     <entry id="town_quest_description_plot_crow_trinket"><![CDATA[Colpiti dall'apparente valore dell'oggetto celato nel suo fetido piumaggio, gli astanti si domandarono se non fosse il caso di dirigersi verso il suo trespolo...]]></entry>
     <entry id="town_quest_description_plot_darkest_dungeon_1"><![CDATA[Il potere della creatura dilaga inesorabile. Recuperate le reliquie protettive dall'accampamento base abbandonato, ma attenti all'Orrore Strisciante.]]></entry>
     <entry id="town_quest_description_plot_darkest_dungeon_2"><![CDATA[La gestazione della creatura dev'essere interrotta! Sopraffate le forze di difesa e illuminate i nodi di potere - costringete la Cosa a rivelarsi prima che sia pronta!]]></entry>
@@ -3810,9 +3810,9 @@
     <entry id="town_quest_description_plot_kill_hag_1"><![CDATA[Ossa spezzate e pelli umane conciate sono le insegne di una ripugnate strega cannibale. In nome di ciò che è giusto, distruggetela.]]></entry>
     <entry id="town_quest_description_plot_kill_hag_2"><![CDATA[Ossa spezzate e pelli umane conciate sono le insegne di una ripugnate strega cannibale. In nome di ciò che è giusto, distruggetela.]]></entry>
     <entry id="town_quest_description_plot_kill_hag_3"><![CDATA[Ossa spezzate e pelli umane conciate sono le insegne di una ripugnate strega cannibale. In nome di ciò che è giusto, distruggetela.]]></entry>
-    <entry id="town_quest_description_plot_kill_necromancer_1"><![CDATA[Un Necromante sta officiando innominabili rituali nelle aule in rovina della vostra dimora ancestrale... Dev'essere fermato.]]></entry>
-    <entry id="town_quest_description_plot_kill_necromancer_2"><![CDATA[Un Necromante sta officiando innominabili rituali nelle aule in rovina della vostra dimora ancestrale... deve essere fermato.]]></entry>
-    <entry id="town_quest_description_plot_kill_necromancer_3"><![CDATA[Un Necromante sta officiando innominabili rituali nelle aule in rovina della vostra dimora ancestrale... Dev'essere fermato.]]></entry>
+    <entry id="town_quest_description_plot_kill_necromancer_1"><![CDATA[Un Negromante sta officiando innominabili rituali nelle aule in rovina della vostra dimora ancestrale... Dev'essere fermato.]]></entry>
+    <entry id="town_quest_description_plot_kill_necromancer_2"><![CDATA[Un Negromante sta officiando innominabili rituali nelle aule in rovina della vostra dimora ancestrale... deve essere fermato.]]></entry>
+    <entry id="town_quest_description_plot_kill_necromancer_3"><![CDATA[Un Negromante sta officiando innominabili rituali nelle aule in rovina della vostra dimora ancestrale... Dev'essere fermato.]]></entry>
     <entry id="town_quest_description_plot_kill_prophet_1"><![CDATA[Delirante pazzo, portatore di rovina, araldo dell'apocalisse. Qualsiasi sia il suo ruolo, c'è una perversione nei suoi furiosi sermoni che deve essere messa a tacere. Liberatevi di questo "Profeta".]]></entry>
     <entry id="town_quest_description_plot_kill_prophet_2"><![CDATA[Delirante pazzo, portatore di rovina, araldo dell'apocalisse. Qualsiasi sia il suo ruolo, c'è una perversione nei suoi furiosi sermoni che deve essere messa a tacere. Liberatevi di questo "Profeta".]]></entry>
     <entry id="town_quest_description_plot_kill_prophet_3"><![CDATA[Delirante pazzo, portatore di rovina, araldo dell'apocalisse. Qualsiasi sia il suo ruolo, c'è una perversione nei suoi furiosi sermoni che deve essere messa a tacere. Liberatevi di questo "Profeta".]]></entry>
@@ -3879,13 +3879,13 @@
     <entry id="town_quest_name_inventory_activate+2+crypts+inventory_activate_corrupted_altar"><![CDATA[Purificate gli Altari]]></entry>
     <entry id="town_quest_name_inventory_activate+2+warrens+inventory_activate_animalistic_shrine"><![CDATA[Abbattete i santuari]]></entry>
     <entry id="town_quest_name_inventory_activate+2+weald+inventory_activate_infected_corpse"><![CDATA[Disinfettate i cadaveri]]></entry>
-    <entry id="town_quest_name_kill_boss+2+crypts+kill_necromancer"><![CDATA[Uccidete il Necromante]]></entry>
-    <entry id="town_quest_name_kill_boss+3+crypts+kill_necromancer"><![CDATA[Date la caccia al Necromante]]></entry>
+    <entry id="town_quest_name_kill_boss+2+crypts+kill_necromancer"><![CDATA[Uccidete il Negromante]]></entry>
+    <entry id="town_quest_name_kill_boss+3+crypts+kill_necromancer"><![CDATA[Date la caccia al Negromante]]></entry>
     <entry id="town_quest_name_plot_crow_trinket"><![CDATA[Il tesoro dell'urlatore]]></entry>
     <entry id="town_quest_name_plot_darkest_dungeon_1"><![CDATA[Noi siamo la fiamma]]></entry>
     <entry id="town_quest_name_plot_darkest_dungeon_2"><![CDATA[Illuminare la strada]]></entry>
     <entry id="town_quest_name_plot_darkest_dungeon_3"><![CDATA[Il ventre della bestia]]></entry>
-    <entry id="town_quest_name_plot_darkest_dungeon_4"><![CDATA[L'inferono è nel cuore]]></entry>
+    <entry id="town_quest_name_plot_darkest_dungeon_4"><![CDATA[L'inferno è nel cuore]]></entry>
     <entry id="town_quest_name_plot_kill_brigand_cannon_1"><![CDATA[Distruggete il Cannone Brigante da 8 Libbre]]></entry>
     <entry id="town_quest_name_plot_kill_brigand_cannon_2"><![CDATA[Distruggete il Cannone Brigante da 12 Libbre]]></entry>
     <entry id="town_quest_name_plot_kill_brigand_cannon_3"><![CDATA[Distruggete il Cannone Brigante da 16 Libbre]]></entry>
@@ -3898,8 +3898,8 @@
     <entry id="town_quest_name_plot_kill_hag_1"><![CDATA[Uccidete la Vecchia Strega]]></entry>
     <entry id="town_quest_name_plot_kill_hag_2"><![CDATA[Uccidete la Strega]]></entry>
     <entry id="town_quest_name_plot_kill_hag_3"><![CDATA[Uccidete la Strega Cattiva]]></entry>
-    <entry id="town_quest_name_plot_kill_necromancer_1"><![CDATA[Uccidete l'Apprendista Necromante]]></entry>
-    <entry id="town_quest_name_plot_kill_necromancer_2"><![CDATA[Uccidete il Necromante]]></entry>
+    <entry id="town_quest_name_plot_kill_necromancer_1"><![CDATA[Uccidete l'Apprendista Negromante]]></entry>
+    <entry id="town_quest_name_plot_kill_necromancer_2"><![CDATA[Uccidete il Negromante]]></entry>
     <entry id="town_quest_name_plot_kill_necromancer_3"><![CDATA[Uccidete il Signore dei Necromanti]]></entry>
     <entry id="town_quest_name_plot_kill_prophet_1"><![CDATA[Uccidete il Profeta Roboante]]></entry>
     <entry id="town_quest_name_plot_kill_prophet_2"><![CDATA[Uccidete il Profeta Fulminante]]></entry>
@@ -3930,7 +3930,7 @@
     <entry id="town_quest_progress_plot_darkest_dungeon_1"><![CDATA[Noi siamo la fiamma]]></entry>
     <entry id="town_quest_progress_plot_darkest_dungeon_2"><![CDATA[Illuminare la strada]]></entry>
     <entry id="town_quest_progress_plot_darkest_dungeon_3"><![CDATA[Il ventre della bestia]]></entry>
-    <entry id="town_quest_progress_plot_darkest_dungeon_4"><![CDATA[L'inferono è nel cuore]]></entry>
+    <entry id="town_quest_progress_plot_darkest_dungeon_4"><![CDATA[L'inferno è nel cuore]]></entry>
     <entry id="town_quest_progress_plot_kill_brigand_cannon_1"><![CDATA[Uccidi il boss!]]></entry>
     <entry id="town_quest_progress_plot_kill_brigand_cannon_2"><![CDATA[Uccidi il boss!]]></entry>
     <entry id="town_quest_progress_plot_kill_brigand_cannon_3"><![CDATA[Uccidi il boss!]]></entry>
@@ -4036,7 +4036,7 @@
     <entry id="tutorial_popup_afflicted_title"><![CDATA[Afflitto!]]></entry>
     <entry id="tutorial_popup_antivenom_description"><![CDATA[Il tuo eroe è {colour_start|pop_text_poison}ammorbato{colour_end}!
  
- Se vuoi, puoi usare un {colour_start|notable}antidoto{colour_end} dal tuo inventario per neutralizzartlo. Fai {colour_start|town_activity_log_positive_result}[CLICK DESTRO]{colour_end} sull' {colour_start|notable}antidoto{colour_end} durante il turno dell'eroe ferito.]]></entry>
+ Se vuoi, puoi usare un {colour_start|notable}antidoto{colour_end} dal tuo inventario per neutralizzarlo. Fai {colour_start|town_activity_log_positive_result}[CLICK DESTRO]{colour_end} sull' {colour_start|notable}antidoto{colour_end} durante il turno dell'eroe ferito.]]></entry>
     <entry id="tutorial_popup_antivenom_title"><![CDATA[Cura Morbo]]></entry>
     <entry id="tutorial_popup_bandage_description"><![CDATA[Il tuo eroe si sta {colour_start|pop_text_bleed}dissanguando{colour_end}!
  
@@ -4044,12 +4044,12 @@
     <entry id="tutorial_popup_bandage_title"><![CDATA[Bendaggio]]></entry>
     <entry id="tutorial_popup_camping_description"><![CDATA[L'Accampamento consiste di due parti: {colour_start|notable}Fase del Pasto{colour_end} e {colour_start|notable}Fase delle Abilità{colour_end}.
  
- Durante la {colour_start|notable}la fase del Pasto{colour_end}, sceglie quanto cibo consumare, cosa che determina il recupero. Assicurati di avere abbastanza cibo!
+ Durante la {colour_start|notable}fase del Pasto{colour_end}, sceglie quanto cibo consumare, cosa che determina il recupero. Assicurati di avere abbastanza cibo!
  
  La {colour_start|notable}Fase delle Abilità{colour_end} ti permette di spendere {colour_start|notable}Punti Riposo{colour_end} sulle varie abilità degli eroi per il recupero.]]></entry>
-    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Questa missione comprende l' {colour_start|notable}Accampamento{colour_end}, e l'Accampamento richiede {colour_start|notable}legna da ardere{colour_end}. La legna da ardere è {colour_start|notable}assegnata automaticamente{colour_end} a seconda della missione.
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Questa missione comprende l'{colour_start|notable}Accampamento{colour_end}, e l'Accampamento richiede {colour_start|notable}legna da ardere{colour_end}. La legna da ardere è {colour_start|notable}assegnata automaticamente{colour_end} a seconda della missione.
  
- {colour_start|notable}L'Accampamento{colour_end} da agli eroi la possibilità di {colour_start|notable}riprendersi mentre si trovano nel dungeon{colour_end}. Quando sei ferito o stressato e vuoi accamparti, fai {colour_start|town_activity_log_positive_result}[CLICK DESTRO]{colour_end} sulla legna da ardere nel tuo inventario.]]></entry>
+ {colour_start|notable}L'Accampamento{colour_end} dà agli eroi la possibilità di {colour_start|notable}riprendersi mentre si trovano nel dungeon{colour_end}. Quando sei ferito o stressato e vuoi accamparti, fai {colour_start|town_activity_log_positive_result}[CLICK DESTRO]{colour_end} sulla legna da ardere nel tuo inventario.]]></entry>
     <entry id="tutorial_popup_camping_quest_title"><![CDATA[Legna da Ardere e Accampamento]]></entry>
     <entry id="tutorial_popup_camping_title"><![CDATA[I benefici dell'Accampamento]]></entry>
     <entry id="tutorial_popup_combat_description"><![CDATA[Il combattimento è {colour_start|notable}a turni{colour_end}. Durante il turno del tuo eroe, fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'icona di una abilità e poi fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su un bersaglio evidenziato.
@@ -4088,7 +4088,7 @@ Clicca su {colour_start|notable}[INTRAPRENDI]{colour_end} in fondo alla schermat
     <entry id="tutorial_popup_hallway_nav_title"><![CDATA[Movimento nei Corridoi]]></entry>
     <entry id="tutorial_popup_heart_attack_description"><![CDATA[Lo {colour_start|harmful}stress{colour_end} continua ad accumularsi oltre il punto di {colour_start|harmful}Afflizione{colour_end}.
  
- Se la barra dello stress di un eroe si riempie completamente una seconda volta, il loro {colour_start|harmful}cuore cederàt{colour_end}. Presta loro soccorso o ritirati al villaggio prima che succeda.
+ Se la barra dello stress di un eroe si riempie completamente una seconda volta, il loro {colour_start|harmful}cuore cederà{colour_end}. Presta loro soccorso o ritirati al villaggio prima che succeda.
  
  La morte ci attende tutti.]]></entry>
     <entry id="tutorial_popup_heart_attack_title"><![CDATA[I limiti del corpo: Infarto]]></entry>
@@ -4134,11 +4134,11 @@ Clicca su {colour_start|notable}[INTRAPRENDI]{colour_end} in fondo alla schermat
  
  Un eroe di basso {colour_start|notable}Livello di Risolutezza{colour_end} che tenta una missione di livello più alto crollerà rapidamente sotto lo stress inimmaginabile.]]></entry>
     <entry id="tutorial_popup_resolve_level_title"><![CDATA[Avanzamento di Livello!]]></entry>
-    <entry id="tutorial_popup_scout_hidden_door_description"><![CDATA[Un successo critico nell'esplorazione rivelerà a volte una{colour_start|notable}Stanza Segreta{colour_end}! Procedi fino alla casella contrassegnata con una stella e premi W" per entrare. Incredibili ricchezze e meraviglie aspettano coloro che sono provvisti di una {colour_start|notable}chiave{colour_end}..."]]></entry>
+    <entry id="tutorial_popup_scout_hidden_door_description"><![CDATA[Un successo critico nell'esplorazione rivelerà a volte una {colour_start|notable}Stanza Segreta{colour_end}! Procedi fino alla casella contrassegnata con una stella e premi W" per entrare. Incredibili ricchezze e meraviglie aspettano coloro che sono provvisti di una {colour_start|notable}chiave{colour_end}..."]]></entry>
     <entry id="tutorial_popup_scout_hidden_door_title"><![CDATA[Stanze Segrete]]></entry>
     <entry id="tutorial_popup_selling_trinkets_description"><![CDATA[Puoi rivendere Ornamenti indesiderati dal tuo Inventario degli Ornamenti e guadagnare del denaro. Apri l'Inventario degli Ornamenti e fai [SHIFT-CLICK] su qualsiasi Ornamento indesiderato.]]></entry>
     <entry id="tutorial_popup_selling_trinkets_title"><![CDATA[Rivendere Ornamenti]]></entry>
-    <entry id="tutorial_popup_stage_coach_title"><![CDATA[La Diligenza è la tue fonte di eroi]]></entry>
+    <entry id="tutorial_popup_stage_coach_title"><![CDATA[La Diligenza è la tua fonte di eroi]]></entry>
     <entry id="tutorial_popup_stress_description"><![CDATA[Molte azioni ed esperienze causano {colour_start|harmful}{colour_start|stressNOT1}stress{colour_end}{colour_end}. Il danno da {colour_start|harmful}{colour_start|stressNOT1}stress{colour_end}{colour_end} viene indicato sopra le teste degli eroi in nero. Lo {colour_start|harmful}{colour_start|stressNOT1}stress{colour_end}{colour_end} può essere anche {colour_start|notable}curato{colour_end}, e in quel caso viene indicato in bianco.]]></entry>
     <entry id="tutorial_popup_stress_relief_description"><![CDATA[Gli eroi recuperano {colour_start|stressNOT1}stress{colour_end} prendendo parte ad attività nella {colour_start|notable}Taverna{colour_end} e nella {colour_start|notable}Abbazia{colour_end}. Ogni attività ha effetti collaterali diversi.
  
@@ -4234,7 +4234,7 @@ Questa condizione di potenziamento dura finché non accumuleranno grandi quantit
     <entry id="abomination+str_monster_user_selected_targets_kill_pill"><![CDATA[Qualsiasi cosa ci aspetti, non può essere peggio di quello che ho sofferto.]]></entry>
     <entry id="antiquarian+str_monster_user_selected_targets_kill_pill"><![CDATA[Quindi il reperto definitivo sono io, eppure non ci rimarrà nulla da recuperare...]]></entry>
     <entry id="arbalest+str_monster_user_selected_targets_kill_pill"><![CDATA[No ti prego! Non voglio morire!]]></entry>
-    <entry id="bounty_hunter+str_monster_user_selected_targets_kill_pill"><![CDATA[...mh.]]></entry>
+    <entry id="bounty_hunter+str_monster_user_selected_targets_kill_pill"><![CDATA[...mmm.]]></entry>
     <entry id="crusader+str_monster_user_selected_targets_kill_pill"><![CDATA[Empia lordura! Ti porterò con me nella tomba!]]></entry>
     <entry id="grave_robber+str_monster_user_selected_targets_kill_pill"><![CDATA[Una signora rispettabile non si offre volontaria per una carneficina!]]></entry>
     <entry id="hellion+str_monster_user_selected_targets_kill_pill"><![CDATA[E allora mandami all'inferno! AAAKYLORAAAHHH!]]></entry>
