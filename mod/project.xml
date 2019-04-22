@@ -8,8 +8,8 @@
 	<UpdateDetails/>
 	<Visibility>public</Visibility>
 	<UploadMode>direct_upload</UploadMode>
-	<VersionMajor>0</VersionMajor>
-	<VersionMinor>7</VersionMinor>
+	<VersionMajor>1</VersionMajor>
+	<VersionMinor>0</VersionMinor>
 	<TargetBuild>24787</TargetBuild>
 	<Tags>
 		<Tags>UI</Tags>
