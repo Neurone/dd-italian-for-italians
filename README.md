@@ -14,7 +14,7 @@ Modificare i file all'interno della cartella 'mod'
 
 ## Come effettuo l'upload del mod su Steam
 
-Se volete creare il vostro mod, potete utilizzare la guida ufficiale: https://steamcommunity.com/sharedfiles/filedetails/?id=819597757
+Se volete creare il vostro mod, potete utilizzare la guida ufficiale [Darkest Dungeon - Modding Guide [Official]](https://steamcommunity.com/sharedfiles/filedetails/?id=819597757)
 
 Di seguito invece i passi che effettuo come proprietario del mod per aggiornarlo.
 
