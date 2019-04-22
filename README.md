@@ -12,20 +12,18 @@ NOTA: Poiché i mod installati via Steam vengono applicati solamente dopo che si
 
 Modificare i file all'interno della cartella 'mod'
 
-Andare nella cartella
+## Come effettuo l'upload del mod su Steam
 
-D:\Giochi\Steam\SteamApps\common\DarkestDungeon\_windows
+Se volete creare il vostro mod, potete utilizzare la guida ufficiale: https://steamcommunity.com/sharedfiles/filedetails/?id=819597757
 
-e fare l'upload del mod con il seguente comando:
+Di seguito invece i passi che effettuo come proprietario del mod per aggiornarlo.
 
-steam_workshop_upload.exe "d:\Sviluppo\Darkest Dungeon\Italiano per italiani\mod\project.xml"
+Dalla cartella `D:\Giochi\Steam\SteamApps\common\DarkestDungeon\_windows` eseguo il comando:
 
-NOTA: il programma di upload creerà da solo i file .loc necessari
+`steam_workshop_upload.exe "d:\Sviluppo\dd-italian-for-italians\mod\project.xml"`
 
-Seguire la guida di seguito per più dettagli:
+Il programma di upload creerà da solo i file .loc necessari.
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=819597757
-
-NOTA: Inserisco dentro "mod" tutto il progetto altrimenti viene caricato anche la cartella git el repo
-
-Le modifiche alla descrizione del mod è più comodo farle da Steam direttamente, per questo il tag <ItemDescription> dentro il file project.xml è vuoto
+### Note varie
+- Inserisco dentro "mod" tutto il progetto altrimenti Steam carica anche la cartella git nel repo.
+- Le modifiche alla descrizione del mod è più comodo farle da Steam direttamente, per questo il tag <ItemDescription> dentro il file project.xml è vuoto
