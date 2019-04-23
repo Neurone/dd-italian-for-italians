@@ -9,7 +9,7 @@
 	<Visibility>public</Visibility>
 	<UploadMode>direct_upload</UploadMode>
 	<VersionMajor>1</VersionMajor>
-	<VersionMinor>0</VersionMinor>
+	<VersionMinor>1</VersionMinor>
 	<TargetBuild>24787</TargetBuild>
 	<Tags>
 		<Tags>UI</Tags>
