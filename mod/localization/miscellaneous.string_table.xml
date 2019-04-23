@@ -11,10 +11,10 @@
     <entry id="[pc]str_help_town_3"><![CDATA[FUCINA: potenzia armi e armature degli eroi]]></entry>
     <entry id="[pc]str_help_town_4"><![CDATA[GILDA: potenzia le abilità di combattimento degli eroi]]></entry>
     <entry id="[pc]str_help_town_5"><![CDATA[SOPRAVVITORIO: potenzia le abilità di campeggio degli eroi]]></entry>
-    <entry id="[pc]str_help_town_6"><![CDATA[TAVERNA: allevia lo {colour_start|stressNOT1}stress{colour_end} degli eroi.]]></entry>
-    <entry id="[pc]str_help_town_7"><![CDATA[ABBAZIA: allevia lo {colour_start|stressNOT1}stress{colour_end} degli eroi.]]></entry>
-    <entry id="[pc]str_help_town_8"><![CDATA[FRENOCOMIO: cura malattie e ossessioni dell'eroe.]]></entry>
-    <entry id="[pc]str_help_town_9"><![CDATA[CARRO DEI NOMADI: acquista oggetti rari.]]></entry>
+    <entry id="[pc]str_help_town_6"><![CDATA[TAVERNA: allevia lo {colour_start|stressNOT1}stress{colour_end} degli eroi]]></entry>
+    <entry id="[pc]str_help_town_7"><![CDATA[ABBAZIA: allevia lo {colour_start|stressNOT1}stress{colour_end} degli eroi]]></entry>
+    <entry id="[pc]str_help_town_8"><![CDATA[FRENOCOMIO: cura malattie e ossessioni dell'eroe]]></entry>
+    <entry id="[pc]str_help_town_9"><![CDATA[CARRO DEI NOMADI: acquista oggetti rari]]></entry>
     <entry id="action_select_hero"><![CDATA[Trascina qui un eroe dai ranghi.]]></entry>
     <entry id="action_verbose_body_camping_trainer_bounty_hunter"><![CDATA[Nel campo base, così come in combattimento, la forza del Cacciatore di taglie risiede nella preparazione. Può dedicarsi allo studio dei suoi appunti per incrementare le probabilità di vittoria contro i tipici nemici, o perfino contro avversari più ostici. Esplorazione avverte il gruppo delle trappole, mentre Pedinamento aumenta la probabilità di cogliere di sorpresa il nemico.]]></entry>
     <entry id="activity_assign_attempt_fail"><![CDATA[ASSEGNAZIONE ATTIVITÀ FALLITA:]]></entry>
@@ -46,8 +46,8 @@
     <entry id="buff_bsrc_trinket_set"><![CDATA[Set di accessori]]></entry>
     <entry id="buff_bsrc_trinket_additional_effect"><![CDATA[Accessori]]></entry>
     <entry id="buff_bsrc_virtue"><![CDATA[{colour_start|virtue}Virtù{colour_end}]]></entry>
-    <entry id="buff_description_campingAttackBuff"><![CDATA[Aumenta PREC fino al prossimo Accampamento]]></entry>
-    <entry id="buff_description_campingAttackBuffRanged"><![CDATA[Aumenta PREC con attacchi a distanza fino al prossimo Accampamento]]></entry>
+    <entry id="buff_description_campingAttackBuff"><![CDATA[Aumenta PRECISIONE fino al prossimo Accampamento]]></entry>
+    <entry id="buff_description_campingAttackBuffRanged"><![CDATA[Aumenta PRECISIONE con attacchi a distanza fino al prossimo Accampamento]]></entry>
     <entry id="buff_description_campingCritBuff"><![CDATA[Aumenta CRITICO fino al prossimo Accampamento]]></entry>
     <entry id="buff_description_campingCritBuffRanged"><![CDATA[Aumenta CRITICO con attacchi a distanza fino al prossimo Accampamento]]></entry>
     <entry id="buff_description_campingDefBuff"><![CDATA[Aumenta SCHIVATA fino al prossimo Accampamento]]></entry>
@@ -55,8 +55,8 @@
     <entry id="buff_description_campingDmgPercentBuffLargeMonsters"><![CDATA[Aumenta DANNO contro mostri grossi fino al prossimo Accampamento]]></entry>
     <entry id="buff_description_campingDmgPercentBuffRanged"><![CDATA[Aumenta DANNO Attacchi a Distanza fino al prossimo Accampamento]]></entry>
     <entry id="buff_description_campingHPPercentBuff"><![CDATA[Aumenta PF fino al prossimo Accampamento]]></entry>
-    <entry id="buff_description_campingProtPercentBuff"><![CDATA[Aumenta PRT fino al prossimo Accampamento]]></entry>
-    <entry id="buff_description_campingSpeedBuff"><![CDATA[Aumenta VEL fino al prossimo Accampamento]]></entry>
+    <entry id="buff_description_campingProtPercentBuff"><![CDATA[Aumenta PROTEZIONE fino al prossimo Accampamento]]></entry>
+    <entry id="buff_description_campingSpeedBuff"><![CDATA[Aumenta VELOCITÀ fino al prossimo Accampamento]]></entry>
     <entry id="buff_description_campingStressResistBuff"><![CDATA[Aumenta Risolutezza fino al prossimo Accampamento]]></entry>
     <entry id="buff_rule_data_tooltip_bar"><![CDATA[Bancone]]></entry>
     <entry id="buff_rule_data_tooltip_beast"><![CDATA[Bestia]]></entry>
@@ -128,23 +128,23 @@
     <entry id="buff_stat_tooltip_activity_side_effect_chance_add_trinket"><![CDATA[Aumenta le probabilità di vincere accessori.]]></entry>
     <entry id="buff_stat_tooltip_activity_side_effect_chance_remove_currency"><![CDATA[Aumenta le probabilità di perdere oro.]]></entry>
     <entry id="buff_stat_tooltip_activity_side_effect_chance_remove_trinket"><![CDATA[Aumenta le probabilità di perdere accessori.]]></entry>
-    <entry id="buff_stat_tooltip_actor_combat_stat_add_protection_rating"><![CDATA[%+d%% PRT]]></entry>
+    <entry id="buff_stat_tooltip_actor_combat_stat_add_protection_rating"><![CDATA[%+d%% PROTEZIONE]]></entry>
     <entry id="buff_stat_tooltip_bleed_chance"><![CDATA[%+d%% possibilità di {colour_start|bleed}Dissanguamento{colour_end}]]></entry>
-    <entry id="buff_stat_tooltip_combat_stat_add_attack_rating"><![CDATA[%+d PREC]]></entry>
+    <entry id="buff_stat_tooltip_combat_stat_add_attack_rating"><![CDATA[%+d PRECISIONE]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_crit_chance"><![CDATA[%+d%% CRITICO]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_damage_low"><![CDATA[%+d%% DANNO]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_defense_rating"><![CDATA[%+d SCHIVATA]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_add_max_hp"><![CDATA[%+d PF MAX]]></entry>
-    <entry id="buff_stat_tooltip_combat_stat_add_protection_rating"><![CDATA[%+d%% PRT]]></entry>
-    <entry id="buff_stat_tooltip_combat_stat_add_speed_rating"><![CDATA[%+d VEL]]></entry>
-    <entry id="buff_stat_tooltip_combat_stat_multiply_attack_rating"><![CDATA[%+d%% PREC]]></entry>
+    <entry id="buff_stat_tooltip_combat_stat_add_protection_rating"><![CDATA[%+d%% PROTEZIONE]]></entry>
+    <entry id="buff_stat_tooltip_combat_stat_add_speed_rating"><![CDATA[%+d VELOCITÀ]]></entry>
+    <entry id="buff_stat_tooltip_combat_stat_multiply_attack_rating"><![CDATA[%+d%% PRECISIONE]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_crit_chance"><![CDATA[%+d%% CRITICO]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_damage_high"><![CDATA[%+d%% DANNO]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_damage_low"><![CDATA[%+d%% DANNO]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_defense_rating"><![CDATA[%+d SCHIVATA]]></entry>
     <entry id="buff_stat_tooltip_combat_stat_multiply_max_hp"><![CDATA[%+d%% PF MAX]]></entry>
-    <entry id="buff_stat_tooltip_combat_stat_multiply_protection_rating"><![CDATA[%+d%% PRT]]></entry>
-    <entry id="buff_stat_tooltip_combat_stat_multiply_speed_rating"><![CDATA[%+d%% VEL]]></entry>
+    <entry id="buff_stat_tooltip_combat_stat_multiply_protection_rating"><![CDATA[%+d%% PROTEZIONE]]></entry>
+    <entry id="buff_stat_tooltip_combat_stat_multiply_speed_rating"><![CDATA[%+d%% VELOCITÀ]]></entry>
     <entry id="buff_stat_tooltip_damage_received_percent"><![CDATA[%+d%% DANNO subito]]></entry>
     <entry id="buff_stat_tooltip_debuff_chance"><![CDATA[%+d%% possibilità di {colour_start|debuff}Debuff{colour_end}]]></entry>
     <entry id="buff_stat_tooltip_disable_combat_skill_attribute_heal"><![CDATA[Cure impedite!]]></entry>
@@ -189,15 +189,15 @@
     <entry id="camping_skill_cost"><![CDATA[{colour_start|attacktype}Costo Tempo: %d {colour_end}]]></entry>
     <entry id="camping_skill_effect_ambush_preparation_no_surprise"><![CDATA[Il gruppo non verrà sorpreso in un'imboscata]]></entry>
     <entry id="camping_skill_effect_buff"><![CDATA[{colour_start|buffNOT1}Buff +%d%%{colour_end}]]></entry>
-    <entry id="camping_skill_effect_campingAttackBuff"><![CDATA[PREC +%d]]></entry>
-    <entry id="camping_skill_effect_campingAttackBuffRanged"><![CDATA[Migliora PREC Attacchi a Distanza del +%d]]></entry>
+    <entry id="camping_skill_effect_campingAttackBuff"><![CDATA[PRECISIONE +%d]]></entry>
+    <entry id="camping_skill_effect_campingAttackBuffRanged"><![CDATA[Migliora PRECISIONE Attacchi a Distanza del +%d]]></entry>
     <entry id="camping_skill_effect_campingCritBuff"><![CDATA[CRITICO +%d%%]]></entry>
     <entry id="camping_skill_effect_campingCritBuffRanged"><![CDATA[Migliora CRITICO Attacchi a Distanza +%d]]></entry>
     <entry id="camping_skill_effect_campingDefBuff"><![CDATA[SCHIVATA +%d]]></entry>
     <entry id="camping_skill_effect_campingDmgPercentBuff"><![CDATA[DANNO +%d%%]]></entry>
     <entry id="camping_skill_effect_campingDmgPercentBuffLargeMonsters"><![CDATA[DANNO +%d%% contro mostri grossi]]></entry>
     <entry id="camping_skill_effect_campingDmgPercentBuffRanged"><![CDATA[Migliora DANNO Attacchi a distanza del %d%%]]></entry>
-    <entry id="camping_skill_effect_campingSpeedBuff"><![CDATA[VEL +%d]]></entry>
+    <entry id="camping_skill_effect_campingSpeedBuff"><![CDATA[VELOCITÀ +%d]]></entry>
     <entry id="camping_skill_effect_campingStressResistBuff"><![CDATA[Migliora Resistenza allo {colour_start|stressNOT1}Stress{colour_end} del +%d%%]]></entry>
     <entry id="camping_skill_effect_health_damage_max_health_percent"><![CDATA[Subire %d%% DANNO ai PF]]></entry>
     <entry id="camping_skill_effect_health_heal_max_health_percent"><![CDATA[{colour_start|healhp}Cura{colour_end} %d%% PF]]></entry>
@@ -444,8 +444,8 @@
     <entry id="monster_panel_skills"><![CDATA[Abilità]]></entry>
     <entry id="monster_tooltip_dodge_format"><![CDATA[SCHIVATA:%0.f]]></entry>
     <entry id="monster_tooltip_hp_format"><![CDATA[PF:%.0f/%.0f]]></entry>
-    <entry id="monster_tooltip_prot_format"><![CDATA[PRT:%.0f%%]]></entry>
-    <entry id="monster_tooltip_speed_format"><![CDATA[VEL:%0.f]]></entry>
+    <entry id="monster_tooltip_prot_format"><![CDATA[PROTEZIONE:%.0f%%]]></entry>
+    <entry id="monster_tooltip_speed_format"><![CDATA[VELOCITÀ:%0.f]]></entry>
     <entry id="no_shovel"><![CDATA[Non possiedi una vanga!]]></entry>
     <entry id="no_shovel_confirm"><![CDATA[Non possiedi una vanga!]]></entry>
     <entry id="not_enough_camping_points"><![CDATA[Punti Accampamento insufficienti!]]></entry>
@@ -706,7 +706,7 @@
     <entry id="str_confirm_dlc_crimson_court_yes"><![CDATA[Abilita]]></entry>
     <entry id="str_confirm_dlc_details_crimson_court"><![CDATA[Crimson Court: include la Corte e con essa nuovi mostri, missioni, boss, tesori e trame.]]></entry>
     <entry id="str_confirm_dlc_details_color_of_madness"><![CDATA[Il DLC Color of Madness aggiunge la nuova regione Fattoria, contenente nuove missioni, nuovi mostri e nuovi tesori. Attiva anche quattro nuovi edifici dei Distretti in città.]]></entry>
-    <entry id="str_confirm_dlc_details_districts"><![CDATA[Modalità Distretti: migliora il tuo borgo costruendo nuovi edifici in aggiunta a quelli originali.]]></entry>
+    <entry id="str_confirm_dlc_details_districts"><![CDATA[Modalità Distretti: migliora il tuo Borgo costruendo nuovi edifici in aggiunta a quelli originali.]]></entry>
     <entry id="str_confirm_dlc_details_flagellant"><![CDATA[Classe di eroe: Flagellatore.]]></entry>
     <entry id="str_confirm_dlc_details_musketeer"><![CDATA[Classe di eroe: Moschettiere.]]></entry>
     <entry id="str_confirm_dlc_districts"><![CDATA[Vuoi abilitare i Distretti?]]></entry>
@@ -777,7 +777,7 @@
     <entry id="str_darkness_heroesSurprised"><![CDATA[Eroi Sorpresi]]></entry>
     <entry id="str_darkness_hunger"><![CDATA[Fame]]></entry>
     <entry id="str_darkness_loot"><![CDATA[Bottino]]></entry>
-    <entry id="str_darkness_monster"><![CDATA[PREC e DANNO Mostro]]></entry>
+    <entry id="str_darkness_monster"><![CDATA[PRECISIONE e DANNO Mostro]]></entry>
     <entry id="str_darkness_monstersSurprised"><![CDATA[Mostri Sorpresi]]></entry>
     <entry id="str_darkness_monster_crit"><![CDATA[Critico Mostro]]></entry>
     <entry id="str_darkness_player_crit"><![CDATA[Critico Giocatore]]></entry>
@@ -945,7 +945,7 @@
     <entry id="str_game_mode_select_new_game_plus_tooltip"><![CDATA[Le campagne in modalità Oblio non sono adatte ai deboli di cuore: non avrai tregua. Dovrai sconfiggere il male entro un tempo determinato e con un limite alle morti degli eroi consentite. Inoltre, molte impostazioni di gioco non saranno modificabili.]]></entry>
     <entry id="str_game_mode_select_radiant_tooltip"><![CDATA[Le campagne in modalità Barlume, seppur abbastanza impegnative, sono pensate per essere più brevi e non troppo ostiche, ideali per chi affronta Darkest Dungeon per la prima volta.]]></entry>
     <entry id="str_glossary_ancestor_quote"><![CDATA[Lasciate che condivida con voi i terribili prodigi che ho esperito...]]></entry>
-    <entry id="str_glossary_term_1"><![CDATA[PREC]]></entry>
+    <entry id="str_glossary_term_1"><![CDATA[PRECISIONE]]></entry>
     <entry id="str_glossary_term_10"><![CDATA[Busto]]></entry>
     <entry id="str_glossary_term_11"><![CDATA[Abilità di Accampamento]]></entry>
     <entry id="str_glossary_term_12"><![CDATA[Abilità di Combattimento]]></entry>
@@ -975,8 +975,8 @@
     <entry id="str_glossary_term_34"><![CDATA[Resistenza al Movimento]]></entry>
     <entry id="str_glossary_term_35"><![CDATA[Ostacolo]]></entry>
     <entry id="str_glossary_term_36"><![CDATA[Ritratto]]></entry>
-    <entry id="str_glossary_term_37"><![CDATA[PRT]]></entry>
-    <entry id="str_glossary_term_38"><![CDATA[Provvista]]></entry>
+    <entry id="str_glossary_term_37"><![CDATA[PROTEZIONE]]></entry>
+    <entry id="str_glossary_term_38"><![CDATA[Provviste]]></entry>
     <entry id="str_glossary_term_39"><![CDATA[Tratto]]></entry>
     <entry id="str_glossary_term_4"><![CDATA[Antidoto]]></entry>
     <entry id="str_glossary_term_40"><![CDATA[Resistenza]]></entry>
@@ -985,7 +985,7 @@
     <entry id="str_glossary_term_43"><![CDATA[Ranghi]]></entry>
     <entry id="str_glossary_term_44"><![CDATA[Vanga]]></entry>
     <entry id="str_glossary_term_45"><![CDATA[Chiave Passe-partout]]></entry>
-    <entry id="str_glossary_term_46"><![CDATA[VEL]]></entry>
+    <entry id="str_glossary_term_46"><![CDATA[VELOCITÀ]]></entry>
     <entry id="str_glossary_term_47"><![CDATA[Stress]]></entry>
     <entry id="str_glossary_term_48"><![CDATA[Stordimento]]></entry>
     <entry id="str_glossary_term_49"><![CDATA[Resistenza allo Stordimento]]></entry>
@@ -1005,7 +1005,7 @@
     <entry id="str_glossary_term_7"><![CDATA[Dissanguamento]]></entry>
     <entry id="str_glossary_term_8"><![CDATA[Morbo]]></entry>
     <entry id="str_glossary_term_9"><![CDATA[Buff]]></entry>
-    <entry id="str_glossary_term_definition_1"><![CDATA[Abbreviazione di precisione. La possibilità base di colpire è la PREC meno la SCHIVATA del nemico.]]></entry>
+    <entry id="str_glossary_term_definition_1"><![CDATA[La possibilità base di colpire è la PRECISIONE (a volta abbreviato in PREC) meno la SCHIVATA del nemico.]]></entry>
     <entry id="str_glossary_term_definition_10"><![CDATA[Un cimelio che tipicamente si trova nelle Rovine. Usato per migliorare edifici nel Villaggio.]]></entry>
     <entry id="str_glossary_term_definition_11"><![CDATA[Un'abilità usata da un eroe durante l'Accampamento.]]></entry>
     <entry id="str_glossary_term_definition_12"><![CDATA[Un'abilità usata da un eroe durante il combattimento.]]></entry>
@@ -1035,8 +1035,8 @@
     <entry id="str_glossary_term_definition_34"><![CDATA[Bonus sulla resistenza agli attacchi nemici che causano uno spostamento nella formazione.]]></entry>
     <entry id="str_glossary_term_definition_35"><![CDATA[Un oggetto trovato nei dungeon che impedisce il passaggio del gruppo. Può essere rimosso a mano o con una Vanga. Rimuovere un ostacolo a mano causa DANNO e stress all'intero gruppo.]]></entry>
     <entry id="str_glossary_term_definition_36"><![CDATA[Un cimelio che tipicamente si trova nel Dedalo. Usato per migliorare gli edifici nel Villaggio.]]></entry>
-    <entry id="str_glossary_term_definition_37"><![CDATA[Abbreviazione di protezione. Indica la percentuale di danno che viene assorbito. I danni estesi nel tempo (dissanguamento, morbo) ignorano la PRT.]]></entry>
-    <entry id="str_glossary_term_definition_38"><![CDATA[Un oggetto che può essere aggiunto all'inventario del giocatore prima di imbarcarsi in una missione.]]></entry>
+    <entry id="str_glossary_term_definition_37"><![CDATA[Abbreviazione di protezione. Indica la percentuale di danno che viene assorbito. I danni estesi nel tempo (dissanguamento, morbo) ignorano la PROTEZIONE.]]></entry>
+    <entry id="str_glossary_term_definition_38"><![CDATA[Un oggetto che può essere aggiunto all'inventario del giocatore prima di avviarsi in una missione.]]></entry>
     <entry id="str_glossary_term_definition_39"><![CDATA[La caratteristica di un eroe. I tratti possono essere positivi o negativi. Gli eroi possono entrare in gioco già in possesso di tratti, ma ne acquisiranno durante l'avventura.]]></entry>
     <entry id="str_glossary_term_definition_4"><![CDATA[Un tipo di provvista usata per rimuovere Morbo. Si può anche usare su molti reperti del dungeon.]]></entry>
     <entry id="str_glossary_term_definition_40"><![CDATA[Una statistica che influenza le possibilità che un eroe ha di resistere a una determinata condizione, come Stordimento o Dissanguamento.]]></entry>
@@ -1140,10 +1140,10 @@
     <entry id="str_help_town_sanitarium_3"><![CDATA[Assegnare un eroe al trattamento gli impedirà di prendere parte alla prossima missione.]]></entry>
     <entry id="str_help_town_sanitarium_4"><![CDATA[Devi migliorare l'edificio per sbloccare caselle di trattamento addizionali.]]></entry>
     <entry id="[pc]str_help_town_sanitarium_5"><![CDATA[{colour_start|town_activity_log_positive_result}[SHIFT-CLICK]{colour_end} sulla casella di un edificio per rimuovere l'eroe prima del termine dell'attività. Non recupererai l'oro speso.]]></entry>
-    <entry id="[pc]str_help_town_stage_coach_0"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'icona + per vedere le opzioni delle migliorie di questo edificio.]]></entry>
-    <entry id="[pc]str_help_town_stage_coach_1"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK DESTRO]{colour_end} sui nuovi eroi per ispezionarli.]]></entry>
-    <entry id="str_help_town_stage_coach_2"><![CDATA[{colour_start|town_activity_log_positive_result}[TRASCINA]{colour_end} i nuovi eroi nei tuoi ranghi per reclutarli.]]></entry>
-    <entry id="[pc]str_help_town_tavern_0"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'icona + per vedere le opzioni delle migliorie di questo edificio.]]></entry>
+    <entry id="[pc]str_help_town_stage_coach_0"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'icona + per vedere le opzioni delle migliorie di questo edificio]]></entry>
+    <entry id="[pc]str_help_town_stage_coach_1"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK DESTRO]{colour_end} sui nuovi eroi per ispezionarli]]></entry>
+    <entry id="str_help_town_stage_coach_2"><![CDATA[{colour_start|town_activity_log_positive_result}[TRASCINA]{colour_end} i nuovi eroi nei tuoi ranghi per reclutarli]]></entry>
+    <entry id="[pc]str_help_town_tavern_0"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'icona + per vedere le opzioni delle migliorie di questo edificio]]></entry>
     <entry id="str_help_town_tavern_1"><![CDATA[{colour_start|town_activity_log_positive_result}[TRASCINA]{colour_end} un eroe sull'apposita casella per iniziare un'attività che rimuova lo {colour_start|stressNOT1}stress{colour_end}.]]></entry>
     <entry id="str_help_town_tavern_2"><![CDATA[Alcuni tratti potrebbero impedire a un eroe di prendere parti in questa attività.]]></entry>
     <entry id="str_help_town_tavern_3"><![CDATA[Ogni attività ha differenti costi, valori di recupero {colour_start|stressNOT1}stress{colour_end} e possibili effetti collaterali. Alcuni di essi dovrai scoprirli durante il gioco.]]></entry>
@@ -2568,7 +2568,7 @@
     <entry id="str_select_campaign"><![CDATA[Seleziona campagna]]></entry>
     <entry id="str_skill_mode_info_beast"><![CDATA[Come Bestia:]]></entry>
     <entry id="str_skill_mode_info_human"><![CDATA[Come Umano:]]></entry>
-    <entry id="str_skill_tooltip_acc_base"><![CDATA[PREC base: %.0f]]></entry>
+    <entry id="str_skill_tooltip_acc_base"><![CDATA[PRECISIONE base: %.0f]]></entry>
     <entry id="str_skill_tooltip_back"><![CDATA[{colour_start|move}Indietro{colour_end} %d]]></entry>
     <entry id="str_skill_tooltip_crit_mod"><![CDATA[Modificatore CRITICO: %+.1f%%]]></entry>
     <entry id="str_skill_tooltip_dmg_mod"><![CDATA[Modificatore DANNO: %+.0f%%]]></entry>
@@ -2624,16 +2624,16 @@
     <entry id="str_stat_additional_other_percent"><![CDATA[altro %]]></entry>
     <entry id="str_stat_additional_skill"><![CDATA[abilità]]></entry>
     <entry id="str_stat_additional_weapon"><![CDATA[arma]]></entry>
-    <entry id="str_stat_attack_bonus"><![CDATA[Mod PREC]]></entry>
+    <entry id="str_stat_attack_bonus"><![CDATA[Modificatore PRECISIONE]]></entry>
     <entry id="str_stat_base_armour"><![CDATA[Armatura base]]></entry>
-    <entry id="str_stat_base_attack"><![CDATA[PREC base]]></entry>
+    <entry id="str_stat_base_attack"><![CDATA[PRECISONE base]]></entry>
     <entry id="str_stat_base_crit"><![CDATA[CRITICO base]]></entry>
     <entry id="str_stat_base_damage"><![CDATA[DANNO base]]></entry>
     <entry id="str_stat_base_defense"><![CDATA[SCHIVATA base]]></entry>
-    <entry id="str_stat_base_health_points"><![CDATA[PF base]]></entry>
-    <entry id="str_stat_base_protection"><![CDATA[PRT base]]></entry>
+    <entry id="str_stat_base_health_points"><![CDATA[PUNTI FERITA base]]></entry>
+    <entry id="str_stat_base_protection"><![CDATA[PROTEZIONE base]]></entry>
     <entry id="str_stat_base_skill"><![CDATA[Abilità base]]></entry>
-    <entry id="str_stat_base_speed"><![CDATA[VEL base]]></entry>
+    <entry id="str_stat_base_speed"><![CDATA[VELOCITÀ base]]></entry>
     <entry id="str_stat_base_weapon"><![CDATA[Arma base]]></entry>
     <entry id="str_stat_base_weapon_and_skill"><![CDATA[Arma + Abilità]]></entry>
     <entry id="str_stat_crit"><![CDATA[PROBABILITÀ DI CRITICO]]></entry>
@@ -2642,12 +2642,12 @@
     <entry id="str_stat_damage_bonus"><![CDATA[Modificatore DANNO]]></entry>
     <entry id="str_stat_defense"><![CDATA[SCHIVATA]]></entry>
     <entry id="str_stat_defense_bonus"><![CDATA[Modificatore SCHIVATA]]></entry>
-    <entry id="str_stat_health_points_bonus"><![CDATA[Mod PF]]></entry>
+    <entry id="str_stat_health_points_bonus"><![CDATA[Modificatore PF]]></entry>
     <entry id="str_stat_maxhp"><![CDATA[PUNTI FERITA MASSIMI]]></entry>
-    <entry id="str_stat_protection"><![CDATA[PUNTI PROTEZIONE]]></entry>
-    <entry id="str_stat_protection_bonus"><![CDATA[modificatore PRT]]></entry>
+    <entry id="str_stat_protection"><![CDATA[% PROTEZIONE]]></entry>
+    <entry id="str_stat_protection_bonus"><![CDATA[Modificatore PROTEZIONE]]></entry>
     <entry id="str_stat_speed"><![CDATA[VELOCITÀ]]></entry>
-    <entry id="str_stat_speed_bonus"><![CDATA[Mod VEL]]></entry>
+    <entry id="str_stat_speed_bonus"><![CDATA[Modificatore VELOCITÀ]]></entry>
     <entry id="str_statue_ancestor_quote"><![CDATA[Col tempo apprenderete la tragica entità dei miei fallimenti...]]></entry>
     <entry id="str_statue_summary"><![CDATA[Vedi memorie 
  dell'antenato]]></entry>
@@ -2706,7 +2706,7 @@
     <entry id="str_ugc_show_panel_tooltip"><![CDATA[Abilita / Visualizza mod]]></entry>
     <entry id="str_ugc_sub_title"><![CDATA[Trascina i mod a cui dare priorità (decrescente dall'alto verso il basso della lista).]]></entry>
     <entry id="str_ugc_title"><![CDATA[Seleziona i mod da abilitare]]></entry>
-    <entry id="str_ui_ATT"><![CDATA[PREC]]></entry>
+    <entry id="str_ui_ATT"><![CDATA[PRECISIONE]]></entry>
     <entry id="str_ui_ATT_MOD"><![CDATA[MOD PREC]]></entry>
     <entry id="str_ui_bleed"><![CDATA[Dissanguamento]]></entry>
     <entry id="str_ui_bleed_resist"><![CDATA[Respinto]]></entry>
@@ -2751,12 +2751,12 @@
     <entry id="str_ui_pass"><![CDATA[Passa]]></entry>
     <entry id="str_ui_poison"><![CDATA[Morbo]]></entry>
     <entry id="str_ui_poison_resist"><![CDATA[Respinto]]></entry>
-    <entry id="str_ui_PROT"><![CDATA[PRT]]></entry>
+    <entry id="str_ui_PROT"><![CDATA[PROTEZIONE]]></entry>
     <entry id="str_ui_resist"><![CDATA[Respinto]]></entry>
     <entry id="str_ui_riposte"><![CDATA[Risposta!]]></entry>
     <entry id="str_ui_shuffle_dot"><![CDATA[Inciampa]]></entry>
     <entry id="str_ui_shuffle_dot_resist"><![CDATA[Resistito]]></entry>
-    <entry id="str_ui_SPD"><![CDATA[VEL]]></entry>
+    <entry id="str_ui_SPD"><![CDATA[VELOCITÀ]]></entry>
     <entry id="str_ui_starve"><![CDATA[No]]></entry>
     <entry id="str_ui_stress_dot"><![CDATA[Orrore]]></entry>
     <entry id="str_ui_stress_dot_resist"><![CDATA[Resistito]]></entry>
@@ -3072,7 +3072,7 @@
  in sicurezza riducono l'isolamento della nostra tenuta.]]></entry>
     <entry id="str_vo_good_weald_success_explore_02_0"><![CDATA[Strade e sentieri portano soldati e rifornimenti, che possano senza incidenti!]]></entry>
     <entry id="str_vo_good_weald_success_gather_01_0"><![CDATA[Questi medicinali impediranno il diffondersi
- dell'epidemia nel nostro borgo già in difficoltà.]]></entry>
+ dell'epidemia nel nostro Borgo già in difficoltà.]]></entry>
     <entry id="str_vo_good_weald_success_gather_02_0"><![CDATA[Queste medicine e queste erbe preverranno
  l'infezione e neutralizzeranno il contagio.]]></entry>
     <entry id="str_vo_house_of_ruin_0"><![CDATA[La nostra famiglia è stata baciata dalla sfortuna.]]></entry>
@@ -3174,7 +3174,7 @@
  nuovo destino: morti che resuscitano morti, anno dopo anno...]]></entry>
     <entry id="str_vo_load_crypts_03_2"><![CDATA[Per sempre.]]></entry>
     <entry id="str_vo_load_crypts_04_0"><![CDATA[Gli scavi sotto la magione erano a buon punto, quando
- un vagabondo particolarmente malridotto giunse al borgo.]]></entry>
+ un vagabondo particolarmente malridotto giunse al Borgo.]]></entry>
     <entry id="str_vo_load_crypts_04_1"><![CDATA[Quel degenerato lurido e senza denti conosceva in modo sorprendente
  le mie ambizioni, e andava pronosticando a chiunque volesse ascoltare]]></entry>
     <entry id="str_vo_load_crypts_04_2"><![CDATA[che presto avrei condotto il mondo alla sventura.]]></entry>
@@ -3238,7 +3238,7 @@
  non più in grado di sopportare la situazione, la mandai a vivere nella]]></entry>
     <entry id="str_vo_load_weald_03_3"><![CDATA[foresta, dove la sua natura selvaggia sarebbe stata accolta favorevolmente.]]></entry>
     <entry id="str_vo_load_weald_04_0"><![CDATA[Le persone semplici sono loquaci per natura, e
- gli abitanti del borgo non facevano eccezione.]]></entry>
+ gli abitanti del Borgo non facevano eccezione.]]></entry>
     <entry id="str_vo_load_weald_04_1"><![CDATA[Le voci sul mio genio macabro e
  sui miei scavi segreti cominciarono ad alimentare le leggende locali.]]></entry>
     <entry id="str_vo_load_weald_04_2"><![CDATA[Di fronte alla mia crescente ostentazione di tabù, la paura si trasformò
@@ -3254,7 +3254,7 @@
     <entry id="str_vo_load_weald_06_0"><![CDATA[Ansioso di porre fine alle fastidiose distrazioni locali, ordinai alla mia
  nuova milizia di banditi, briganti e assassini]]></entry>
     <entry id="str_vo_load_weald_06_1"><![CDATA[di proseguire con il loro lavoro. La legge e l'ordine vennero ripristinati,
- e la perniciosa popolazione del borgo fu ridotta a...]]></entry>
+ e la perniciosa popolazione del Borgo fu ridotta a...]]></entry>
     <entry id="str_vo_load_weald_06_2"><![CDATA[un numero più gestibile.]]></entry>
     <entry id="str_vo_narr_bad_afflicted_01_0"><![CDATA[La mente umana - fragile come l'uovo di un pettirosso.]]></entry>
     <entry id="str_vo_narr_bad_afflicted_02_0"><![CDATA[L'eroismo, perché?]]></entry>
@@ -3399,7 +3399,7 @@
  è passato da quando ho spedito la lettera.]]></entry>
     <entry id="str_vo_town_backstory_06_0"><![CDATA[Il povero custode, temo che il suo lungo 
  servizio qui lo abbia...afflitto.]]></entry>
-    <entry id="str_vo_town_backstory_07_0"><![CDATA[La degenerazione del borgo non è nulla, temo, 
+    <entry id="str_vo_town_backstory_07_0"><![CDATA[La degenerazione del Borgo non è nulla, temo, 
  paragonata alle condizioni delle zone circostanti.]]></entry>
     <entry id="str_vo_town_backstory_08_0"><![CDATA[La mia ossessione ha causato questa grande oscenità, ed è 
  vergognoso che io debba affidarmi a te per sistemare le cose.]]></entry>
@@ -3549,13 +3549,13 @@
     <entry id="str_vo_town_upgrade_tavern_03_0"><![CDATA[Ogni genere di deviazione e svaghi attendono coloro che varcano l'ingresso con in mano una moneta.]]></entry>
     <entry id="str_vo_tutorial_first_abbey_0"><![CDATA[Le ragnatele sono state rimosse e le panche raddrizzate.
  L'abbazia chiama i fedeli...]]></entry>
-    <entry id="str_vo_tutorial_first_battle_0"><![CDATA[Eliminate questo criminale senza pietà,
- che tutti sappiano del mio arrivo!]]></entry>
+    <entry id="str_vo_tutorial_first_battle_0"><![CDATA[Elimina questo criminale senza pietà,
+ che tutti sappiano del tuo arrivo!]]></entry>
     <entry id="str_vo_tutorial_first_blacksmith_0"><![CDATA[I soffietti hanno ripreso a funzionare! La fucina
  è pronta a fabbricare armi da guerra.]]></entry>
     <entry id="str_vo_tutorial_first_curio_0"><![CDATA[Non lasciate nulla incontrollato, c'è molto da trovare in luoghi dimenticati.]]></entry>
-    <entry id="str_vo_tutorial_first_dungeon_0"><![CDATA[I briganti sono i padroni di queste strade... Proseguite
- lungo il percorso secondario, il borgo è vicino.]]></entry>
+    <entry id="str_vo_tutorial_first_dungeon_0"><![CDATA[I briganti sono i padroni di queste strade... Prosegui
+ lungo il percorso secondario, il Borgo è vicino.]]></entry>
     <entry id="str_vo_tutorial_first_graveyard_0"><![CDATA[La maggior parte finirà qui, coperta dalla terra avvelenata, in attesa di un oblio misericordioso.]]></entry>
     <entry id="str_vo_tutorial_first_guild_0"><![CDATA[Non commettete errori, affronteremo ogni grande minaccia.
  I nostri soldati devono essere pronti.]]></entry>
@@ -3570,9 +3570,9 @@
  valorosa e un'istruttrice severa.]]></entry>
     <entry id="str_vo_tutorial_first_tavern_0"><![CDATA[Barili di birra fresca, carte da gioco e stanze private promettono
  consolazione a chi è esausto o infranto.]]></entry>
-    <entry id="str_vo_tutorial_first_town_0"><![CDATA[Ti diamo il benvenuto a casa. Questo squallido borgo e queste terre
- corrotte ora ti appartengono, e hai un legame con loro.]]></entry>
-    <entry id="str_vo_tutorial_second_battle_0"><![CDATA[Un'imboscata! Mandate un messaggio a quei vermi: il proprietario legittimo
+    <entry id="str_vo_tutorial_first_town_0"><![CDATA[Benvenuto a casa, per come la vedi. Questo squallido Borgo e queste terre
+ corrotte ora ti appartengono, e sei legato a loro.]]></entry>
+    <entry id="str_vo_tutorial_second_battle_0"><![CDATA[Un'imboscata! Manda un messaggio a quei vermi: il proprietario legittimo
  è tornato, e non sono più i benvenuti.]]></entry>
     <entry id="str_warrens_level_1_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Il Dedalo è stato potenziato a Difficoltà 1.]]></entry>
     <entry id="str_warrens_level_2_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Il Dedalo è stato potenziato a Difficoltà 2.]]></entry>
@@ -3664,7 +3664,7 @@
     <entry id="town_event_description_provision_supply_discount"><![CDATA[Accolto sul ponte da una folla esultante, il Custode attribuisce il successo della spedizione a una densa nebbia e una partenza di buonora.]]></entry>
     <entry id="town_event_description_provision_supply_free"><![CDATA[I contadini del vicinato si sono uniti, accrescendo la sorveglianza nel tentativo di proteggere l'abbondante bestiame e raccolto dai quali il Borgo dipende.]]></entry>
     <entry id="town_event_description_remove_quest_hero_level_restriction"><![CDATA[Accantonare il proprio ego non è facile per questi veterani, ma le nuove reclute sono palesemente grate dell'aiuto.]]></entry>
-    <entry id="town_event_description_trinket_retention_add_from_storage"><![CDATA[Alla fine, comunque, quella vile creatura è riuscita a fuggire col suo "tesoro". La punizione per aver accolto un così sgradito ospite? L'impoverimento degli scrigni del borgo.]]></entry>
+    <entry id="town_event_description_trinket_retention_add_from_storage"><![CDATA[Alla fine, comunque, quella vile creatura è riuscita a fuggire col suo "tesoro". La punizione per aver accolto un così sgradito ospite? L'impoverimento degli scrigni del Borgo.]]></entry>
     <entry id="town_event_description_upgrade_tag_free_armour"><![CDATA[È rimasto in piedi a lavorare per giorni, ispirato dalla rara qualità dei materiali, determinato a render loro giustizia con la sua maestria.]]></entry>
     <entry id="town_event_description_upgrade_tag_free_building_upgrade"><![CDATA[Storicamente, i braccianti stagionali hanno sempre detestato mettersi in viaggio sulla Vecchia Strada, ma le dure condizioni economiche li hanno condotti alla disperazione.]]></entry>
     <entry id="town_event_description_upgrade_tag_free_weapon"><![CDATA[Finalmente le lunghe ore di ricerca tra vecchi barili e rastrelliere di armi dimenticate hanno dato il loro frutto!]]></entry>
@@ -3742,7 +3742,7 @@
     <entry id="town_name_guild"><![CDATA[Gilda]]></entry>
     <entry id="town_name_heirloom_exchange"><![CDATA[Scambia Cimeli]]></entry>
     <entry id="town_name_nomad_wagon"><![CDATA[Carro Nomade]]></entry>
-    <entry id="town_name_provision"><![CDATA[Provvista]]></entry>
+    <entry id="town_name_provision"><![CDATA[Provviste]]></entry>
     <entry id="town_name_quest_select"><![CDATA[Mappa della Tenuta]]></entry>
     <entry id="town_name_realm_inventory"><![CDATA[Inventario degli Ornamenti]]></entry>
     <entry id="town_name_sanitarium"><![CDATA[Casa di Cura]]></entry>
@@ -3750,8 +3750,8 @@
     <entry id="town_name_statue"><![CDATA[Memorie dell'Antenato]]></entry>
     <entry id="town_name_tavern"><![CDATA[Taverna]]></entry>
     <entry id="town_name_town_Event"><![CDATA[Udite! Udite!]]></entry>
-    <entry id="town_progression_forward_embark"><![CDATA[Imbarcarsi]]></entry>
-    <entry id="town_progression_forward_provision"><![CDATA[Provvista]]></entry>
+    <entry id="town_progression_forward_embark"><![CDATA[Avviati]]></entry>
+    <entry id="town_progression_forward_provision"><![CDATA[Provviste]]></entry>
     <entry id="town_progression_forward_set_off"><![CDATA[Partire]]></entry>
     <entry id="town_provision_confirm_no"><![CDATA[No]]></entry>
     <entry id="town_provision_confirm_yes"><![CDATA[Sì]]></entry>
@@ -3915,7 +3915,7 @@
     <entry id="town_quest_name_plot_trinket_retention_1"><![CDATA[Trespolo dell'urlatore]]></entry>
     <entry id="town_quest_name_plot_trinket_retention_2"><![CDATA[Trespolo dell'urlatore]]></entry>
     <entry id="town_quest_name_plot_tutorial_crypts"><![CDATA[Esplorazione]]></entry>
-    <entry id="town_quest_name_tutorial"><![CDATA[La vecchia strada]]></entry>
+    <entry id="town_quest_name_tutorial"><![CDATA[La Vecchia Strada]]></entry>
     <entry id="town_quest_number_of_camps0"><![CDATA[Questa missione non include Accampamento]]></entry>
     <entry id="town_quest_number_of_camps1"><![CDATA[Gli eroi si accamperanno una volta durante questa missione.]]></entry>
     <entry id="town_quest_number_of_camps2"><![CDATA[Gli eroi si accamperanno due volte durante questa missione]]></entry>
@@ -3965,14 +3965,14 @@
     <entry id="town_quest_progress_plot_trinket_retention_add_from_storage_1"><![CDATA[Recupera i tuoi accessori rubati in mano allo starnazzatore spietato!]]></entry>
     <entry id="town_quest_progress_plot_trinket_retention_add_from_storage_2"><![CDATA[Recupera i tuoi accessori rubati in mano all'urlatore spietato!]]></entry>
     <entry id="town_quest_progress_plot_tutorial_crypts"><![CDATA[Saggia le profondità...]]></entry>
-    <entry id="town_quest_quest_select_cant_retreat_confirm"><![CDATA[Non potrai ritirarti da questa missione. Vuoi comunque imbarcarti?]]></entry>
+    <entry id="town_quest_quest_select_cant_retreat_confirm"><![CDATA[Non potrai ritirarti da questa missione. Vuoi comunque avviarti?]]></entry>
     <entry id="town_quest_quest_select_darkest_dungeon_confirm"><![CDATA[Se una missione nel Darkest Dungeon viene abbandonata, alcuni eroi potrebbero non salvarsi. Qualcuno deve sacrificarsi per tenere a bada i demoni durante la ritirata.]]></entry>
     <entry id="town_quest_quest_select_more_camping_skills_can_be_equipped_confirm"><![CDATA[Alcuni dei tuoi eroi non hanno equipaggiato le loro abilità di campeggio.]]></entry>
     <entry id="town_quest_quest_select_more_combat_skills_can_be_equipped_confirm"><![CDATA[Alcuni dei tuoi eroi non hanno equipaggiato tutte le abilità di combattimento.]]></entry>
     <entry id="town_quest_quest_select_no_combat_skills_equipped_confirm"><![CDATA[Nessuna abilità di combattimento preparata]]></entry>
     <entry id="town_quest_quest_select_no_combat_skills_equipped_confirm_hero_name_format"><![CDATA[Eroe: %s]]></entry>
     <entry id="town_quest_quest_select_small_team_confirm"><![CDATA[Seri pericoli attendono gli sprovveduti. Vuoi davvero proseguire con un gruppo non al completo?]]></entry>
-    <entry id="town_quest_quest_select_suggested_trinket_confirm"><![CDATA[Dovresti equipaggiare i seguenti Ornamenti prima di imbarcarti, o il fallimento è quasi certo:]]></entry>
+    <entry id="town_quest_quest_select_suggested_trinket_confirm"><![CDATA[Dovresti equipaggiare i seguenti Ornamenti prima di avviarti, o il fallimento è quasi certo:]]></entry>
     <entry id="town_quest_quest_select_suggested_trinket_confirm_trinket_format"><![CDATA[%s x %d]]></entry>
     <entry id="town_quest_rewards"><![CDATA[Ricompense]]></entry>
     <entry id="town_quest_select_confirm_no"><![CDATA[Annulla]]></entry>
@@ -4055,13 +4055,13 @@
     <entry id="tutorial_popup_combat_description"><![CDATA[Il combattimento è {colour_start|notable}a turni{colour_end}. Durante il turno del tuo eroe, fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'icona di una abilità e poi fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su un bersaglio evidenziato.
  
  Se non puoi selezionare un'abilità, è perché quell'eroe deve {colour_start|notable}essere in una posizione differente{colour_end} o non ci sono {colour_start|notable}bersagli validi{colour_end}. {colour_start|town_activity_log_positive_result}[Muovi il Mouse]{colour_end} sull'abilità per vederne i requisiti.]]></entry>
-    <entry id="tutorial_popup_combat_title"><![CDATA[Uccidi il Nemico!]]></entry>
+    <entry id="tutorial_popup_combat_title"><![CDATA[Uccidi il nemico!]]></entry>
     <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Il primo di molti eroi ha esalato l'ultimo respiro al tuo servizio. Hai l'opzione di {colour_start|notable}ritirarti dal combattimento{colour_end} e abbandonare la missione per salvare gli altri o {colour_start|notable}proseguire{colour_end}.
  
  La scelta è tua. {colour_start|town_activity_log_positive_result}[Se questo è il tutorial, la ritirata non è disponibile.]{colour_end}]]></entry>
     <entry id="tutorial_popup_consider_retreat_title"><![CDATA[La modestia è la parte migliore del coraggio...]]></entry>
     <entry id="tutorial_popup_curio_description"><![CDATA[Durante l'esplorazione, spesso troverai {colour_start|notable}oggetti interattivi{colour_end}. {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} premi {colour_start|town_activity_log_positive_result}[W]{colour_end} per esaminarli. Dai un'occhiata a questa tenda...]]></entry>
-    <entry id="tutorial_popup_curio_title"><![CDATA[Oggetti Interattivi (Reperti)]]></entry>
+    <entry id="tutorial_popup_curio_title"><![CDATA[Oggetti interattivi (Reperti)]]></entry>
     <entry id="tutorial_popup_death_class_description"><![CDATA[Quando muoiono, la maggior parte dei mostri lasciano cadaveri. I cadaveri sono ostacoli temporanei che dopo un certo tempo svaniranno da soli. 
  
  Puoi attaccare i cadaveri per distruggerli più velocemente, ma spesso un approccio migliore prevede di usare attacchi a distanza, abilità che spingono o muovono, e anche abilità speciali possedute da alcuni eroi, che permettono l'eliminazione diretta dei cadaveri. 
@@ -4078,14 +4078,14 @@
  
  Alcuni eroi sono più bravi di altri nel disattivare trappole.]]></entry>
     <entry id="tutorial_popup_disarm_trap_title"><![CDATA[Disattivare Trappole]]></entry>
-    <entry id="tutorial_popup_embark_title"><![CDATA[Intraprendi!]]></entry>
+    <entry id="tutorial_popup_embark_title"><![CDATA[Avviati!]]></entry>
     <entry id="tutorial_popup_embark_description"><![CDATA[Al momento il villaggio non ha molto da offrire. È ora di INTRAPRENDERE una missione!
 
-Clicca su {colour_start|notable}[INTRAPRENDI]{colour_end} in fondo alla schermata!]]></entry>
+Clicca su {colour_start|notable}[AVVIATI]{colour_end} in fondo alla schermata!]]></entry>
     <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Mentre sei in un {colour_start|notable}corridoio{colour_end}, premi {colour_start|town_activity_log_positive_result}[D]{colour_end} per muoverti avanti, {colour_start|town_activity_log_positive_result}[A]{colour_end} per tornare indietro.
  
  Se preferisci usare il {colour_start|notable}mouse{colour_end}, puoi fare {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} davanti o dietro al gruppo per muoverli.]]></entry>
-    <entry id="tutorial_popup_hallway_nav_title"><![CDATA[Movimento nei Corridoi]]></entry>
+    <entry id="tutorial_popup_hallway_nav_title"><![CDATA[Movimento nei corridoi]]></entry>
     <entry id="tutorial_popup_heart_attack_description"><![CDATA[Lo {colour_start|harmful}stress{colour_end} continua ad accumularsi oltre il punto di {colour_start|harmful}Afflizione{colour_end}.
  
  Se la barra dello stress di un eroe si riempie completamente una seconda volta, il loro {colour_start|harmful}cuore cederà{colour_end}. Presta loro soccorso o ritirati al villaggio prima che succeda.
@@ -4094,7 +4094,7 @@ Clicca su {colour_start|notable}[INTRAPRENDI]{colour_end} in fondo alla schermat
     <entry id="tutorial_popup_heart_attack_title"><![CDATA[I limiti del corpo: Infarto]]></entry>
     <entry id="tutorial_popup_hero_panel_description"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK DESTRO]{colour_end} sull’ {colour_start|notable}immagine o ritratto{colour_end} di un eroe in qualsiasi momento per aprire la sua scheda personaggio e visualizzare tutti i suoi {colour_start|notable}tratti{colour_end}, {colour_start|notable}abilità{colour_end} e {colour_start|notable}resistenze{colour_end}.]]></entry>
     <entry id="tutorial_popup_hero_panel_title"><![CDATA[La Scheda dell'Eroe]]></entry>
-    <entry id="tutorial_popup_high_prot_description"><![CDATA[Alcuni mostri hanno {colour_start|notable}PRT{colour_end} alta, che {colour_start|notable}assorbe il danno degli attacchi{colour_end}. I danni estesi nel tempo ({colour_start|pop_text_poison}morbo{colour_end} e {colour_start|pop_text_bleed}dissanguamento{colour_end}) ignorano la PRT e sono efficaci mezzi per abbattere questi nemici pesantemente corazzati.]]></entry>
+    <entry id="tutorial_popup_high_prot_description"><![CDATA[Alcuni mostri hanno {colour_start|notable}PROTEZIONE{colour_end} alta, che {colour_start|notable}assorbe il danno degli attacchi{colour_end}. I danni estesi nel tempo ({colour_start|pop_text_poison}morbo{colour_end} e {colour_start|pop_text_bleed}dissanguamento{colour_end}) ignorano la PROTEZIONE e sono efficaci mezzi per abbattere questi nemici pesantemente corazzati.]]></entry>
     <entry id="tutorial_popup_high_prot_title"><![CDATA[Mostri con PROTEZIONE alta]]></entry>
     <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[La {colour_start|notable}Casa di Cura{colour_end} è usata principalmente per rimuovere {colour_start|harmful}tratti negativi{colour_end} e curare {colour_start|sanitarium_treatment_disease_entry}malattie{colour_end}. Ma la puoi anche usare per rinforzare dei {colour_start|notable}tratti positivi{colour_end}, che si bloccheranno e impediranno ad altri tratti positivi di sostituirli. Puoi bloccare un massimo di tre tratti positivi per eroe.]]></entry>
     <entry id="tutorial_popup_locking_pos_quirks_title"><![CDATA[Trattamento]]></entry>
@@ -4120,8 +4120,8 @@ Clicca su {colour_start|notable}[INTRAPRENDI]{colour_end} in fondo alla schermat
  
  Provalo al villaggio, durante l'esplorazione, il combattimento, l'accampamento e altro.]]></entry>
     <entry id="tutorial_popup_press_h_title"><![CDATA[Usa tutto l'aiuto che ti viene offerto!]]></entry>
-    <entry id="tutorial_popup_quest_complete_description"><![CDATA[Dopo aver soddisfatto i requisiti di una missione, hai la possibilità di {colour_start|notable}tornare al villaggio{colour_end} in qualsiasi momento: fai {colour_start|notable}click sullo stemma{colour_end}. Non hai bisogno di tornare alla stanza iniziale del dungeon per uscire.]]></entry>
-    <entry id="tutorial_popup_quest_complete_title"><![CDATA[Completare una Missione]]></entry>
+    <entry id="tutorial_popup_quest_complete_description"><![CDATA[Dopo aver soddisfatto i requisiti di una missione, hai la possibilità di {colour_start|notable}tornare al Borgo{colour_end} in qualsiasi momento: fai {colour_start|notable}click sullo stemma{colour_end}. Non hai bisogno di tornare alla stanza iniziale del dungeon per uscire.]]></entry>
+    <entry id="tutorial_popup_quest_complete_title"><![CDATA[Completare una missione]]></entry>
     <entry id="tutorial_popup_quest_restriction_darkest_dungeon_description"><![CDATA[Gli eroi sopravvissuti a una missione in Darkest Dungeon hanno vissuto momenti terribili. In base alla modalità di gioco e alle opzioni selezionate, potrebbero decidere di non voler più rientrare nella segreta, oppure accetteranno di farlo ma diventeranno subito stressati.]]></entry>
     <entry id="tutorial_popup_quest_restriction_darkest_dungeon_title"><![CDATA[Mai più]]></entry>
     <entry id="tutorial_popup_questparty_description"><![CDATA[Ogni missione ha {colour_start|notable}obiettivi e ricompense diversi{colour_end}, e ogni regione presenta le sue sfide. Sperimenta varie combinazioni per vedere quale funziona meglio!
@@ -4298,11 +4298,11 @@ Questa condizione di potenziamento dura finché non accumuleranno grandi quantit
     <entry id="str_district_build_building_confirm"><![CDATA[Vuoi costruire questo edificio?]]></entry>
     <entry id="str_district_build_building_confirm_no"><![CDATA[No]]></entry>
     <entry id="str_district_build_building_confirm_yes"><![CDATA[Sì]]></entry>
-    <entry id="str_vo_crimson_court_town_event_cc_districts_unlock_0"><![CDATA[Con disciplina, tenacia e una fortuna in risorse, il nostro bel borgo potrebbe perfino superare i suoi antichi splendori!]]></entry>
+    <entry id="str_vo_crimson_court_town_event_cc_districts_unlock_0"><![CDATA[Con disciplina, tenacia e una fortuna in risorse, il nostro bel Borgo potrebbe perfino superare i suoi antichi splendori!]]></entry>
     <entry id="town_event_info_cc_districts_unlock"><![CDATA[Progetto ottenuto]]></entry>
     <entry id="town_event_title_cc_districts_unlock"><![CDATA[Fondamenta]]></entry>
     <entry id="town_name_district"><![CDATA[Distretti]]></entry>
-    <entry id="tutorial_popup_districts_description"><![CDATA[Il borgo continua a crescere e la tua presenza incoraggia sicuramente gli artigiani a ritornare. Ora puoi costruire degli edifici tutti nuovi. Sono cari, ma assicurano bonus speciali che possono aiutarti nel tuo ingrato compito di far tornare la tenuta agli antichi splendori.]]></entry>
+    <entry id="tutorial_popup_districts_description"><![CDATA[Il Borgo continua a crescere e la tua presenza incoraggia sicuramente gli artigiani a ritornare. Ora puoi costruire degli edifici tutti nuovi. Sono cari, ma assicurano bonus speciali che possono aiutarti nel tuo ingrato compito di far tornare la tenuta agli antichi splendori.]]></entry>
     <entry id="tutorial_popup_districts_title"><![CDATA[Edifici del Distretto]]></entry>
     <entry id="tutorial_popup_districts_panel_description"><![CDATA[Per costruire la maggior parte degli edifici nei Distretti, sono necessari progetti e cimeli. I progetti possono essere ottenuti uccidendo i boss.
 
@@ -4311,10 +4311,10 @@ I Distretti di Color of Madness richiedono Frammenti ottenibili nella Fattoria. 
 Nota: per accedere a tutti gli edifici dei Distretti, è necessario acquistare i DLC The Crimson Court e The Color of Madness.]]></entry>
     <entry id="tutorial_popup_districts_panel_title"><![CDATA[Valute dei Distretti]]></entry>
     <entry id="str_glossary_term_1003"><![CDATA[Distretti]]></entry>
-    <entry id="str_glossary_term_definition_1003"><![CDATA[La periferia del borgo in cui è possibile costruire nuovi edifici.]]></entry>
-    <entry id="tutorial_popup_blueprints_description"><![CDATA[Questi oggetti rari sono antichi piani per espandere il borgo. Vengono consumati quando costruisci nuovi edifici nei Distretti. I progetti sono custoditi dai boss.]]></entry>
+    <entry id="str_glossary_term_definition_1003"><![CDATA[La periferia del Borgo in cui è possibile costruire nuovi edifici.]]></entry>
+    <entry id="tutorial_popup_blueprints_description"><![CDATA[Questi oggetti rari sono antichi piani per espandere il Borgo. Vengono consumati quando costruisci nuovi edifici nei Distretti. I progetti sono custoditi dai boss.]]></entry>
     <entry id="tutorial_popup_blueprints_title"><![CDATA[Progetti]]></entry>
-    <entry id="town_event_description_cc_districts_unlock"><![CDATA[La rinascita del nostro diroccato borgo ha attirato coraggiosi artigiani e mercanti che hanno visto del potenziale nei posti vacanti che circondano la piazza principale!]]></entry>
+    <entry id="town_event_description_cc_districts_unlock"><![CDATA[La rinascita del nostro diroccato Borgo ha attirato coraggiosi artigiani e mercanti che hanno visto del potenziale nei posti vacanti che circondano la piazza principale!]]></entry>
     <entry id="mailing_list_title"><![CDATA[Iscriviti alla nostra mailing list ufficiale!]]></entry>
     <entry id="mailing_list_description"><![CDATA[Ti interessano le ultime novità ufficiali e le offerte di Darkest Dungeon e Red Hook Studios? Allora iscriviti alla mailing list!
 

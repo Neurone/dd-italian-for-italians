@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english"/>
+  <language id="italian">
+    <entry id="str_controls_room_context"><![CDATA[Stanza]]></entry>
+    <entry id="str_controls_hallway_context"><![CDATA[Corridoio]]></entry>
+    <entry id="str_controls_combat_context"><![CDATA[Combattimento]]></entry>
+    <entry id="str_controls_camping_context"><![CDATA[Campeggio]]></entry>
+    <entry id="str_controls_town_context"><![CDATA[Borgo]]></entry>
+    <entry id="str_controls_hero_activity_context"><![CDATA[Taverna, Abbazia, Frenocomio]]></entry>
+    <entry id="str_controls_hero_action_context"><![CDATA[Fucina, Gilda]]></entry>
+    <entry id="str_controls_stage_coach_context"><![CDATA[Diligenza]]></entry>
+    <entry id="str_controls_nomad_wagon_context"><![CDATA[Carro dei nomadi]]></entry>
+    <entry id="str_controls_quest_select_context"><![CDATA[Scegli missione]]></entry>
+    <entry id="str_controls_provision_context"><![CDATA[Vettovagliamento]]></entry>
+    <entry id="str_controls_inventory_context"><![CDATA[Inventario]]></entry>
+    <entry id="str_controls_panel_title"><![CDATA[Comandi]]></entry>
+    <entry id="str_controls_panel_prev"><![CDATA[Contesto precedente]]></entry>
+    <entry id="str_controls_panel_next"><![CDATA[Contesto seguente]]></entry>
+    <entry id="str_controls_town_stage_coach_context"><![CDATA[Diligenza]]></entry>
+    <entry id="str_controls_town_blacksmith_context"><![CDATA[Fucina]]></entry>
+    <entry id="str_controls_town_guild_context"><![CDATA[Gilda]]></entry>
+    <entry id="str_controls_town_camping_trainer_context"><![CDATA[Addestratore campeggio]]></entry>
+    <entry id="str_controls_town_tavern_context"><![CDATA[Taverna]]></entry>
+    <entry id="str_controls_town_abbey_context"><![CDATA[Abbazia]]></entry>
+    <entry id="str_controls_town_sanitarium_context"><![CDATA[Frenocomio]]></entry>
+    <entry id="str_controls_town_nomad_wagon_context"><![CDATA[Carro dei nomadi]]></entry>
+    <entry id="str_controls_town_quest_select_context"><![CDATA[Missione]]></entry>
+    <entry id="str_controls_raid_room_context"><![CDATA[Stanza]]></entry>
+    <entry id="str_controls_raid_hallway_context"><![CDATA[Corridoio]]></entry>
+    <entry id="str_controls_raid_combat_context"><![CDATA[Lotta]]></entry>
+    <entry id="str_controls_raid_camping_context"><![CDATA[Campeggio]]></entry>
+    <entry id="hallway_start1"><![CDATA[Menu]]></entry>
+    <entry id="[psv]hallway_start2"><![CDATA[Abbandona missione]]></entry>
+    <entry id="hallway_dpad_u"><![CDATA[Inventario/Mappa]]></entry>
+    <entry id="hallway_dpad_d"><![CDATA[Inventario/Mappa]]></entry>
+    <entry id="hallway_dpad_l_alternate_dpad_left_right"><![CDATA[Eroe precedente]]></entry>
+    <entry id="hallway_dpad_r_alternate_dpad_left_right"><![CDATA[Eroe seguente]]></entry>
+    <entry id="hallway_primary1"><![CDATA[Interagisci / mossa eroe]]></entry>
+    <entry id="hallway_secondary1"><![CDATA[Dettagli eroe]]></entry>
+    <entry id="hallway_analog_stick_l"><![CDATA[Muovi compagnia/Selezione]]></entry>
+    <entry id="hallway_shoulder_l"><![CDATA[(L1) Eroe precedente]]></entry>
+    <entry id="hallway_shoulder_r"><![CDATA[(R1) Eroe seguente]]></entry>
+    <entry id="hallway_trigger_l"><![CDATA[(L2 PREMUTO) Informazioni stato]]></entry>
+    <entry id="hallway_trigger_r"><![CDATA[(R2 PREMUTO) Controlli mappa]]></entry>
+    <entry id="[psv]hallway_shoulder_l"><![CDATA[(touch pad posteriore sinistro)
+ Eroe precedente]]></entry>
+    <entry id="[psv]hallway_shoulder_r"><![CDATA[(touch pad posteriore destro)
+ Eroe seguente]]></entry>
+    <entry id="[psv]hallway_shoulder_l_rear_touchpad_enabled"><![CDATA[(touch pad posteriore sinistro)
+ non usato]]></entry>
+    <entry id="[psv]hallway_shoulder_r_rear_touchpad_enabled"><![CDATA[(touch pad posteriore destro)
+ non usato]]></entry>
+    <entry id="[psv]hallway_trigger_l"><![CDATA[(PREMUTO) Informazioni stato]]></entry>
+    <entry id="[psv]hallway_trigger_r"><![CDATA[(PREMUTO) Comandi mappa]]></entry>
+    <entry id="hallway_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="hallway_tpad_r"><![CDATA[Abbandona missione]]></entry>
+    <entry id="[psv]hallway_touch_screen_l_rear_touchpad_enabled"><![CDATA[Eroe precedente]]></entry>
+    <entry id="[psv]hallway_touch_screen_r_rear_touchpad_enabled"><![CDATA[Eroe seguente]]></entry>
+    <entry id="room_start1"><![CDATA[Menu]]></entry>
+    <entry id="[psv]room_start2"><![CDATA[Abbandona missione]]></entry>
+    <entry id="room_dpad_u"><![CDATA[Inventario/Mappa]]></entry>
+    <entry id="room_dpad_d"><![CDATA[Inventario/Mappa]]></entry>
+    <entry id="room_dpad_l_alternate_dpad_left_right"><![CDATA[Eroe precedente]]></entry>
+    <entry id="room_dpad_r_alternate_dpad_left_right"><![CDATA[Eroe seguente]]></entry>
+    <entry id="room_primary1"><![CDATA[Interagisci / mossa eroe]]></entry>
+    <entry id="room_secondary1"><![CDATA[Dettagli eroe]]></entry>
+    <entry id="room_analog_stick_l"><![CDATA[Muovi compagnia/Selezione]]></entry>
+    <entry id="room_analog_stick_r"><![CDATA[Seleziona stanza successiva]]></entry>
+    <entry id="room_shoulder_l"><![CDATA[(L1) Eroe precedente]]></entry>
+    <entry id="room_shoulder_r"><![CDATA[(R1) Eroe seguente]]></entry>
+    <entry id="room_trigger_l"><![CDATA[(L2 PREMUTO) Informazioni stato]]></entry>
+    <entry id="room_trigger_r"><![CDATA[(R2 PREMUTO) Controlli mappa]]></entry>
+    <entry id="[psv]room_shoulder_l"><![CDATA[(touch pad posteriore sinistro)
+ Eroe precedente]]></entry>
+    <entry id="[psv]room_shoulder_r"><![CDATA[(touch pad posteriore destro)
+ Eroe seguente]]></entry>
+    <entry id="[psv]room_shoulder_l_rear_touchpad_enabled"><![CDATA[(touch pad posteriore sinistro)
+ non usato]]></entry>
+    <entry id="[psv]room_shoulder_r_rear_touchpad_enabled"><![CDATA[(touch pad posteriore destro)
+ non usato]]></entry>
+    <entry id="[psv]room_trigger_l"><![CDATA[(PREMUTO) Informazioni stato]]></entry>
+    <entry id="[psv]room_trigger_r"><![CDATA[(PREMUTO) Comandi mappa]]></entry>
+    <entry id="room_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="room_tpad_r"><![CDATA[Abbandona missione]]></entry>
+    <entry id="[psv]room_touch_screen_l_rear_touchpad_enabled"><![CDATA[Eroe precedente]]></entry>
+    <entry id="[psv]room_touch_screen_r_rear_touchpad_enabled"><![CDATA[Eroe seguente]]></entry>
+    <entry id="combat_start1"><![CDATA[Menu]]></entry>
+    <entry id="[psv]combat_start2"><![CDATA[Ritirata]]></entry>
+    <entry id="combat_dpad_u"><![CDATA[Inventario/Mappa]]></entry>
+    <entry id="combat_dpad_d"><![CDATA[Inventario/Mappa]]></entry>
+    <entry id="combat_primary2"><![CDATA[Annulla/Chiudi]]></entry>
+    <entry id="combat_primary1"><![CDATA[Seleziona/Usa]]></entry>
+    <entry id="combat_secondary1"><![CDATA[Dettagli eroe]]></entry>
+    <entry id="combat_analog_stick_l"><![CDATA[Selezione abilità/bersaglio]]></entry>
+    <entry id="combat_trigger_l"><![CDATA[(L2 PREMUTO) Informazioni stato]]></entry>
+    <entry id="combat_trigger_r"><![CDATA[(R2 PREMUTO) Controlli mappa]]></entry>
+    <entry id="[psv]combat_trigger_l"><![CDATA[(PREMUTO) Informazioni stato]]></entry>
+    <entry id="[psv]combat_trigger_r"><![CDATA[(PREMUTO) Comandi mappa]]></entry>
+    <entry id="combat_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="combat_tpad_r"><![CDATA[Ritirata]]></entry>
+    <entry id="camping_start1"><![CDATA[Menu]]></entry>
+    <entry id="camping_dpad_u"><![CDATA[Inventario/Mappa]]></entry>
+    <entry id="camping_dpad_d"><![CDATA[Inventario/Mappa]]></entry>
+    <entry id="camping_dpad_l_alternate_dpad_left_right"><![CDATA[Eroe precedente]]></entry>
+    <entry id="camping_dpad_r_alternate_dpad_left_right"><![CDATA[Eroe seguente]]></entry>
+    <entry id="camping_primary2"><![CDATA[Annulla/Chiudi]]></entry>
+    <entry id="camping_primary1"><![CDATA[Seleziona/Usa]]></entry>
+    <entry id="camping_secondary1"><![CDATA[Dettagli eroe]]></entry>
+    <entry id="camping_analog_stick_l"><![CDATA[Selezione abilità/bersaglio]]></entry>
+    <entry id="camping_shoulder_l"><![CDATA[(L1) Eroe precedente]]></entry>
+    <entry id="camping_shoulder_r"><![CDATA[(R1) Eroe seguente]]></entry>
+    <entry id="camping_trigger_l"><![CDATA[(L2 PREMUTO) Informazioni stato]]></entry>
+    <entry id="camping_trigger_r"><![CDATA[(R2 PREMUTO) Controlli mappa]]></entry>
+    <entry id="[psv]camping_shoulder_l"><![CDATA[(touch pad posteriore sinistro)
+ Eroe precedente]]></entry>
+    <entry id="[psv]camping_shoulder_r"><![CDATA[(touch pad posteriore destro)
+ Eroe seguente]]></entry>
+    <entry id="[psv]camping_shoulder_l_rear_touchpad_enabled"><![CDATA[(touch pad posteriore sinistro)
+ non usato]]></entry>
+    <entry id="[psv]camping_shoulder_r_rear_touchpad_enabled"><![CDATA[(touch pad posteriore destro)
+ non usato]]></entry>
+    <entry id="[psv]camping_trigger_l"><![CDATA[(PREMUTO) Informazioni stato]]></entry>
+    <entry id="[psv]camping_trigger_r"><![CDATA[(PREMUTO) Comandi mappa]]></entry>
+    <entry id="camping_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="[psv]camping_touch_screen_l_rear_touchpad_enabled"><![CDATA[Eroe precedente]]></entry>
+    <entry id="[psv]camping_touch_screen_r_rear_touchpad_enabled"><![CDATA[Eroe seguente]]></entry>
+    <entry id="town_start1"><![CDATA[Menu]]></entry>
+    <entry id="[psv]town_start2"><![CDATA[Intraprendi]]></entry>
+    <entry id="town_secondary2"><![CDATA[Inventario accessori]]></entry>
+    <entry id="town_primary2"><![CDATA[Annulla/Indietro]]></entry>
+    <entry id="town_primary1"><![CDATA[Entra nell'edificio]]></entry>
+    <entry id="town_secondary1"><![CDATA[Distretti]]></entry>
+    <entry id="town_analog_stick_l"><![CDATA[Cambia edificio]]></entry>
+    <entry id="town_shoulder_l"><![CDATA[(L1) Eventi villaggio]]></entry>
+    <entry id="town_shoulder_r"><![CDATA[(R1) Registro attività]]></entry>
+    <entry id="[psv]town_shoulder_l_rear_touchpad_enabled"><![CDATA[(touch pad posteriore sinistro)
+ non usato]]></entry>
+    <entry id="[psv]town_shoulder_r_rear_touchpad_enabled"><![CDATA[(touch pad posteriore destro)
+ non usato]]></entry>
+    <entry id="town_trigger_r"><![CDATA[(R2 PREMUTO) Esamina squadra]]></entry>
+    <entry id="[psv]town_shoulder_l"><![CDATA[(touch pad posteriore sinistro)
+ Eventi villaggio]]></entry>
+    <entry id="[psv]town_shoulder_r"><![CDATA[(touch pad posteriore destro)
+ Registro attività]]></entry>
+    <entry id="[psv]town_trigger_r"><![CDATA[(PREMUTO) Esamina squadra]]></entry>
+    <entry id="town_stick_l"><![CDATA[Scambio cimelio]]></entry>
+    <entry id="town_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="town_tpad_r"><![CDATA[Intraprendi]]></entry>
+    <entry id="[psv]town_touch_screen_l_rear_touchpad_enabled"><![CDATA[Eventi villaggio]]></entry>
+    <entry id="[psv]town_touch_screen_r_rear_touchpad_enabled"><![CDATA[Registro attività]]></entry>
+    <entry id="hero_activity_start1"><![CDATA[Menu]]></entry>
+    <entry id="hero_activity_primary2"><![CDATA[Annulla/Indietro]]></entry>
+    <entry id="hero_activity_primary1"><![CDATA[Colloca eroe/Conferma trattamento]]></entry>
+    <entry id="hero_activity_analog_stick_l"><![CDATA[Scegli slot/eroe]]></entry>
+    <entry id="hero_activity_trigger_l"><![CDATA[(L2 PREMUTO) Potenziamenti edificio]]></entry>
+    <entry id="hero_activity_trigger_r"><![CDATA[(R2 PREMUTO) Esamina squadra]]></entry>
+    <entry id="[psv]hero_activity_trigger_l"><![CDATA[(PREMUTO) Potenziamenti edificio]]></entry>
+    <entry id="[psv]hero_activity_trigger_r"><![CDATA[(PREMUTO) Esamina squadra]]></entry>
+    <entry id="hero_activity_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="hero_action_start1"><![CDATA[Menu]]></entry>
+    <entry id="hero_action_primary2"><![CDATA[Annulla/Indietro]]></entry>
+    <entry id="hero_action_primary1"><![CDATA[Acquista potenziamento]]></entry>
+    <entry id="hero_action_analog_stick_l"><![CDATA[Scegli eroe]]></entry>
+    <entry id="hero_action_shoulder_l"><![CDATA[Eroe precedente]]></entry>
+    <entry id="hero_action_shoulder_r"><![CDATA[Eroe seguente]]></entry>
+    <entry id="hero_action_trigger_l"><![CDATA[(L2 PREMUTO) Potenziamenti edificio]]></entry>
+    <entry id="hero_action_trigger_r"><![CDATA[(R2 PREMUTO) Esamina squadra]]></entry>
+    <entry id="[psv]hero_action_shoulder_l"><![CDATA[(touch pad posteriore sinistro)
+ Eroe precedente]]></entry>
+    <entry id="[psv]hero_action_shoulder_r"><![CDATA[(touch pad posteriore destro)
+ Eroe seguente]]></entry>
+    <entry id="[psv]hero_action_shoulder_l_rear_touchpad_enabled"><![CDATA[(touch pad posteriore sinistro)
+ non usato]]></entry>
+    <entry id="[psv]hero_action_shoulder_r_rear_touchpad_enabled"><![CDATA[(touch pad posteriore destro)
+ non usato]]></entry>
+    <entry id="[psv]hero_action_trigger_l"><![CDATA[(PREMUTO) Potenziamenti edificio]]></entry>
+    <entry id="[psv]hero_action_trigger_r"><![CDATA[(PREMUTO) Esamina squadra]]></entry>
+    <entry id="hero_action_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="[psv]hero_action_touch_screen_l_rear_touchpad_enabled"><![CDATA[Eroe precedente]]></entry>
+    <entry id="[psv]hero_action_touch_screen_r_rear_touchpad_enabled"><![CDATA[Eroe seguente]]></entry>
+    <entry id="nomad_wagon_start1"><![CDATA[Menu]]></entry>
+    <entry id="nomad_wagon_primary2"><![CDATA[Annulla/Indietro]]></entry>
+    <entry id="nomad_wagon_primary1"><![CDATA[Compra accessorio]]></entry>
+    <entry id="nomad_wagon_analog_stick_l"><![CDATA[Cambia accessori]]></entry>
+    <entry id="nomad_wagon_trigger_l"><![CDATA[(L2 PREMUTO) Potenziamenti edificio]]></entry>
+    <entry id="nomad_wagon_trigger_r"><![CDATA[(R2 PREMUTO) Esamina squadra]]></entry>
+    <entry id="[psv]nomad_wagon_trigger_l"><![CDATA[(PREMUTO) Potenziamenti edificio]]></entry>
+    <entry id="[psv]nomad_wagon_trigger_r"><![CDATA[(PREMUTO) Esamina squadra]]></entry>
+    <entry id="nomad_wagon_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="stage_coach_start1"><![CDATA[Menu]]></entry>
+    <entry id="stage_coach_primary2"><![CDATA[Annulla/Indietro]]></entry>
+    <entry id="stage_coach_primary1"><![CDATA[Recluta/Colloca nella squadra]]></entry>
+    <entry id="stage_coach_secondary1"><![CDATA[Dettagli eroe]]></entry>
+    <entry id="stage_coach_analog_stick_l"><![CDATA[Scegli recluta]]></entry>
+    <entry id="stage_coach_trigger_l"><![CDATA[(L2 PREMUTO) Potenziamenti edificio]]></entry>
+    <entry id="stage_coach_trigger_r"><![CDATA[(R2 PREMUTO) Esamina squadra]]></entry>
+    <entry id="[psv]stage_coach_trigger_l"><![CDATA[(PREMUTO) Potenziamenti edificio]]></entry>
+    <entry id="[psv]stage_coach_trigger_r"><![CDATA[(PREMUTO) Esamina squadra]]></entry>
+    <entry id="stage_coach_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="quest_select_start1"><![CDATA[Menu]]></entry>
+    <entry id="[psv]quest_select_start2"><![CDATA[Intraprendi]]></entry>
+    <entry id="quest_select_primary2"><![CDATA[Annulla/Indietro]]></entry>
+    <entry id="quest_select_primary1"><![CDATA[Colloca/Rimuovi eroe dalla compagnia]]></entry>
+    <entry id="quest_select_analog_stick_l"><![CDATA[Seleziona missione]]></entry>
+    <entry id="quest_select_trigger_r"><![CDATA[(R2 PREMUTO) Esamina squadra]]></entry>
+    <entry id="[psv]quest_select_trigger_r"><![CDATA[(PREMUTO) Esamina squadra]]></entry>
+    <entry id="quest_select_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="quest_select_tpad_r"><![CDATA[Intraprendi]]></entry>
+    <entry id="provision_start1"><![CDATA[Menu]]></entry>
+    <entry id="[psv]provision_start2"><![CDATA[Intraprendi]]></entry>
+    <entry id="provision_primary2"><![CDATA[Annulla/Indietro]]></entry>
+    <entry id="provision_primary1"><![CDATA[Acquista/Vendi scorte]]></entry>
+    <entry id="provision_analog_stick_l"><![CDATA[Seleziona scorte]]></entry>
+    <entry id="provision_trigger_r"><![CDATA[(R2 PREMUTO) Esamina squadra]]></entry>
+    <entry id="[psv]provision_trigger_r"><![CDATA[(PREMUTO) Esamina squadra]]></entry>
+    <entry id="provision_tpad_l"><![CDATA[Aiuto]]></entry>
+    <entry id="provision_tpad_r"><![CDATA[Intraprendi]]></entry>
+    <entry id="inventory_secondary2"><![CDATA[Usa/(TIENI PREMUTO) Scarta]]></entry>
+    <entry id="inventory_primary1"><![CDATA[Muovi o equipaggia oggetto]]></entry>
+    <entry id="inventory_analog_stick_l"><![CDATA[Seleziona oggetto]]></entry>
+    <entry id="inventory_trigger_l"><![CDATA[(L2 PREMUTO) Informazioni oggetto]]></entry>
+    <entry id="[psv]inventory_trigger_l"><![CDATA[(PREMUTO) Informazioni oggetto]]></entry>
+    <entry id="[ps4]tutorial_popup_embark_description"><![CDATA[Al momento il villaggio non ha molto da offrire. È ora di INTRAPRENDERE una missione!
+ 
+ Premi il {colour_start|notable}[PULSANTE TOUCH PAD A DESTRA]{colour_end} per dare il via alle danze!]]></entry>
+    <entry id="[psv]tutorial_popup_embark_description"><![CDATA[Al momento il villaggio non ha molto da offrire. È ora di INTRAPRENDERE una missione!
+ 
+ Premi {colour_start|notable}[START]{colour_end}!]]></entry>
+    <entry id="[ps4]tutorial_popup_loot_description"><![CDATA[Ogni oggetto, se lo prendi, occuperà spazio nel tuo inventario.
+ 
+ Tieni premuto {colour_start|notable}[L2] e usa la [LEVETTA SINISTRA]{colour_end} per vedere i dettagli degli oggetti disponibili. Funziona anche nell'inventario!
+ 
+ (Premi il {colour_start|town_activity_log_positive_result}[TASTO CERCHIO]{colour_end} per chiudere questa finestra.)]]></entry>
+    <entry id="[psv]tutorial_popup_loot_description"><![CDATA[Ogni oggetto, se lo prendi, occuperà spazio nel tuo inventario.
+ 
+ Tieni premuto il {colour_start|notable}[TASTO L] e usa la [LEVETTA SINISTRA]{colour_end} per vedere i dettagli degli oggetti da disponibili. Funziona anche nell'inventario!
+ 
+ (Premi il {colour_start|town_activity_log_positive_result}[TASTO CERCHIO]{colour_end} per chiudere questa finestra.)]]></entry>
+    <entry id="[ps4]tutorial_popup_supplies_description"><![CDATA[Vorrai munirti di {colour_start|notable}scorte differenti{colour_end} in base alla {colour_start|notable}regione{colour_end} in cui ti dirigi, a quanto {colour_start|notable}tempo{colour_end} richiede la missione e naturalmente al tuo istinto. Ma non dimenticare mai {colour_start|notable}cibo{colour_end} e {colour_start|notable}torce{colour_end}!
+ 
+ Per la tua prima breve missione, porta con te almeno 8 unità di cibo e 4 torce.
+ 
+ Per visualizzare i dettagli degli oggetti, tieni premuto {colour_start|notable}[L2]{colour_end}. Funziona sia nell'inventario che nelle finestre del bottino!]]></entry>
+    <entry id="[psv]tutorial_popup_supplies_description"><![CDATA[Vorrai munirti di {colour_start|notable}scorte differenti{colour_end} in base alla {colour_start|notable}regione{colour_end} in cui ti dirigi, a quanto {colour_start|notable}tempo{colour_end} richiede la missione e naturalmente al tuo istinto.
+ 
+ Per la tua prima breve missione, porta con te almeno 8 unità di cibo e 4 torce.
+ 
+ Per visualizzare i dettagli degli oggetti, premi il {colour_start|notable}[TASTO L]{colour_end}. Funziona sia nell'inventario che nelle finestre del bottino!]]></entry>
+    <entry id="tutorial_popup_quest_select_title"><![CDATA[Missioni e compagnie]]></entry>
+    <entry id="tutorial_popup_quest_select_description"><![CDATA[Qui selezioni una missione e formi una compagnia di ventura di 4 eroi per intraprenderla.
+ 
+ {colour_start|notable}[CLICCA]{colour_end} sulle missioni per vederne i dettagli.
+ 
+ {colour_start|notable}[TRASCINA]{colour_end} gli eroi negli slot in fondo alla schermata per scegliere i membri della tua compagnia e il loro ordine predefinito.]]></entry>
+    <entry id="[ps4]tutorial_popup_quest_select_description"><![CDATA[Qui selezioni una missione e formi una compagnia di ventura di 4 eroi per intraprenderla.
+ 
+ {colour_start|notable}[SELEZIONA]{colour_end} le missioni con la {colour_start|notable}[LEVETTA SINISTRA]{colour_end} per vederne i dettagli.
+ 
+ Colloca gli eroi negli slot in fondo alla schermata per scegliere i membri della tua compagnia tenendo premuto {colour_start|notable}[R2]{colour_end} e usando il {colour_start|notable}[TASTO CROCE]{colour_end}.]]></entry>
+    <entry id="[psv]tutorial_popup_quest_select_description"><![CDATA[Qui selezioni una missione e formi una compagnia di ventura di 4 eroi per intraprenderla.
+ 
+ {colour_start|notable}[SELEZIONA]{colour_end} le missioni con la {colour_start|notable}[LEVETTA SINISTRA]{colour_end} per vederne i dettagli.
+ 
+ Colloca gli eroi negli slot in fondo alla schermata per scegliere i membri della tua compagnia tenendo premuto {colour_start|notable}[R]{colour_end} e usando il {colour_start|notable}[TASTO CROCE]{colour_end}.]]></entry>
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Dovrai {colour_start|notable}reclutare tutti questi eroi{colour_end} per completare una compagnia di quattro.
+ 
+ {colour_start|town_activity_log_positive_result}[Trascina e rilascia]{colour_end} gli eroi nella tua squadra.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_stage_coach_description"><![CDATA[Dovrai {colour_start|notable}reclutare tutti questi eroi{colour_end} per completare una compagnia di quattro.
+ 
+ Seleziona ciascun eroe con {colour_start|notable}[LEVETTA SINISTRA] più [TASTO CROCE]{colour_end} e poi usa nuovamente {colour_start|notable}[LEVETTA SINISTRA] più [TASTO CROCE]{colour_end}per collocare l'eroe nella tua squadra attiva sulla destra.]]></entry>
+    <entry id="tutorial_popup_stage_coach2_title"><![CDATA[Potenzia la rete della diligenza]]></entry>
+    <entry id="tutorial_popup_stage_coach2_description"><![CDATA[Visto che sei qui, cogli l'occasione per {colour_start|notable}potenziare la rete della Diligenza{colour_end} spendendo alcuni dei tuoi cimeli di partenza. Così facendo aumenterai il numero di eroi disponibili qui in futuro.
+ 
+ Per potenziarla, clicca sul simbolo {colour_start|town_activity_log_positive_result}[+]{colour_end} a sinistra e poi sul potenziamento.]]></entry>
+    <entry id="[ps4]tutorial_popup_stage_coach2_description"><![CDATA[Visto che sei qui, cogli l'occasione per {colour_start|notable}potenziare la rete della Diligenza{colour_end} spendendo alcuni dei tuoi cimeli di partenza. Così facendo aumenterai il numero di eroi disponibili qui in futuro.
+ 
+ Per potenziarla, tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per accedere al menu dei potenziamenti e poi usa {colour_start|notable}[LEVETTA SINISTRA] più [TASTO CROCE]{colour_end} per acquistare i potenziamenti.]]></entry>
+    <entry id="[psv]tutorial_popup_stage_coach2_description"><![CDATA[Visto che sei qui, cogli l'occasione per {colour_start|notable}potenziare la rete della Diligenza{colour_end} spendendo alcuni dei tuoi cimeli di partenza. Così facendo aumenterai il numero di eroi disponibili qui in futuro.
+ 
+ Per potenziarla, tieni premuto il {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per accedere al menu dei potenziamenti e poi usa {colour_start|notable}[LEVETTA SINISTRA] più [TASTO CROCE]{colour_end} per acquistare i potenziamenti.]]></entry>
+    <entry id="[ps4]tutorial_popup_quest_complete_description"><![CDATA[Dopo aver soddisfatto i requisiti di una missione, puoi scegliere di {colour_start|notable}ritornare al villaggio{colour_end} in qualsiasi momento, premendo il {colour_start|notable}[PULSANTE TOUCH PAD A DESTRA]{colour_end}. Non devi tornare alla stanza iniziale della segreta per uscire.
+ 
+ (Premi il {colour_start|town_activity_log_positive_result}[TASTO CERCHIO]{colour_end} per chiudere questa finestra.)]]></entry>
+    <entry id="[psv]tutorial_popup_quest_complete_description"><![CDATA[Dopo aver soddisfatto i requisiti di una missione, puoi scegliere di {colour_start|notable}ritornare al villaggio{colour_end} in qualsiasi momento, premendo {colour_start|notable}[TASTO START]{colour_end}. Non devi tornare alla stanza iniziale della segreta per uscire.
+ 
+ (Premi il {colour_start|town_activity_log_positive_result}[TASTO CERCHIO]{colour_end} per chiudere questa finestra.)]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_hero_panel_description"><![CDATA[Quando un eroe è selezionato, premi il {colour_start|town_activity_log_positive_result}[TASTO QUADRATO]{colour_end} per accedere a un quadro dettagliato di tutte le {colour_start|notable}ossessioni{colour_end}, {colour_start|notable}abilità{colour_end} e {colour_start|notable}resistenze{colour_end} dell'eroe.]]></entry>
+    <entry id="[ps4]tutorial_popup_press_h_description"><![CDATA[In qualsiasi schermata del gioco, premi il {colour_start|town_activity_log_positive_result}[PULSANTE TOUCH PAD A SINISTRA]{colour_end} per visualizzare il contesto.
+ 
+ Provalo nel villaggio o quando esplori, lotti, fai campeggio o altro.]]></entry>
+    <entry id="[psv]tutorial_popup_press_h_description"><![CDATA[In qualsiasi schermata del gioco, premi il {colour_start|town_activity_log_positive_result}[TASTO SELECT]{colour_end} e scegli {colour_start|town_activity_log_positive_result}[AIUTO]{colour_end} per visualizzare il contesto.
+ 
+ Provalo nel villaggio o quando esplori, lotti, fai campeggio o altro.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_combat_description"><![CDATA[Il combattimento si svolge {colour_start|notable}a turni{colour_end}. Quando tocca al tuo eroe, {colour_start|town_activity_log_positive_result}[SELEZIONA]{colour_end} un'icona dell'abilità e poi {colour_start|town_activity_log_positive_result}[SELEZIONA]{colour_end} un bersaglio.
+ 
+ Se non puoi selezionare una determinata abilità, è perché quell'eroe deve {colour_start|notable}trovarsi in una posizione differente{colour_end} o {colour_start|notable}nessun bersaglio valido{colour_end} è disponibile. {colour_start|town_activity_log_positive_result}[EVIDENZIA]{colour_end} l'abilità per vederne i requisiti.]]></entry>
+    <entry id="[ps4]tutorial_popup_map_nav_description"><![CDATA[Al momento sei in una {colour_start|notable}stanza{colour_end}.
+ 
+ Per muoverti verso un'altra, usa la {colour_start|town_activity_log_positive_result}[LEVETTA DESTRA]{colour_end} per selezionare una {colour_start|notable}stanza di arrivo{colour_end} sulla {colour_start|notable}mappa{colour_end}. Così facendo accederai al {colour_start|notable}corridoio di collegamento{colour_end}.
+ 
+ (Premi il {colour_start|town_activity_log_positive_result}[TASTO CERCHIO]{colour_end} per chiudere questa finestra.)]]></entry>
+    <entry id="[psv]tutorial_popup_map_nav_description"><![CDATA[Al momento sei in una {colour_start|notable}stanza{colour_end}.
+ 
+ Per muoverti verso un'altra, usa la {colour_start|town_activity_log_positive_result}[LEVETTA DESTRA]{colour_end} per selezionare una {colour_start|notable}stanza di arrivo{colour_end} sulla {colour_start|notable}mappa{colour_end}. Così facendo accederai al {colour_start|notable}corridoio di collegamento{colour_end}.
+ 
+ In alternativa, puoi {colour_start|town_activity_log_positive_result}[TOCCARE]{colour_end} la stanza di arrivo sullo schermo.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_hallway_nav_description"><![CDATA[Quando ti trovi in un {colour_start|notable}corridoio{colour_end}, usa la {colour_start|town_activity_log_positive_result}[LEVETTA SINISTRA]{colour_end} per muoverti avanti o indietro.
+ 
+ (Premi il {colour_start|town_activity_log_positive_result}[TASTO CERCHIO]{colour_end} per chiudere questa finestra.)]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_curio_description"><![CDATA[Mentre esplori, incontrerai spesso {colour_start|notable}oggetti interattivi{colour_end}. Premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per ispezionarli con l'eroe attivo. Dai un'occhiata a questa tenda...
+ 
+ (Premi il {colour_start|town_activity_log_positive_result}[TASTO CERCHIO]{colour_end} per chiudere questa finestra.)]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_bandage_description"><![CDATA[Il tuo eroe sta {colour_start|pop_text_bleed}sanguinando{colour_end}!
+ 
+ Se lo desideri, puoi usare una {colour_start|notable}benda{colour_end} nell'inventario per tamponare il sanguinamento. Seleziona una benda e premi il {colour_start|town_activity_log_positive_result}[TASTO TRIANGOLO]{colour_end} per usarla quando è il turno dell'eroe ferito.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_antivenom_description"><![CDATA[Seleziona e usa antidoti, bende o erbe medicinali nell'inventario con {colour_start|town_activity_log_positive_result}[LEVETTA SINISTRA]{colour_end} e {colour_start|town_activity_log_positive_result}[TASTO TRIANGOLO]{colour_end} per curare rispettivamente INFEZIONI, EMORRAGIE o MORBI nell'eroe selezionato.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_torch_description"><![CDATA[La {colour_start|notable}luce{colour_end} si sta affievolendo! L'attuale {colour_start|notable}livello delle torce influenza enormemente molte meccaniche{colour_end} del gioco. Più fa buio, più le situazioni si complicano e le ricompense diventano maggiori. Seleziona una torcia nell'inventario e premi il {colour_start|town_activity_log_positive_result}[TASTO TRIANGOLO]{colour_end} per consumarla e ripristinare il livello di luce.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_camping_quest_description"><![CDATA[In questa missione dovrai fare {colour_start|notable}campeggio{colour_end} e ciò richiede {colour_start|notable}legna da ardere{colour_end}. Quest'ultima ti verrà {colour_start|notable}automaticamente assegnata{colour_end} in missioni specifiche.
+ 
+ Il {colour_start|notable}campeggio{colour_end} offre agli eroi l'opportunità di {colour_start|notable}tirare il fiato all'interno della segreta{colour_end}. Quando sei ferito o stressato e hai bisogno di fare campeggio, seleziona la legna da ardere nel tuo inventario e premi il {colour_start|town_activity_log_positive_result}[TASTO TRIANGOLO]{colour_end}.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_disarm_trap_description"><![CDATA[Le {colour_start|trap}trappole{colour_end} localizzate saranno {colour_start|notable}visibili sul terreno{colour_end} quando ti ci avvicini. Seleziona un eroe e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} in prossimità della {colour_start|trap}trappola{colour_end} per tentare di {colour_start|notable}disinnescarla{colour_end}.
+ 
+ Quando gli eroi sono in prossimità di una trappola localizzata, nella loro barra di stato apparirà l'icona della trappola.
+ 
+ Alcuni eroi sono più bravi a farlo di altri.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_using_doors_description"><![CDATA[Per aprire una {colour_start|notable}porta{colour_end}, premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} quando ce l'hai di fronte.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_trinkets_description"><![CDATA[Ogni eroe dispone di due slot per equipaggiare altrettanti oggetti, chiamati {colour_start|notable}accessori{colour_end}. Selezionane uno nell'inventario e premi il {colour_start|notable}[TASTO CROCE]{colour_end} per equipaggiarlo. Gli {colour_start|notable}accessori{colour_end} sono equi: hanno pregi ma anche difetti, e alcuni sono riservati a una specifica classe di eroi.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_selling_trinkets_description"><![CDATA[Puoi rivendere gli accessori indesiderati nel tuo inventario degli accessori e ricavarci qualche quattrino. Apri l'inventario degli accessori con il {colour_start|notable}[TASTO TRIANGOLO]{colour_end}, seleziona quello che non vuoi più e vendilo con il [TASTO QUADRATO].]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_scout_hidden_door_description"><![CDATA[Una perlustrazione eseguita alla perfezione può svelare a volte una {colour_start|notable}stanza segreta{colour_end}! Vai sulla casella contrassegnata da una stella e premi il {colour_start|notable}[TASTO CROCE]{colour_end} per entrare. Coloro che portano con sé una {colour_start|notable}chiave{colour_end} rimarranno accecati dai tesori che contiene...]]></entry>
+    <entry id="[ps4]str_help_town_0"><![CDATA[Seleziona un eroe con {colour_start|town_activity_log_positive_result}[R2 più LEVETTA SINISTRA]{colour_end} e poi premi il {colour_start|town_activity_log_positive_result}[TASTO QUADRATO]{colour_end} per esaminare la scheda del personaggio. Da qui puoi selezionare abilità e cambiare il colore dei vestiti, il suo nome o congedarlo in pianta stabile.]]></entry>
+    <entry id="[psv]str_help_town_0"><![CDATA[Seleziona un eroe con {colour_start|town_activity_log_positive_result}[TASTO R più LEVETTA SINISTRA]{colour_end} e poi premi il {colour_start|town_activity_log_positive_result}[TASTO QUADRATO]{colour_end} per esaminare la scheda del personaggio. Da qui puoi selezionare abilità e cambiare il colore dei vestiti, il suo nome o congedarlo in pianta stabile.]]></entry>
+    <entry id="[ps4|psv]str_help_town_1"><![CDATA[Usa {colour_start|town_activity_log_positive_result}[LEVETTA SINISTRA e TASTO CROCE]{colour_end} per entrare negli edifici.]]></entry>
+    <entry id="[ps4|psv]str_help_town_2"><![CDATA[DILIGENZA: recluta nuovi eroi]]></entry>
+    <entry id="[ps4|psv]str_help_town_3"><![CDATA[FUCINA, GILDA, SOPRAVVITORIO: potenzia abilità ed equipaggiamento degli eroi]]></entry>
+    <entry id="[ps4|psv]str_help_town_4"><![CDATA[TAVERNA, ABBAZIA: manda eroi per alleviare lo {colour_start|stressNOT1}stress{colour_end}]]></entry>
+    <entry id="[ps4|psv]str_help_town_5"><![CDATA[FRENOCOMIO: cura malattie e ossessioni dell'eroe]]></entry>
+    <entry id="[ps4|psv]str_help_town_6"><![CDATA[CARRO DEI NOMADI: acquista oggetti rari]]></entry>
+    <entry id="[ps4]str_help_town_7"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[PULSANTE TOUCH PAD A DESTRA]{colour_end} quando te la senti di {colour_start|town_activity_log_positive_result}INTRAPRENDERE UNA MISSIONE{colour_end}.]]></entry>
+    <entry id="[psv]str_help_town_7"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO START]{colour_end} quando te la senti di {colour_start|town_activity_log_positive_result}INTRAPRENDERE UNA MISSIONE{colour_end}.]]></entry>
+    <entry id="[ps4]str_help_town_stage_coach_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[psv]str_help_town_stage_coach_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[ps4|psv]str_help_town_stage_coach_1"><![CDATA[Quando un eroe è selezionato, premi il {colour_start|town_activity_log_positive_result}[TASTO QUADRATO]{colour_end} per esaminarlo.]]></entry>
+    <entry id="[ps4|psv]str_help_town_stage_coach_2"><![CDATA[Usa il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per ingaggiare e collocare nuovi eroi nella tua squadra.]]></entry>
+    <entry id="[ps4]str_help_town_blacksmith_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[psv]str_help_town_blacksmith_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[ps4|psv]str_help_town_blacksmith_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Colloca]{colour_end} un eroe della tua squadra nello slot della Fucina per vedere le opzioni di potenziamento per armi e armatura.]]></entry>
+    <entry id="[ps4|psv]str_help_town_blacksmith_2"><![CDATA[{colour_start|town_activity_log_positive_result}[Seleziona]{colour_end} potenziamenti e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per acquistarli. Potresti dover potenziare la Fucina prima di acquistare determinati potenziamenti per un eroe.]]></entry>
+    <entry id="[ps4]str_help_town_guild_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[psv]str_help_town_guild_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[ps4|psv]str_help_town_guild_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Colloca]{colour_end} un eroe della tua squadra nella Gilda per vedere le opzioni di potenziamento delle abilità.]]></entry>
+    <entry id="[ps4|psv]str_help_town_guild_2"><![CDATA[{colour_start|town_activity_log_positive_result}[Seleziona]{colour_end} abilità di combattimento o potenziamenti per le abilità di combattimento e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per acquistarli. Potresti dover potenziare la Gilda prima di acquistare determinati potenziamenti per un eroe.]]></entry>
+    <entry id="[ps4]str_help_town_camping_trainer_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[psv]str_help_town_camping_trainer_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[ps4|psv]str_help_town_camping_trainer_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Colloca]{colour_end} un eroe della tua squadra nel Sopravvitorio per vedere le opzioni di potenziamento delle abilità di campeggio.]]></entry>
+    <entry id="[ps4|psv]str_help_town_camping_trainer_2"><![CDATA[{colour_start|town_activity_log_positive_result}[Seleziona]{colour_end} abilità o potenziamenti e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per acquistarli. Potresti dover potenziare il Sopravvitorio prima di acquistare determinati potenziamenti per un eroe.]]></entry>
+    <entry id="[ps4]str_help_town_tavern_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[psv]str_help_town_tavern_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Colloca]{colour_end} un eroe della tua squadra nello slot appropriato e conferma il pagamento con il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per iniziare un'attività per alleviare lo stress.]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_2"><![CDATA[Alcune ossessioni impediranno a un eroe di intraprendere quell'attività.]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_3"><![CDATA[Ogni attività ha costi, valori di riduzione dello {colour_start|stressNOT1}stress{colour_end} e potenziali effetti collaterali differenti. Per scoprirli dovrai immergerti nel gioco.]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_4"><![CDATA[Un eroe impegnato in un'attività non sarà disponibile per la prossima missione.]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_5"><![CDATA[Dovrai potenziare l'edificio per sbloccare slot per attività aggiuntivi.]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_6"><![CDATA[Seleziona uno slot edificio occupato e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per espellere prematuramente l'eroe dall'attività dell'edificio. La pecunia spesa non verrà rimborsata.]]></entry>
+    <entry id="[ps4]str_help_town_abbey_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[psv]str_help_town_abbey_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Colloca]{colour_end} un eroe della tua squadra nello slot appropriato e conferma il pagamento con il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per iniziare un'attività per alleviare lo stress.]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_2"><![CDATA[Alcune ossessioni impediranno a un eroe di intraprendere quell'attività.]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_3"><![CDATA[Ogni attività ha costi, valori di riduzione dello {colour_start|stressNOT1}stress{colour_end} e potenziali effetti collaterali differenti. Per scoprirli dovrai immergerti nel gioco.]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_4"><![CDATA[Un eroe impegnato in un'attività non sarà disponibile per la prossima missione.]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_5"><![CDATA[Dovrai potenziare l'edificio per sbloccare slot per attività aggiuntivi.]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_6"><![CDATA[Seleziona uno slot edificio occupato e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per espellere prematuramente l'eroe dall'attività dell'edificio. La pecunia spesa non verrà rimborsata.]]></entry>
+    <entry id="[ps4]str_help_town_sanitarium_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[psv]str_help_town_sanitarium_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_1"><![CDATA[Curare le ossessioni: {colour_start|town_activity_log_positive_result}[Colloca]{colour_end} un eroe in uno slot del reparto di cura e seleziona un'ossessione positiva da rinforzare e/o una negativa da rimuovere. Più è grave l'ossessione, più caro il suo trattamento.]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_2"><![CDATA[Curare le malattie: {colour_start|town_activity_log_positive_result}[Colloca]{colour_end} un eroe in uno slot del reparto di medicina e seleziona una malattia da curare. A volte vengono curati anche altri disturbi.]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_3"><![CDATA[Un eroe sottoposto a un trattamento non sarà disponibile per la missione successiva.]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_4"><![CDATA[Dovrai potenziare l'edificio per sbloccare slot per trattamento aggiuntivi.]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_5"><![CDATA[Seleziona uno slot edificio occupato e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per espellere prematuramente l'eroe dall'attività dell'edificio. La pecunia spesa non verrà rimborsata.]]></entry>
+    <entry id="[ps4]str_help_town_nomad_wagon_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[psv]str_help_town_nomad_wagon_0"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per accedere ai potenziamenti di questo edificio.]]></entry>
+    <entry id="[ps4|psv]str_help_town_nomad_wagon_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Seleziona]{colour_end} un oggetto disponibile e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per acquistarlo.]]></entry>
+    <entry id="[ps4|psv]str_help_town_quest_select_0"><![CDATA[{colour_start|town_activity_log_positive_result}[Seleziona]{colour_end} le missioni disponibili per esaminarle.]]></entry>
+    <entry id="[ps4|psv]str_help_town_quest_select_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Seleziona]{colour_end} eroi e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per aggiungerli alla compagnia di ventura.]]></entry>
+    <entry id="[ps4|psv]str_help_town_quest_select_2"><![CDATA[Gli eroi che si trovano alla Taverna, all'Abbazia o al Frenocomio non saranno disponibili.]]></entry>
+    <entry id="[ps4|psv]str_help_town_quest_select_3"><![CDATA[Completa le missioni nelle regioni per incrementare il tuo dominio su quella regione e sbloccare nuove tipologie di missioni.]]></entry>
+    <entry id="[ps4]str_help_town_quest_select_4"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[PULSANTE TOUCH PAD A DESTRA]{colour_end} quando te la senti di procedere al vettovagliamento.]]></entry>
+    <entry id="[psv]str_help_town_quest_select_4"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO START]{colour_end} quando te la senti di procedere al vettovagliamento.]]></entry>
+    <entry id="[ps4|psv]str_help_town_provision_0"><![CDATA[{colour_start|town_activity_log_positive_result}[Seleziona]{colour_end} oggetti nel negozio e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per acquistarli in vista della spedizione.]]></entry>
+    <entry id="[ps4|psv]str_help_town_provision_1"><![CDATA[A fine missione, le provviste non utilizzate verranno scartate e non riceverai rimborso alcuno. Compra lo stretto necessario!]]></entry>
+    <entry id="[ps4|psv]str_help_town_provision_2"><![CDATA[Porta sempre con te del cibo e delle torce! Ogni eroe consuma di norma 1 unità di cibo a pasto (evento campeggio o carestia) e anche nelle missioni più brevi almeno 8 torce sono indispensabili.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_room_0"><![CDATA[Usa la {colour_start|town_activity_log_positive_result}[LEVETTA DESTRA]{colour_end} per scegliere una nuova stanza di arrivo ed entrare nel corridoio di collegamento.]]></entry>
+    <entry id="[ps4]str_help_raid_room_1"><![CDATA[Usa {colour_start|town_activity_log_positive_result}[R1 e L1]{colour_end} per cambiare l'eroe attivo.]]></entry>
+    <entry id="[psv]str_help_raid_room_1"><![CDATA[Usa {colour_start|town_activity_log_positive_result}[TOUCH PAD POSTERIORE]{colour_end} per cambiare l'eroe attivo.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_room_2"><![CDATA[Usa il {colour_start|town_activity_log_positive_result}[TASTO SU e il TASTO GIÙ]{colour_end} per muoverti tra INVENTARIO e MAPPA.]]></entry>
+    <entry id="[ps4]str_help_raid_room_3"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per spostare un eroe all'interno della compagnia. {colour_start|town_activity_log_positive_result}[Tieni premuto il TASTO CROCE]{colour_end} per ripristinare l'ordine predefinito.]]></entry>
+    <entry id="[psv]str_help_raid_room_3"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO CERCHIO]{colour_end} per spostare un eroe all'interno della compagnia.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_room_4"><![CDATA[Per iniziare un CAMPEGGIO, seleziona la legna da ardere nell'inventario (se ne hai un po') e premi il {colour_start|town_activity_log_positive_result}[TASTO TRIANGOLO]{colour_end}.]]></entry>
+    <entry id="[ps4]str_help_raid_room_5"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per visualizzare gli effetti di gioco come livello di luce e condizioni dello stato dell'eroe.]]></entry>
+    <entry id="[psv]str_help_raid_room_5"><![CDATA[Tieni premuto il {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per visualizzare le informazioni di gioco.]]></entry>
+    <entry id="[ps4]str_help_raid_room_6"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[PULSANTE TOUCH PAD A DESTRA]{colour_end} per abbandonare la missione e tornare al Borgo.]]></entry>
+    <entry id="[psv]str_help_raid_room_6"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO START]{colour_end} per abbandonare la missione e tornare al Borgo.]]></entry>
+    <entry id="[ps4]str_help_raid_room_7"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[R2]{colour_end} per accedere ai comandi della mappa.]]></entry>
+    <entry id="[psv]str_help_raid_room_7"><![CDATA[Tieni premuto il {colour_start|town_activity_log_positive_result}[TASTO R]{colour_end} per accedere ai comandi della mappa.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_room_8"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO QUADRATO]{colour_end} per vedere la scheda del personaggio dettagliata di un eroe.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_hallway_0"><![CDATA[Usa la {colour_start|town_activity_log_positive_result}[LEVETTA DESTRA]{colour_end} per camminare avanti e indietro.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_hallway_1"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per aprire le porte.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_hallway_2"><![CDATA[Usa il {colour_start|town_activity_log_positive_result}[TASTO SU e il TASTO GIÙ]{colour_end} per muoverti tra INVENTARIO e MAPPA.]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_3"><![CDATA[Usa {colour_start|town_activity_log_positive_result}[R1 e L1]{colour_end} per cambiare l'eroe selezionato.]]></entry>
+    <entry id="[psv]str_help_raid_hallway_3"><![CDATA[Usa {colour_start|town_activity_log_positive_result}[TOUCH PAD POSTERIORE]{colour_end} per cambiare l'eroe attivo.]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_4"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per spostare un eroe all'interno della compagnia. {colour_start|town_activity_log_positive_result}[Tieni premuto il TASTO CROCE]{colour_end} per ripristinare l'ordine predefinito.]]></entry>
+    <entry id="[psv]str_help_raid_hallway_4"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per spostare un eroe all'interno della compagnia.]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_5"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per visualizzare gli effetti di gioco come livello di luce e condizioni dello stato dell'eroe.]]></entry>
+    <entry id="[psv]str_help_raid_hallway_5"><![CDATA[Tieni premuto il {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per visualizzare gli effetti di gioco come livello di luce e condizioni dello stato dell'eroe.]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_6"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[R2]{colour_end} per accedere ai comandi della mappa.]]></entry>
+    <entry id="[psv]str_help_raid_hallway_6"><![CDATA[Tieni premuto il {colour_start|town_activity_log_positive_result}[TASTO R]{colour_end} per accedere ai comandi della mappa.]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_7"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[PULSANTE TOUCH PAD A DESTRA]{colour_end} per abbandonare la missione e tornare al Borgo.]]></entry>
+    <entry id="[psv]str_help_raid_hallway_7"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO START]{colour_end} per abbandonare la missione e tornare al Borgo.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_0"><![CDATA[Quando è il turno dell'eroe, usa {colour_start|town_activity_log_positive_result}[LEVETTA SINISTRA]{colour_end} e {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per selezionare un'abilità di combattimento valida e poi un bersaglio.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_1"><![CDATA[Ogni abilità ha dei requisiti specifici riguardo alla posizione dell'eroe e il tipo di nemico che può essere attaccato. Seleziona un'abilità con la {colour_start|town_activity_log_positive_result}[LEVETTA SINISTRA]{colour_end} per vedere tutti i requisiti.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_2"><![CDATA[Quando selezioni un bersaglio con la {colour_start|town_activity_log_positive_result}[LEVETTA SINISTRA]{colour_end}, puoi vedere le statistiche del nemico, la possibilità dell'eroe di colpirlo e la quantità di danni che l'abilità attuale può infliggergli.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_3"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO QUADRATO]{colour_end} per vedere la scheda del personaggio dettagliata di un eroe.]]></entry>
+    <entry id="[ps4]str_help_raid_combat_4"><![CDATA[Tieni premuto {colour_start|town_activity_log_positive_result}[L2]{colour_end} per visualizzare il livello di luce attuale e gli effetti di stato dell'eroe/mostro.]]></entry>
+    <entry id="[psv]str_help_raid_combat_4"><![CDATA[Tieni premuto il {colour_start|town_activity_log_positive_result}[TASTO L]{colour_end} per visualizzare gli effetti di gioco come livello di luce e condizioni dello stato dell'eroe.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_5"><![CDATA[Seleziona e usa antidoti, bende o erbe medicinali nell'inventario con il {colour_start|town_activity_log_positive_result}[TASTO TRIANGOLO]{colour_end} per curare rispettivamente INFEZIONI, EMORRAGIE o MORBI nell'eroe selezionato.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_camping_0"><![CDATA[Usa la {colour_start|town_activity_log_positive_result}[LEVETTA SINISTRA]{colour_end} per evidenziare un'unità di cibo e premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per mangiarla. La quantità dipende dall'abbondanza del tuo inventario.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_camping_1"><![CDATA[La tua compagnia ha {colour_start|town_activity_log_positive_result}[12 PUNTI TREGUA]{colour_end} da spendere per usare abilità di campeggio.]]></entry>
+    <entry id="[ps4]str_help_raid_camping_2"><![CDATA[Usa {colour_start|town_activity_log_positive_result}[L1 e R1]{colour_end} per selezionare un eroe e poi la {colour_start|town_activity_log_positive_result}[LEVETTA SINISTRA e il TASTO CROCE]{colour_end} per usare un'abilità. Alcune hanno bisogno di un bersaglio.]]></entry>
+    <entry id="[psv]str_help_raid_camping_2"><![CDATA[Usa {colour_start|town_activity_log_positive_result}[TOUCH PAD POSTERIORE]{colour_end} per selezionare un eroe e poi {colour_start|town_activity_log_positive_result}[LEVETTA SINISTRA e TASTO CROCE]{colour_end} per usare un'abilità. Alcune hanno bisogno di un bersaglio.]]></entry>
+    <entry id="[ps4|psv]str_help_raid_camping_3"><![CDATA[Quando hai terminato di spendere PUNTI TREGUA, premi il {colour_start|town_activity_log_positive_result}[TASTO TRIANGOLO]{colour_end} per concludere il campeggio.]]></entry>
+    <entry id="[ps4]str_navigate_via_map"><![CDATA[Usa la {colour_start|town_activity_log_positive_result}[LEVETTA DESTRA]{colour_end} per selezionare una stanza di arrivo sulla mappa.]]></entry>
+    <entry id="[ps4]str_reduce_torch_tip"><![CDATA[Tieni premuto [L2] e premi il [TASTO CERCHIO] per ridurre la fiamma della torcia.]]></entry>
+    <entry id="[ps4]str_snuff_torch_tip"><![CDATA[Tieni premuto [L2] e premi il [TASTO CERCHIO] ripetutamente per spegnere la torcia.]]></entry>
+    <entry id="[ps4|psv]action_select_hero"><![CDATA[Colloca un eroe qui.]]></entry>
+    <entry id="[ps4|psv]corrupt_save_confirm_question"><![CDATA[Il tuo file di salvataggio è danneggiato. La tenuta non può essere caricata.]]></entry>
+    <entry id="[ps4|psv]menu_options_element_tooltip_bark_dismissal"><![CDATA[Premi il [TASTO CROCE] per rimuovere i fumetti quando parlano gli eroi.]]></entry>
+    <entry id="[ps4|psv]input_command_realm_inventory_hold_to_unequip_instruction"><![CDATA[[PREMUTO] Rimuovi]]></entry>
+    <entry id="input_command_realm_inventory_hold_to_unequip_instruction"><![CDATA[[PREMUTO] Rimuovi]]></entry>
+    <entry id="input_command_realm_inventory_sort_instruction"><![CDATA[Ordina]]></entry>
+    <entry id="[ps4|psv]str_discard_item_instructions"><![CDATA[[Tieni premuto il TASTO TRIANGOLO] per scartare un oggetto.]]></entry>
+    <entry id="[ps4|psv]str_hero_slot_unlocked_disease_treatment"><![CDATA[Premi il [TASTO CROCE] per sottoporre l'eroe al trattamento.]]></entry>
+    <entry id="[ps4|psv]str_hero_slot_unlocked_stagecoach_tt"><![CDATA[Premi il {colour_start|town_activity_log_positive_result}[TASTO CROCE]{colour_end} per reclutare nella squadra.]]></entry>
+    <entry id="[ps4|psv]str_hero_slot_unlocked_treatment"><![CDATA[Premi il [TASTO CROCE] per sottoporre l'eroe al trattamento.]]></entry>
+    <entry id="[ps4|psv]str_loading_screen_continue"><![CDATA[Premi {colour_start|town_activity_log_positive_result}[QUALSIASI TASTO]{colour_end} per continuare.]]></entry>
+    <entry id="[ps4|psv]str_save_pre_click"><![CDATA[Seleziona la lettera per iniziare...]]></entry>
+    <entry id="[ps4|psv]town_name_realm_inventory"><![CDATA[Accessori]]></entry>
+    <entry id="[psv]str_navigate_via_map"><![CDATA[Usa la {colour_start|town_activity_log_positive_result}[LEVETTA DESTRA]{colour_end} per selezionare una stanza di arrivo sulla mappa.]]></entry>
+    <entry id="[psv]str_reduce_torch_tip"><![CDATA[Tieni premuto il [TASTO L] e premi il [TASTO CERCHIO] per ridurre la fiamma della torcia.]]></entry>
+    <entry id="[psv]str_snuff_torch_tip"><![CDATA[Tieni premuto il [TASTO L] e premi il [TASTO CERCHIO] ripetutamente per spegnere la torcia.]]></entry>
+    <entry id="controller_discard_item_confirm_dialog_no"><![CDATA[No]]></entry>
+    <entry id="controller_discard_item_confirm_dialog_question"><![CDATA[Scartare questo oggetto?]]></entry>
+    <entry id="controller_discard_item_confirm_dialog_yes"><![CDATA[Sì]]></entry>
+    <entry id="curio_tooltip_pass_controller"><![CDATA[Ignora]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot"><![CDATA[Vuoi rimpiazzare lo slot vuoto con la tenuta scaricata [%s]?]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_no"><![CDATA[No]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_yes"><![CDATA[Sì]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot"><![CDATA[Vuoi rimpiazzare lo slot locale [%s] con la tenuta scaricata [%s]?]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_no"><![CDATA[No]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_yes"><![CDATA[Sì]]></entry>
+    <entry id="dialog_msg_cloud_corrupt"><![CDATA[I dati scaricati non sono un salvataggio di una tenuta valido. La memoria del Cross-Save potrebbe essere danneggiata.]]></entry>
+    <entry id="dialog_msg_cloud_empty"><![CDATA[La memoria del Cross-Save è vuota.]]></entry>
+    <entry id="dialog_try_download_estate"><![CDATA[Vuoi provare a scaricare dalla memoria del Cross-Save in questo slot?]]></entry>
+    <entry id="dialog_try_download_estate_no"><![CDATA[No]]></entry>
+    <entry id="dialog_try_download_estate_yes"><![CDATA[Sì]]></entry>
+    <entry id="dialog_try_upload_estate"><![CDATA[Vuoi caricare questa tenuta sulla memoria del Cross-Save?]]></entry>
+    <entry id="dialog_try_upload_estate_no"><![CDATA[No]]></entry>
+    <entry id="dialog_try_upload_estate_yes"><![CDATA[Sì]]></entry>
+    <entry id="front_end_controls_element_begin"><![CDATA[Inizia]]></entry>
+    <entry id="front_end_controls_element_cancel_name"><![CDATA[Annulla]]></entry>
+    <entry id="front_end_controls_element_confirm_name"><![CDATA[Conferma]]></entry>
+    <entry id="front_end_controls_element_delete"><![CDATA[Elimina tenuta]]></entry>
+    <entry id="front_end_controls_element_download_empty"><![CDATA[Scarica salvataggio del Cross-Save]]></entry>
+    <entry id="front_end_controls_element_download_existing"><![CDATA[Sostituisci tenuta con salvataggio del Cross-Save]]></entry>
+    <entry id="front_end_controls_element_load"><![CDATA[Continua tenuta]]></entry>
+    <entry id="front_end_controls_element_new_game"><![CDATA[Nuova tenuta]]></entry>
+    <entry id="front_end_controls_element_upload"><![CDATA[Carica tenuta sulla memoria del Cross-Save]]></entry>
+    <entry id="input_command_dungeon_reduce_torch"><![CDATA[Spegni torcia]]></entry>
+    <entry id="input_command_dungeon_use_torch"><![CDATA[Usa torcia]]></entry>
+    <entry id="input_command_town_sell_trinket"><![CDATA[Vendi]]></entry>
+    <entry id="map_input_preview_pan"><![CDATA[Cambia visuale]]></entry>
+    <entry id="map_input_preview_reset"><![CDATA[Resetta]]></entry>
+    <entry id="map_input_preview_zoom_in"><![CDATA[Ingrandisci]]></entry>
+    <entry id="map_input_preview_zoom_out"><![CDATA[Riduci]]></entry>
+    <entry id="menu_base_element_help"><![CDATA[Aiuto]]></entry>
+    <entry id="menu_base_element_view_help"><![CDATA[Aiuto]]></entry>
+    <entry id="menu_options_element_controller_vibration"><![CDATA[Vibrazione]]></entry>
+    <entry id="obstacle_tooltip_ancestor_talk_controller"><![CDATA[Parla]]></entry>
+    <entry id="obstacle_tooltip_clear_by_hand_controller"><![CDATA[Rimuovi]]></entry>
+    <entry id="retreat_confirm_battle_controller_no"><![CDATA[No]]></entry>
+    <entry id="retreat_confirm_battle_controller_question"><![CDATA[Vuoi dartela a gambe?]]></entry>
+    <entry id="retreat_confirm_battle_controller_yes"><![CDATA[Sì]]></entry>
+    <entry id="str_achievement_description_psplat"><![CDATA[Conquista tutti i trofei]]></entry>
+    <entry id="str_achievement_title_psplat"><![CDATA[La corona di ferro]]></entry>
+    <entry id="str_continue_raid_controller_text"><![CDATA[Rimani]]></entry>
+    <entry id="str_curio_tooltip_investigate_controller"><![CDATA[Esamina]]></entry>
+    <entry id="str_discard_item_confirm"><![CDATA[Scarta questo accessorio equipaggiato?]]></entry>
+    <entry id="str_discard_item_confirm_no"><![CDATA[No]]></entry>
+    <entry id="str_discard_item_confirm_yes"><![CDATA[Sì]]></entry>
+    <entry id="str_overlay_loot_close_controller"><![CDATA[Chiudi]]></entry>
+    <entry id="str_overlay_loot_take_all_controller"><![CDATA[Prendi]]></entry>
+    <entry id="str_return_to_controller_text"><![CDATA[Borgo]]></entry>
+    <entry id="str_ui_hunger_choice_eat_controller"><![CDATA[Mangia]]></entry>
+    <entry id="str_ui_hunger_choice_starve_controller"><![CDATA[digiuna]]></entry>
+    <entry id="str_unequip_all_trinkets_description"><![CDATA[Vuoi spogliare gli eroi di tutti i loro accessori?]]></entry>
+    <entry id="str_unequip_all_trinkets_no"><![CDATA[No]]></entry>
+    <entry id="str_unequip_all_trinkets_yes"><![CDATA[Sì]]></entry>
+    <entry id="try_download_waiting_msg"><![CDATA[Accesso Cross-Save]]></entry>
+    <entry id="try_upload_success_msg"><![CDATA[Tenuta caricata nella memoria del Cross-Save.]]></entry>
+    <entry id="try_upload_waiting_msg"><![CDATA[Accesso Cross-Save]]></entry>
+    <entry id="input_command_realm_inventory_sell_instruction"><![CDATA[Vendi]]></entry>
+    <entry id="str_darkest_dungeon_trophies"><![CDATA[Trofei Darkest Dungeon]]></entry>
+    <entry id="str_darkest_dungeon_trophy_data"><![CDATA[Dati trofeo per Darkest Dungeon]]></entry>
+    <entry id="str_save_accessing"><![CDATA[Accesso ai dati salvati in corso...]]></entry>
+    <entry id="str_saving_warning"><![CDATA[Salvataggio... NON USCIRE DAL GIOCO.]]></entry>
+    <entry id="[ps4]str_town_tip"><![CDATA[Tieni premuto {colour_start|notable}[L2]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[ps4]str_crypts_tip"><![CDATA[Tieni premuto {colour_start|notable}[L2]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[ps4]str_weald_tip"><![CDATA[Tieni premuto {colour_start|notable}[L2]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[ps4]str_warrens_tip"><![CDATA[Tieni premuto {colour_start|notable}[L2]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[ps4]str_cove_tip"><![CDATA[Tieni premuto {colour_start|notable}[L2]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[psv]str_town_tip"><![CDATA[Tieni premuto il {colour_start|notable}[TASTO L]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[psv]str_crypts_tip"><![CDATA[Tieni premuto il {colour_start|notable}[TASTO L]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[psv]str_weald_tip"><![CDATA[Tieni premuto il {colour_start|notable}[TASTO L]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[psv]str_warrens_tip"><![CDATA[Tieni premuto il {colour_start|notable}[TASTO L]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[psv]str_cove_tip"><![CDATA[Tieni premuto il {colour_start|notable}[TASTO L]{colour_end} per visualizzare i dettagli su fiamma della torcia, stato combattimento, oggetti dell'inventario e molto altro ancora!]]></entry>
+    <entry id="[psv]str_town_tip"><![CDATA[Per assicurarti di salvare i tuoi progressi, torna sempre al menu principale prima di uscire da Darkest Dungeon.]]></entry>
+    <entry id="[psv]str_crypts_tip"><![CDATA[Per assicurarti di salvare i tuoi progressi, torna sempre al menu principale prima di uscire da Darkest Dungeon.]]></entry>
+    <entry id="[psv]str_weald_tip"><![CDATA[Per assicurarti di salvare i tuoi progressi, torna sempre al menu principale prima di uscire da Darkest Dungeon.]]></entry>
+    <entry id="[psv]str_warrens_tip"><![CDATA[Per assicurarti di salvare i tuoi progressi, torna sempre al menu principale prima di uscire da Darkest Dungeon.]]></entry>
+    <entry id="[psv]str_cove_tip"><![CDATA[Per assicurarti di salvare i tuoi progressi, torna sempre al menu principale prima di uscire da Darkest Dungeon.]]></entry>
+    <entry id="[ps4]str_town_tip"><![CDATA[Premi il {colour_start|notable}[PULSANTE TOUCH PAD A SINISTRA]{colour_end} su una schermata qualsiasi per visualizzare un AIUTO sensibile al contesto!]]></entry>
+    <entry id="[ps4]str_crypts_tip"><![CDATA[Premi il {colour_start|notable}[PULSANTE TOUCH PAD A SINISTRA]{colour_end} su una schermata qualsiasi per visualizzare un AIUTO sensibile al contesto!]]></entry>
+    <entry id="[ps4]str_weald_tip"><![CDATA[Premi il {colour_start|notable}[PULSANTE TOUCH PAD A SINISTRA]{colour_end} su una schermata qualsiasi per visualizzare un AIUTO sensibile al contesto!]]></entry>
+    <entry id="[ps4]str_warrens_tip"><![CDATA[Premi il {colour_start|notable}[PULSANTE TOUCH PAD A SINISTRA]{colour_end} su una schermata qualsiasi per visualizzare un AIUTO sensibile al contesto!]]></entry>
+    <entry id="[ps4]str_cove_tip"><![CDATA[Premi il {colour_start|notable}[PULSANTE TOUCH PAD A SINISTRA]{colour_end} su una schermata qualsiasi per visualizzare un AIUTO sensibile al contesto!]]></entry>
+    <entry id="[ps4|psv]str_town_tip"><![CDATA[Sapevi che nel {colour_start|notable}menu Opzioni{colour_end} è presente un Glossario?]]></entry>
+    <entry id="[ps4|psv]str_crypts_tip"><![CDATA[Sapevi che nel {colour_start|notable}menu Opzioni{colour_end} è presente un Glossario?]]></entry>
+    <entry id="[ps4|psv]str_weald_tip"><![CDATA[Sapevi che nel {colour_start|notable}menu Opzioni{colour_end} è presente un Glossario?]]></entry>
+    <entry id="[ps4|psv]str_warrens_tip"><![CDATA[Sapevi che nel {colour_start|notable}menu Opzioni{colour_end} è presente un Glossario?]]></entry>
+    <entry id="[ps4|psv]str_cove_tip"><![CDATA[Sapevi che nel {colour_start|notable}menu Opzioni{colour_end} è presente un Glossario?]]></entry>
+    <entry id="str_inventory_title_trinketstone_of_patience"><![CDATA[Pietra della Pazienza]]></entry>
+    <entry id="str_inventory_title_trinketstone_of_endurance"><![CDATA[Pietra della Perseveranza]]></entry>
+    <entry id="str_inventory_title_trinketfortifying_garlic"><![CDATA[Aglio rinforzante]]></entry>
+    <entry id="str_inventory_title_trinketethereal_crucifix"><![CDATA[Crocefisso etereo]]></entry>
+    <entry id="str_inventory_title_trinkettempting_goblet"><![CDATA[Il Calice della Tentazione]]></entry>
+    <entry id="menu_base_element_view_glossary"><![CDATA[Glossario]]></entry>
+    <entry id="town_event_title_stage_coach_bonus_recruits"><![CDATA[Il giorno più atteso]]></entry>
+    <entry id="town_event_description_stage_coach_bonus_recruits"><![CDATA[La gente ha saputo della nostra situazione, ed ecco un nuovo gruppo di futuri cadaveri lasciare la diligenza...]]></entry>
+    <entry id="town_event_info_format_stage_coach_bonus_recruits"><![CDATA[6 reclute più del normale]]></entry>
+    <entry id="input_command_town_show_character_display"><![CDATA[Dettagli eroe]]></entry>
+    <entry id="options_category_debug"><![CDATA[Debug]]></entry>
+    <entry id="[psv]tutorial_popup_resolve_level_description"><![CDATA[Gli eroi guadagnano {colour_start|notable}PE di Risolutezza{colour_end} in ogni missione che portano a termine con successo. I {colour_start|notable}PE di Risolutezza{colour_end} a loro volta ne determinano il {colour_start|notable}Livello di Risolutezza{colour_end}.
+  
+  Il {colour_start|notable}Livello di Risolutezza{colour_end} rappresenta la perizia dell'eroe, e agisce direttamente come {colour_start|notable}Resistenza allo Stress{colour_end} contro gli orrori incontrati nei dungeon.]]></entry>
+    <entry id="[psv]tutorial_popup_death_class_description"><![CDATA[Quando muoiono, la maggior parte dei mostri lasciano cadaveri. I cadaveri sono ostacoli temporanei che dopo un certo tempo svaniranno da soli. 
+ 
+ Puoi attaccare i cadaveri per distruggerli più velocemente, ma spesso un approccio migliore prevede di usare attacchi a distanza, abilità che spingono o muovono, e anche abilità speciali possedute da alcuni eroi, che permettono l'eliminazione diretta dei cadaveri.]]></entry>
+    <entry id="[psv]str_ui_hero_to_hit"><![CDATA[Colpo eroe]]></entry>
+    <entry id="[psv]str_ui_hero_crit"><![CDATA[Critico eroe]]></entry>
+    <entry id="[psv]str_ui_hero_dmg"><![CDATA[DANNI eroe]]></entry>
+    <entry id="menu_options_element_gamma"><![CDATA[Gamma]]></entry>
+    <entry id="[psv]camping_respite_description"><![CDATA[Aiuta gli eroi con le abilità di campeggio.]]></entry>
+    <entry id="input_command_inspect"><![CDATA[Ispezionare]]></entry>
+    <entry id="[psv]town_quest_description_kill_boss+3+crypts+kill_necromancer"><![CDATA[Nelle profondità delle cripte della vostra dimora ancestrale, un Necromante sta officiando innominabili rituali... persino rianimare i morti! Deve essere fermato.]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_swine_prince_1"><![CDATA[Un uomo racconta di una bestia terrificante e innominabile, elevata a proprio Signore dalla feccia suina. Forse è solo una diceria, ma questa cancrena va fermata.]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_swine_prince_2"><![CDATA[Un uomo racconta di una bestia terrificante e innominabile, elevata a proprio Signore dalla feccia suina. Forse è solo una diceria, ma questa cancrena va fermata.]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_swine_prince_3"><![CDATA[Un uomo racconta di una bestia terrificante e innominabile, elevata a proprio Signore dalla feccia suina. Forse è solo una diceria, ma questa cancrena va fermata.]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_prophet_1"><![CDATA[Delirante pazzo, portatore di rovina, araldo dell'apocalisse... la perversione dei suoi furiosi sermoni va messa a tacere. Liberatevi di questo "Profeta".]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_prophet_2"><![CDATA[Delirante pazzo, portatore di rovina, araldo dell'apocalisse... la perversione dei suoi furiosi sermoni va messa a tacere. Liberatevi di questo "Profeta".]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_prophet_3"><![CDATA[Delirante pazzo, portatore di rovina, araldo dell'apocalisse... la perversione dei suoi furiosi sermoni va messa a tacere. Liberatevi di questo "Profeta".]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_formless_flesh_1"><![CDATA[Alcune cose non sarebbero mai dovute venire alla luce. Purifica i peccati degli esperimenti dell'Antenato e respingi questo abominio negli abissi dai quali proviene.]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_formless_flesh_2"><![CDATA[Alcune cose non sarebbero mai dovute venire alla luce. Purifica i peccati degli esperimenti dell'Antenato e respingi questo abominio negli abissi dai quali proviene.]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_formless_flesh_3"><![CDATA[Alcune cose non sarebbero mai dovute venire alla luce. Purifica i peccati degli esperimenti dell'Antenato e respingi questo abominio negli abissi dai quali proviene.]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_drowned_crew_1"><![CDATA[Gli spiriti vendicativi minacciano di trascinare tutto ciò che abbiamo costruito nel loro dominio oscuro. Dategli una morte degna di un marinaio, una volta per tutte!]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_drowned_crew_2"><![CDATA[Gli spiriti vendicativi minacciano di trascinare tutto ciò che abbiamo costruito nel loro dominio oscuro. Dategli una morte degna di un marinaio, una volta per tutte!]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_drowned_crew_3"><![CDATA[Gli spiriti vendicativi minacciano di trascinare tutto ciò che abbiamo costruito nel loro dominio oscuro. Dategli una morte degna di un marinaio, una volta per tutte!]]></entry>
+    <entry id="[psv]town_quest_description_explore+1+crypts+explore_all_rooms"><![CDATA[Mettetevi alla prova nel folle reame del vostro antenato caduto. Osservate quali creature lo hanno reclamato, ma non addentratevi troppo.]]></entry>
+    <entry id="[psv]town_quest_description_explore+3+crypts+explore_all_rooms"><![CDATA[Si prepara forse un'apocalisse? Stringete il vostro equipaggiamento e inoltratevi a fondo nei tunnel della vostra famiglia caduta. Mappate la vostra spedizione.]]></entry>
+    <entry id="[psv]town_quest_description_inventory_activate+2+crypts+inventory_activate_corrupted_altar"><![CDATA[Gli empi abomini che abitano la cadente dimora hanno trasformato spiragli di Luce in ricettacoli di fede diabolica. Purificate questi altari con l'Essenza Consacrata.]]></entry>
+    <entry id="[psv]town_quest_description_explore+1+weald+explore_all_rooms"><![CDATA[Seguite la Vecchia Strada nella foresta e poi scegliete uno qualsiasi degli innumerevoli sentieri. Saggiate quel sentiero e tornate con la testa sulle spalle.]]></entry>
+    <entry id="[psv]town_quest_description_explore+3+weald+explore_all_rooms"><![CDATA[La foresta era quasi inscrutabile anche prima della corruzione. Ora non è altro che un mistero. Preparate una spedizione per mappare più terreno che potete.]]></entry>
+    <entry id="[psv]town_quest_description_gather+2+weald+gather_medicines"><![CDATA[Molti carovanieri hanno incontrato la fine nella foresta. Un tesoro in medicinali è stato abbandonato di recente. Aiuterebbe molto nella ricostruzione di questo Borgo.]]></entry>
+    <entry id="[psv]town_quest_description_inventory_activate+2+weald+inventory_activate_infected_corpse"><![CDATA[Cadaveri giacciono sulla Vecchia Strada, ricettacoli di malattie. I viaggi pongono una costante minaccia di infezioni. Distruggete il morbo con il Balsamo Portentoso.]]></entry>
+    <entry id="[psv]town_quest_description_gather+2+warrens+gather_grain"><![CDATA[L'appetito dei suini eccede persino la loro sete di sangue. L'inverno è sempre vicino, e il Borgo trarrebbe beneficio dal poter rifornire le sue dispense.]]></entry>
+    <entry id="[psv]town_quest_description_gather+2+cove+gather_shipments"><![CDATA[Tramite spedizioni per mare, il vostro Antenato riceveva reliquie sovrannaturali. Trovatele e riportatele al villaggio, dove saranno tenute al sicuro da mani empie.]]></entry>
+    <entry id="[psv]resistance_name_stun"><![CDATA[{colour_start|stun}Stordimento{colour_end}]]></entry>
+    <entry id="[psv]resistance_name_move"><![CDATA[{colour_start|move}Movimento{colour_end}]]></entry>
+    <entry id="[psv]resistance_name_bleed"><![CDATA[{colour_start|bleed}Dissang.{colour_end}]]></entry>
+    <entry id="dungeon_name_old_road"><![CDATA[La Vecchia Strada]]></entry>
+    <entry id="str_old_road_tip"><![CDATA[Con la diligenza distrutta e il Custode andato, dovrai fare a piedi il viaggio fino al Borgo.]]></entry>
+    <entry id="input_command_dungeon_check_tooltips_selection"><![CDATA[Info Naviga]]></entry>
+    <entry id="[ps4|psv]menu_base_element_exit_campaign"><![CDATA[Esci e Salva partita]]></entry>
+    <entry id="[ps4|psv]str_preamble_0"><![CDATA[Il tema di Darkest Dungeon consiste nel trarre il massimo da una situazione difficile. Le missioni possono fallire o dover essere abbandonate. Gli eroi possono morire, e quando accade non è rimediabile. Sono in corso costanti salvataggi automatici, e ogni azione è permanente.]]></entry>
+    <entry id="quirk_announcement_locked"><![CDATA[Ossessione rinforzata!]]></entry>
+    <entry id="quirk_announcement_unlocked (not used)"><![CDATA[n/a]]></entry>
+    <entry id="menu_options_element_hold_required_in_dungeon"><![CDATA[Tieni premuto nelle segrete]]></entry>
+    <entry id="menu_options_element_tooltip_hold_required_in_dungeon"><![CDATA[Nelle segrete occorre tenere premuto il tasto L2 per scambiare la posizione dell'eroe, modificare la selezione dell'eroe o visualizzare la scheda personaggio. Abilita questa opzione se ti capita spesso di scambiare inavvertitamente la posizione di un eroe.]]></entry>
+    <entry id="[ps4]menu_options_element_tooltip_hold_required_in_dungeon"><![CDATA[Nelle segrete occorre tenere premuto il tasto L2 per scambiare la posizione dell'eroe, modificare la selezione dell'eroe o visualizzare la scheda personaggio. Abilita questa opzione se ti capita spesso di scambiare inavvertitamente la posizione di un eroe.]]></entry>
+    <entry id="[psv]menu_options_element_tooltip_hold_required_in_dungeon"><![CDATA[Nelle segrete occorre tenere premuto il tasto L per scambiare la posizione dell'eroe, modificare la selezione dell'eroe o visualizzare la scheda personaggio. Abilita questa opzione se ti capita spesso di scambiare inavvertitamente la posizione di un eroe.]]></entry>
+    <entry id="[psv]menu_options_element_alternate_dpad_left_right"><![CDATA[Touch pad posteriore disattivato nelle segrete]]></entry>
+    <entry id="[psv]menu_options_element_tooltip_alternate_dpad_left_right"><![CDATA[Mentre esplori le segrete, usa i tasti destra e sinistra per scambiare gli eroi invece del touch pad posteriore. Abilita questa opzione se spesso, quando ti sposti, tocchi per errore il touch pad posteriore.]]></entry>
+    <entry id="[ps4]menu_options_element_alternate_dpad_left_right"><![CDATA[Usa i tasti destra e sinistra nelle segrete]]></entry>
+    <entry id="[ps4]menu_options_element_tooltip_alternate_dpad_left_right"><![CDATA[Mentre esplori le segrete, usa i tasti destra e sinistra per scambiare gli eroi invece dei tasti L1 e L2.]]></entry>
+    <entry id="menu_options_element_left_stick_interact"><![CDATA[Interagisci muovendo in su la levetta sinistra]]></entry>
+    <entry id="[ps4|psv]menu_options_element_left_stick_interact"><![CDATA[Interagisci muovendo in su la levetta sinistra]]></entry>
+    <entry id="[ps4|psv]menu_options_element_tooltip_left_stick_interact"><![CDATA[Nelle segrete, muovi la levetta sinistra in su per entrare nelle porte, aprire rarità e compiere azioni simili (stessa funzionalità del tasto croce).]]></entry>
+    <entry id="options_category_controls"><![CDATA[Opzioni dei comandi]]></entry>
+    <entry id="menu_options_element_rear_touchpad_enabled"><![CDATA[Touch pad posteriore abilitato]]></entry>
+    <entry id="menu_options_element_tooltip_rear_touchpad_enabled"><![CDATA[Disabilita questa opzione per disattivare gli input sul touch pad posteriore e utilizzare il touchscreen anteriore per compiere le stesse azioni. È utile se talvolta realizzi di aver toccato inavvertitamente il touch pad posteriore.]]></entry>
+    <entry id="[ps4|psv]provision_sell_back_info"><![CDATA[Rivendi con il [TASTO CROCE].]]></entry>
+  </language>
+</root>
