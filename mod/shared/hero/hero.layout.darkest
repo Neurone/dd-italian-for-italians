@@ -15,7 +15,7 @@ hero_equipment_layout:
 hero_base_stats_layout:
 	.spacing 200 22
 	.icon_offset -26 2
-	.name_offset 0 0
+	.name_offset -20 0
 	.value_offset 120 0
 	.controller_selected_icon_offset -28 0
 	.tooltip_hotspot_offset 0 0
@@ -26,7 +26,7 @@ hero_base_stats_layout:
 hero_stats_layout:
 	.spacing 160 20
 	.icon_offset -26 2
-	.name_offset 0 0
+	.name_offset -10 0
 	.value_offset 130 0
 	.controller_selected_icon_offset -28 -2
 	.tooltip_hotspot_offset 0 0

@@ -5,8 +5,8 @@
     <entry id="[pc]str_help_raid_hallway_7"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICCA]{colour_end} l'icona della ritirata (a forma di "X") per abbandonare la missione.]]></entry>
     <entry id="[pc]str_help_raid_hallway_8"><![CDATA[Con {colour_start|town_activity_log_positive_result}[T]{colour_end} userai una torcia dall'inventario.]]></entry>
     <entry id="[pc]str_help_raid_room_9"><![CDATA[Con {colour_start|town_activity_log_positive_result}[T]{colour_end} userai una torcia dall'inventario.]]></entry>
-    <entry id="[pc]str_help_town_0"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICCA COL DESTRO]{colour_end} su un eroe nella squadra per visualizzare la scheda personaggio dettagliata. Da lì, puoi modificarne il nome o congedarlo definitivamente.]]></entry>
-    <entry id="[pc]str_help_town_1"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICCA]{colour_end} gli edifici per far sì che i tuoi eroi possano interagirvi.]]></entry>
+    <entry id="[pc]str_help_town_0"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICCA COL DESTRO]{colour_end} su un eroe nella squadra per visualizzare la scheda personaggio dettagliata. Da lì, puoi modificarne il nome o congedarlo definitivamente]]></entry>
+    <entry id="[pc]str_help_town_1"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICCA]{colour_end} gli edifici per far sì che i tuoi eroi possano interagirvi]]></entry>
     <entry id="[pc]str_help_town_2"><![CDATA[DILIGENZA: recluta nuovi eroi]]></entry>
     <entry id="[pc]str_help_town_3"><![CDATA[FUCINA: potenzia armi e armature degli eroi]]></entry>
     <entry id="[pc]str_help_town_4"><![CDATA[GILDA: potenzia le abilità di combattimento degli eroi]]></entry>
@@ -442,10 +442,10 @@
     <entry id="menu_transfer_saves_to_steam"><![CDATA[Salvataggi tramite Steam Cloud abilitati. I file di salvataggio sono stati trasferiti nella cartella utente di Steam]]></entry>
     <entry id="monster_panel_resistances"><![CDATA[Resistenze]]></entry>
     <entry id="monster_panel_skills"><![CDATA[Abilità]]></entry>
-    <entry id="monster_tooltip_dodge_format"><![CDATA[SCHIVATA:%0.f]]></entry>
-    <entry id="monster_tooltip_hp_format"><![CDATA[PF:%.0f/%.0f]]></entry>
-    <entry id="monster_tooltip_prot_format"><![CDATA[PROTEZIONE:%.0f%%]]></entry>
-    <entry id="monster_tooltip_speed_format"><![CDATA[VELOCITÀ:%0.f]]></entry>
+    <entry id="monster_tooltip_dodge_format"><![CDATA[SCHIVATA: %0.f]]></entry>
+    <entry id="monster_tooltip_hp_format"><![CDATA[PF: %.0f/%.0f]]></entry>
+    <entry id="monster_tooltip_prot_format"><![CDATA[PROTEZIONE: %.0f%%]]></entry>
+    <entry id="monster_tooltip_speed_format"><![CDATA[VELOCITÀ: %0.f]]></entry>
     <entry id="no_shovel"><![CDATA[Non possiedi una vanga!]]></entry>
     <entry id="no_shovel_confirm"><![CDATA[Non possiedi una vanga!]]></entry>
     <entry id="not_enough_camping_points"><![CDATA[Punti Accampamento insufficienti!]]></entry>
@@ -760,7 +760,7 @@
     <entry id="str_crypts_level_5_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Le Rovine sono state potenziate a Difficoltà 5.]]></entry>
     <entry id="str_crypts_level_6_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Le Rovine sono state potenziate a Difficoltà 6.]]></entry>
     <entry id="str_crypts_level_7_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Le Rovine sono state potenziate a Difficoltà 7.]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[Le Rovine recano i segni delle frenetiche escavazioni del vostro Antenato...]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Le Rovine recano i segni delle frenetiche escavazioni del tuo Antenato...]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Santuari e reliquie, un tempo sacri, sono stati corrotti per compiacere divinità pagane. L'Acqua Santa può aiutare a riportarli al loro stato originale.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[I morti non si dissanguano, ma possono essere ammorbati.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Se vivete per il rischio e l'oscurità, prego sentitevi liberi di portare poche torce...]]></entry>
