@@ -16,7 +16,7 @@
     <entry id="[pc]str_help_town_8"><![CDATA[FRENOCOMIO: cura malattie e ossessioni dell'eroe]]></entry>
     <entry id="[pc]str_help_town_9"><![CDATA[CARRO DEI NOMADI: acquista oggetti rari]]></entry>
     <entry id="action_select_hero"><![CDATA[Trascina qui un eroe dai ranghi.]]></entry>
-    <entry id="action_verbose_body_camping_trainer_bounty_hunter"><![CDATA[Nel campo base, così come in combattimento, la forza del Cacciatore di taglie risiede nella preparazione. Può dedicarsi allo studio dei suoi appunti per incrementare le probabilità di vittoria contro i tipici nemici, o perfino contro avversari più ostici. Esplorazione avverte il gruppo delle trappole, mentre Pedinamento aumenta la probabilità di cogliere di sorpresa il nemico.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_bounty_hunter"><![CDATA[Nel campo base, così come in combattimento, la forza del Cacciatore di taglie risiede nella preparazione. Può dedicarsi allo studio dei suoi appunti per incrementare le probabilità di vittoria contro i tipici nemici, o perfino contro avversari più ostici. Esplorazione avverte la squadra delle trappole, mentre Pedinamento aumenta la probabilità di cogliere di sorpresa il nemico.]]></entry>
     <entry id="activity_assign_attempt_fail"><![CDATA[ASSEGNAZIONE ATTIVITÀ FALLITA:]]></entry>
     <entry id="activity_assign_attempt_fail_has_quirk_format"><![CDATA[L'eroe ha il tratto: %s]]></entry>
     <entry id="activity_assign_attempt_fail_not_enough_currency"><![CDATA[Denaro insufficiente]]></entry>
@@ -154,9 +154,9 @@
     <entry id="buff_stat_tooltip_hp_heal_percent"><![CDATA[%+d%% abilità di {colour_start|healhp}Cura{colour_end}]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_received_percent"><![CDATA[%+d%% {colour_start|healhp}Cure{colour_end} ricevute]]></entry>
     <entry id="buff_stat_tooltip_hp_heal_received_percent_eat"><![CDATA[%+d%% {colour_start|healhp}Cura{colour_end} mentre mangia]]></entry>
-    <entry id="buff_stat_tooltip_monsters_surprise_chance"><![CDATA[%+d%% possibilità {colour_start|surprised}Sorpresa{colour_end} a Mostri]]></entry>
+    <entry id="buff_stat_tooltip_monsters_surprise_chance"><![CDATA[%+d%% possibilità {colour_start|surprised}Sorpresa{colour_end} ai mostri]]></entry>
     <entry id="buff_stat_tooltip_move_chance"><![CDATA[%+d%% possibilità di {colour_start|move}Spostamento{colour_end}]]></entry>
-    <entry id="buff_stat_tooltip_party_surprise_chance"><![CDATA[%+d%% possibilità {colour_start|surprised}Sorpresa{colour_end} a gruppo]]></entry>
+    <entry id="buff_stat_tooltip_party_surprise_chance"><![CDATA[%+d%% possibilità {colour_start|surprised}Sorpresa{colour_end} alla squadra]]></entry>
     <entry id="buff_stat_tooltip_poison_chance"><![CDATA[%+d%% possibilità di {colour_start|blight}Morbo{colour_end}]]></entry>
     <entry id="buff_stat_tooltip_remove_negative_quirk_chance"><![CDATA[%+d%% rimuovere ossessione negativa]]></entry>
     <entry id="buff_stat_tooltip_resistance_bleed"><![CDATA[%+d%% resistenza al {colour_start|bleed}Dissanguamento{colour_end}]]></entry>
@@ -171,7 +171,7 @@
     <entry id="buff_stat_tooltip_resolve_xp_bonus_percent"><![CDATA[%+d%% PE di Risolutezza]]></entry>
     <entry id="buff_stat_tooltip_scouting_chance"><![CDATA[%+d%% possibilità di {colour_start|scouting}Esplorazione{colour_end}]]></entry>
     <entry id="buff_stat_tooltip_starving_damage_percent"><![CDATA[%+d%% DANNI ai PF inflitti quando Affamato]]></entry>
-    <entry id="buff_stat_tooltip_stress_dmg_percent"><![CDATA[%+d%% danno da {colour_start|stress}Stress{colour_end} inflitto al gruppo]]></entry>
+    <entry id="buff_stat_tooltip_stress_dmg_percent"><![CDATA[%+d%% danno da {colour_start|stress}Stress{colour_end} inflitto alla squadra]]></entry>
     <entry id="buff_stat_tooltip_stress_dmg_received_percent"><![CDATA[%+d%% {colour_start|stress}Stress {colour_end}]]></entry>
     <entry id="buff_stat_tooltip_stress_dmg_received_percent_camping_eat"><![CDATA[%+d%% {colour_start|stress}stress{colour_end} dai pasti in campeggio]]></entry>
     <entry id="buff_stat_tooltip_stress_dmg_received_percent_hunger"><![CDATA[%+d%% {colour_start|stress}stress{colour_end} dalla fame]]></entry>
@@ -182,12 +182,12 @@
     <entry id="buff_stat_tooltip_upgrade_discount_armour"><![CDATA[%-d%% Costo di Potenziamento Armatura]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_weapon"><![CDATA[%-d%% Costo di Potenziamento Arma]]></entry>
     <entry id="building_upgrade_title"><![CDATA[Migliorato:]]></entry>
-    <entry id="camping_respite_description"><![CDATA[Usa le Abilità di Accampamento per rinforzare la salute fisica e mentale del tuo gruppo.]]></entry>
+    <entry id="camping_respite_description"><![CDATA[Usa le abilità di accampamento per rinforzare la salute fisica e mentale della tua squadra.]]></entry>
     <entry id="camping_respite_rest"><![CDATA[RIPOSO]]></entry>
     <entry id="camping_respite_title"><![CDATA[Tregua]]></entry>
     <entry id="camping_skill_chance_effect_format"><![CDATA[(%d%% possibilità) %s]]></entry>
     <entry id="camping_skill_cost"><![CDATA[{colour_start|attacktype}Costo Tempo: %d {colour_end}]]></entry>
-    <entry id="camping_skill_effect_ambush_preparation_no_surprise"><![CDATA[Il gruppo non verrà sorpreso in un'imboscata]]></entry>
+    <entry id="camping_skill_effect_ambush_preparation_no_surprise"><![CDATA[La squadra non verrà sorpresa in un'imboscata]]></entry>
     <entry id="camping_skill_effect_buff"><![CDATA[{colour_start|buffNOT1}Buff +%d%%{colour_end}]]></entry>
     <entry id="camping_skill_effect_campingAttackBuff"><![CDATA[PRECISIONE +%d]]></entry>
     <entry id="camping_skill_effect_campingAttackBuffRanged"><![CDATA[Migliora PRECISIONE Attacchi a Distanza del +%d]]></entry>
@@ -223,7 +223,7 @@
     <entry id="camping_skill_requirement_not_religious"><![CDATA[non religioso]]></entry>
     <entry id="camping_skill_requirement_religious"><![CDATA[religioso]]></entry>
     <entry id="camping_skill_selection_individual"><![CDATA[Un Compagno:]]></entry>
-    <entry id="camping_skill_selection_party"><![CDATA[Gruppo:]]></entry>
+    <entry id="camping_skill_selection_party"><![CDATA[Squadra:]]></entry>
     <entry id="camping_skill_selection_party_other"><![CDATA[Tutti i Compagni:]]></entry>
     <entry id="camping_skill_selection_self"><![CDATA[Sé stesso:]]></entry>
     <entry id="camping_skill_uses_remaining_format"><![CDATA[Usa: %d rimanente]]></entry>
@@ -288,8 +288,8 @@
     <entry id="effect_tooltip_move_backward"><![CDATA[{colour_start|knockback}Spingi{colour_end} %d]]></entry>
     <entry id="effect_tooltip_move_forward"><![CDATA[{colour_start|move}Tira{colour_end} %d]]></entry>
     <entry id="effect_tooltip_party"><![CDATA[Tutti gli Eroi:]]></entry>
-    <entry id="effect_tooltip_party_buff"><![CDATA[{colour_start|buff}Bonus sul gruppo:{colour_end}]]></entry>
-    <entry id="effect_tooltip_party_debuff"><![CDATA[{colour_start|debuff}Malus sul gruppo:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_buff"><![CDATA[{colour_start|buff}Bonus sulla squadra:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_debuff"><![CDATA[{colour_start|debuff}Malus sulla squadra:{colour_end}]]></entry>
     <entry id="effect_tooltip_party_other"><![CDATA[Altri Eroi:]]></entry>
     <entry id="effect_tooltip_party_other_buff"><![CDATA[{colour_start|buff}Bonus su altri:{colour_end}]]></entry>
     <entry id="effect_tooltip_party_other_debuff"><![CDATA[{colour_start|debuff}Malus su altri:{colour_end}]]></entry>
@@ -299,8 +299,8 @@
     <entry id="effect_tooltip_self_debuff"><![CDATA[{colour_start|debuff}Malus su te stesso:{colour_end}]]></entry>
     <entry id="effect_tooltip_set_actor_mode_format"><![CDATA[Cambia in modalità: %s]]></entry>
     <entry id="effect_tooltip_shuffle_dot_format"><![CDATA[{colour_start|move}Rimescola{colour_end} %d turni]]></entry>
-    <entry id="effect_tooltip_shuffle_group"><![CDATA[{colour_start|move}Rimescola{colour_end} Gruppo]]></entry>
-    <entry id="effect_tooltip_shuffle_party"><![CDATA[Rimescola Gruppo]]></entry>
+    <entry id="effect_tooltip_shuffle_group"><![CDATA[{colour_start|move}Rimescola{colour_end} Squadra]]></entry>
+    <entry id="effect_tooltip_shuffle_party"><![CDATA[Rimescola squadra]]></entry>
     <entry id="effect_tooltip_shuffle_single"><![CDATA[{colour_start|move}Rimescola{colour_end} Singolo]]></entry>
     <entry id="effect_tooltip_steal_hp_dot_bleed"><![CDATA[{colour_start|bleed}Trasferisci Dissanguamento{colour_end}]]></entry>
     <entry id="effect_tooltip_steal_hp_dot_poison"><![CDATA[{colour_start|blight}Trasferisci Morbo{colour_end}]]></entry>
@@ -313,7 +313,7 @@
     <entry id="effect_tooltip_target"><![CDATA[Bersaglio:]]></entry>
     <entry id="effect_tooltip_target_buff"><![CDATA[{colour_start|buff}Bonus sul bersaglio:{colour_end}]]></entry>
     <entry id="effect_tooltip_target_debuff"><![CDATA[{colour_start|debuff}Malus sul bersaglio:{colour_end}]]></entry>
-    <entry id="effect_tooltip_target_group"><![CDATA[Gruppo Nemico:]]></entry>
+    <entry id="effect_tooltip_target_group"><![CDATA[Squadra nemica:]]></entry>
     <entry id="effect_tooltip_target_group_buff"><![CDATA[{colour_start|buff}Bonus sui nemici:{colour_end}]]></entry>
     <entry id="effect_tooltip_target_group_debuff"><![CDATA[{colour_start|debuff}Malus sui nemici:{colour_end}]]></entry>
     <entry id="effect_tooltip_target_group_other_buff"><![CDATA[{colour_start|buff}Bonus su altri nemici:{colour_end}]]></entry>
@@ -419,15 +419,15 @@
     <entry id="menu_options_element_tooltip_debug_output"><![CDATA[Mostra i messaggi di errore. Utile per la risoluzione problemi e segnalazione bug.]]></entry>
     <entry id="menu_options_element_tooltip_deck_based_stage_coach"><![CDATA[Assicura una distribuzione più equa a lungo termine degli eroi nella diligenza.]]></entry>
     <entry id="menu_options_element_tooltip_extra_bark_time"><![CDATA[Modifica la durata della finestra di dialogo di un eroe]]></entry>
-    <entry id="menu_options_element_tooltip_keep_battle_quest_fail_trinkets"><![CDATA[Ecco cosa succede agli accessori che trasporti quando tutti i membri del gruppo vengono sconfitti.]]></entry>
-    <entry id="menu_options_element_tooltip_map_follow_party"><![CDATA[La mappa della segreta si centra automaticamente sul gruppo se inutilizzata.]]></entry>
+    <entry id="menu_options_element_tooltip_keep_battle_quest_fail_trinkets"><![CDATA[Ecco cosa succede agli accessori che trasporti quando tutti i membri della squadra vengono sconfitti.]]></entry>
+    <entry id="menu_options_element_tooltip_map_follow_party"><![CDATA[Se inutilizzata, la mappa della segreta si centra automaticamente sulla squadra.]]></entry>
     <entry id="menu_options_element_tooltip_metrics"><![CDATA[Abilita raccolta dati anonima per miglioramenti del gioco.]]></entry>
     <entry id="menu_options_element_tooltip_multiplied_enemy_crits"><![CDATA[I colpi critici dei nemici moltiplicano i danni base, come quelli dei giocatori. Disattivando questa opzione, provocano solo il massimo danno possibile.]]></entry>
     <entry id="menu_options_element_tooltip_never_again"><![CDATA[Stabilisce se gli eroi che hanno completato una missione di Darkest Dungeon potranno rientrare o meno in quella segreta. Seleziona "Rigida" se non vuoi permetterlo, oppure "Permissiva" (potranno rientrare, ma diventeranno stressati).]]></entry>
     <entry id="menu_options_element_tooltip_provision_warnings"><![CDATA[Visualizza avvertimenti prima di intraprendere una missione, ad esempio sulla mancanza di cibo o di torce.]]></entry>
-    <entry id="menu_options_element_tooltip_quest_select_warnings"><![CDATA[Visualizza avvertimenti quando passi dalla schermata "Scegli missione" alla fase di vettovagliamento. Ti ricorderanno di equipaggiare un accessorio, ad esempio, o daranno consigli relativi al gruppo.]]></entry>
+    <entry id="menu_options_element_tooltip_quest_select_warnings"><![CDATA[Visualizza avvertimenti quando passi dalla schermata "Scegli missione" alla fase di vettovagliamento. Ti ricorderanno di equipaggiare un accessorio, ad esempio, o daranno consigli relativi alla squadra.]]></entry>
     <entry id="menu_options_element_tooltip_retreats_can_fail"><![CDATA[La ritirata dal combattimento può richiedere più tentativi.]]></entry>
-    <entry id="menu_options_element_tooltip_roster_sort_party_to_top"><![CDATA[Se abilitata, i membri del gruppo attivi appaiono sempre in cima alla lista degli eroi in città.]]></entry>
+    <entry id="menu_options_element_tooltip_roster_sort_party_to_top"><![CDATA[Se abilitata, i membri assegnati alla squadra attuale appaiono sempre in cima alla lista degli eroi in città.]]></entry>
     <entry id="menu_options_element_tooltip_stall_penalty"><![CDATA[Gli eroi subiscono {colour_start|stressNOT1}stress{colour_end} e i nemici possono chiamare rinforzi se impieghi troppo tempo a ucciderli.]]></entry>
     <entry id="menu_options_element_tooltip_subtitles"><![CDATA[Mostra i sottotitoli per la voce narrante.]]></entry>
     <entry id="menu_options_element_tooltip_town_events"><![CDATA[Regolare la frequenza degli Eventi del Villaggio, che avvengono al ritorno da una missione.]]></entry>
@@ -528,7 +528,7 @@
     <entry id="skill_battle_limit_in_battle"><![CDATA[Utilizzi rimasti: %d]]></entry>
     <entry id="skill_battle_limit_out_of_battle"><![CDATA[Utilizzi per battaglia: %d]]></entry>
     <entry id="skill_heal_format"><![CDATA[{colour_start|healhp}Cura{colour_end} %d-%d]]></entry>
-    <entry id="skill_party_heal_format"><![CDATA[{colour_start|healhp}Cura{colour_end} Gruppo %d-%d]]></entry>
+    <entry id="skill_party_heal_format"><![CDATA[{colour_start|healhp}Cura{colour_end} squadra %d-%d]]></entry>
     <entry id="skill_random_target"><![CDATA[bersaglio casuale]]></entry>
     <entry id="stagecoach_empty_info"><![CDATA[La Diligenza è vuota. Controlla nuovamente dopo la prossima missione.]]></entry>
     <entry id="stall_summon_announcement"><![CDATA[Rinforzi]]></entry>
@@ -700,7 +700,7 @@
     <entry id="str_caretaker_meditation"><![CDATA[La pace sta nell'accettazione. Non siamo altro che pedine nelle mani degli Dèi!]]></entry>
     <entry id="str_caretaker_prayer"><![CDATA[Vi prego, vi supplico! FATEMI USCIRE DA QUI!]]></entry>
     <entry id="str_caretaker_prayer"><![CDATA[Oh, Luce, brucia la mia anima! Ahahahahah!]]></entry>
-    <entry id="str_centre_map_tooltip"><![CDATA[Centra mappa sul gruppo]]></entry>
+    <entry id="str_centre_map_tooltip"><![CDATA[Centra mappa sulla squadra]]></entry>
     <entry id="str_confirm_dlc_crimson_court"><![CDATA[È LA TUA PRIMA TENUTA? L'espansione The Crimson Court aumenta la complessità e la tensione della campagna, per questo è consigliata ai giocatori più esperti.]]></entry>
     <entry id="str_confirm_dlc_crimson_court_no"><![CDATA[Annulla]]></entry>
     <entry id="str_confirm_dlc_crimson_court_yes"><![CDATA[Abilita]]></entry>
@@ -764,7 +764,7 @@
     <entry id="str_crypts_tip"><![CDATA[Santuari e reliquie, un tempo sacri, sono stati corrotti per compiacere divinità pagane. L'Acqua Santa può aiutare a riportarli al loro stato originale.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[I morti non si dissanguano, ma possono essere ammorbati.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Se vivete per il rischio e l'oscurità, prego sentitevi liberi di portare poche torce...]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[Ogni regione ha le sue sfide. Assembla il tuo gruppo e le tue provviste di conseguenza.]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Ogni regione ha le sue sfide. Assembla la tua squadra e le tue provviste di conseguenza.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Se vivi per il rischio e l'oscurità, prego sentiti libero di portare poche torce...]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Una provvista ben utilizzata può spesso proteggere dai rischi degli oggetti interattivi che incontri.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[Puoi ritirarti dal combattimento e anche abbandonare le missioni. Se le cose si mettono male, è meglio salvarsi e ritentare un'altra volta.]]></entry>
@@ -899,10 +899,10 @@
     <entry id="str_embarked_on_plot_kill_swine_prince_2"><![CDATA[{?hero_names}%s si sono inoltrati nel Dedalo determinati a distruggere il gargantuesco Principe Suino. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_kill_swine_prince_3"><![CDATA[{?hero_names}%s si sono inoltrati nel Dedalo determinati a distruggere il gargantuesco Principe Suino. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_embarked_on_plot_town_invasion_0"><![CDATA[si fa avanti per fermare i Briganti!]]></entry>
-    <entry id="str_embarked_on_plot_trinket_retention_0"><![CDATA[hanno intrapreso l'ardua scalata del Trespolo dell'urlatore con la speranza di ritrovare gli equipaggiamenti perduti.]]></entry>
-    <entry id="str_embarked_on_plot_trinket_retention_1"><![CDATA[hanno intrapreso l'ardua scalata del Trespolo dell'urlatore con la speranza di ritrovare gli equipaggiamenti perduti.]]></entry>
-    <entry id="str_embarked_on_plot_trinket_retention_2"><![CDATA[hanno intrapreso l'ardua scalata del Trespolo dell'urlatore con la speranza di ritrovare gli equipaggiamenti perduti.]]></entry>
-    <entry id="str_embarked_on_plot_trinket_retention_add_from_storage"><![CDATA[{?hero_names}%s stanno perlustrando il Trespolo dell'urlatore per recuperare gli accessori rubati!]]></entry>
+    <entry id="str_embarked_on_plot_trinket_retention_0"><![CDATA[hanno intrapreso l'ardua scalata del Trespolo dell'urlatore con la speranza di ritrovare l'equipaggiamento perduto.]]></entry>
+    <entry id="str_embarked_on_plot_trinket_retention_1"><![CDATA[hanno intrapreso l'ardua scalata del Trespolo dell'urlatore con la speranza di ritrovare l'equipaggiamento perduto.]]></entry>
+    <entry id="str_embarked_on_plot_trinket_retention_2"><![CDATA[hanno intrapreso l'ardua scalata del Trespolo dell'urlatore con la speranza di ritrovare l'equipaggiamento perduto.]]></entry>
+    <entry id="str_embarked_on_plot_trinket_retention_add_from_storage"><![CDATA[{?hero_names}%s stanno perlustrando il Trespolo dell'urlatore per recuperare l'equipaggiamento rubato!]]></entry>
     <entry id="str_embarked_on_plot_tutorial_crypts"><![CDATA[{?hero_names}%s si sono messi in viaggio per esplorare le Rovine. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_empty_hero_slot_action"><![CDATA[Trascina qui un eroe.]]></entry>
     <entry id="str_empty_hero_slot_bar"><![CDATA[Trascina qui un eroe.]]></entry>
@@ -1028,24 +1028,24 @@
     <entry id="str_glossary_term_definition_28"><![CDATA[Uno speciale tipo di valuta, usato spesso per migliorare gli edifici del Villaggio. Ci sono quattro di Cimeli: Busti, Documenti, Ritratti e Stemmi.]]></entry>
     <entry id="str_glossary_term_definition_29"><![CDATA[Un tipo di provvista usata per aumentare temporaneamente le resistenze di un eroe. Può essere usata anche su alcuni reperti nei dungeon.]]></entry>
     <entry id="str_glossary_term_definition_3"><![CDATA[Una condizione temporanea che può essere scatenata quando l'eroe raggiunge 100 stress. Gli eroi afflitti possono agire di propria volontà e soffrire penalità alle statistiche. Le Afflizioni possono essere curate nel villaggio riducendo lo stress dell'eroe presso l'Abbazia o la Taverna.]]></entry>
-    <entry id="str_glossary_term_definition_30"><![CDATA[Abbreviazione di punti ferita. I PF vengono rimossi quando si subisce un danno. Un eroe con 0 PF è in Punto di Morte.]]></entry>
+    <entry id="str_glossary_term_definition_30"><![CDATA[Abbreviazione di Punti Ferita. I PF vengono rimossi quando si subisce un danno. Un eroe con 0 PF è in Punto di Morte.]]></entry>
     <entry id="str_glossary_term_definition_31"><![CDATA[Abbreviazione di Punti Ferita Massimi.]]></entry>
     <entry id="str_glossary_term_definition_32"><![CDATA[Un tipo di provvista che cura i debuff di combattimento dell'eroe. Possono anche essere usate sui reperti del dungeon.]]></entry>
-    <entry id="str_glossary_term_definition_33"><![CDATA[Un effetto che sposta il bersaglio in avanti o all'indietro nella formazione del gruppo.]]></entry>
+    <entry id="str_glossary_term_definition_33"><![CDATA[Un effetto che sposta il bersaglio in avanti o all'indietro nella formazione della squadra.]]></entry>
     <entry id="str_glossary_term_definition_34"><![CDATA[Bonus sulla resistenza agli attacchi nemici che causano uno spostamento nella formazione.]]></entry>
-    <entry id="str_glossary_term_definition_35"><![CDATA[Un oggetto trovato nei dungeon che impedisce il passaggio del gruppo. Può essere rimosso a mano o con una Vanga. Rimuovere un ostacolo a mano causa DANNO e stress all'intero gruppo.]]></entry>
+    <entry id="str_glossary_term_definition_35"><![CDATA[Un oggetto trovato nei dungeon che impedisce il passaggio della squadra. Può essere rimosso a mano o con una Vanga. Rimuovere un ostacolo a mano causa DANNO e stress all'intera squadra.]]></entry>
     <entry id="str_glossary_term_definition_36"><![CDATA[Un cimelio che tipicamente si trova nel Dedalo. Usato per migliorare gli edifici nel Villaggio.]]></entry>
-    <entry id="str_glossary_term_definition_37"><![CDATA[Abbreviazione di protezione. Indica la percentuale di danno che viene assorbito. I danni estesi nel tempo (dissanguamento, morbo) ignorano la PROTEZIONE.]]></entry>
+    <entry id="str_glossary_term_definition_37"><![CDATA[Indica la percentuale di danno che viene assorbito. I danni estesi nel tempo (dissanguamento, morbo) ignorano la PROTEZIONE.]]></entry>
     <entry id="str_glossary_term_definition_38"><![CDATA[Un oggetto che può essere aggiunto all'inventario del giocatore prima di avviarsi in una missione.]]></entry>
     <entry id="str_glossary_term_definition_39"><![CDATA[La caratteristica di un eroe. I tratti possono essere positivi o negativi. Gli eroi possono entrare in gioco già in possesso di tratti, ma ne acquisiranno durante l'avventura.]]></entry>
     <entry id="str_glossary_term_definition_4"><![CDATA[Un tipo di provvista usata per rimuovere Morbo. Si può anche usare su molti reperti del dungeon.]]></entry>
-    <entry id="str_glossary_term_definition_40"><![CDATA[Una statistica che influenza le possibilità che un eroe ha di resistere a una determinata condizione, come Stordimento o Dissanguamento.]]></entry>
+    <entry id="str_glossary_term_definition_40"><![CDATA[Una statistica che influenza le possibilità che un eroe ha di resistere a una determinata condizione, come Stordimento o {colour_start|bleed}Dissanguamento{colour_end}.]]></entry>
     <entry id="str_glossary_term_definition_41"><![CDATA[Il livello di esperienza di un eroe. Un eroe con un alto Livello di Risolutezza resiste meglio allo stress, impara abilità di livello più alto, e può indossare equipaggiamento migliore. Eroi di alto Livello di Risolutezza non perderanno tempo nelle missioni di basso livello. Eroi di basso Livello di Risolutezza che si avventurano in dungeon di livello più alto subiranno più stress.]]></entry>
     <entry id="str_glossary_term_definition_42"><![CDATA[Guadagnare PE di Risolutezza porta un eroe verso il successivo Livello di Risolutezza. I PE di Risolutezza possono essere guadagnati solo completando le missioni. Gli eroi non guadagnano PE di Risolutezza se abbandonano o falliscono le missioni.]]></entry>
     <entry id="str_glossary_term_definition_43"><![CDATA[L'insieme di tutti gli eroi del giocatore.]]></entry>
     <entry id="str_glossary_term_definition_44"><![CDATA[Un tipo di provvista. Usata per rimuovere ostacoli ed evitare di subire DANNO o stress.]]></entry>
     <entry id="str_glossary_term_definition_45"><![CDATA[Un tipo di provvista usata nei reperti del dungeon.]]></entry>
-    <entry id="str_glossary_term_definition_46"><![CDATA[Abbreviazione di "velocità". La velocità influisce sull'ordine in base al quale agiscono i combattenti. L'iniziativa viene tirata nuovamente a ogni round per ciascun combattente. Il valore di base va da 1 a 8, più i modificatori.]]></entry>
+    <entry id="str_glossary_term_definition_46"><![CDATA[La velocità influisce sull'ordine in base al quale agiscono i combattenti. L'iniziativa viene tirata nuovamente a ogni round per ciascun combattente. Il valore di base va da 1 a 8, più i modificatori.]]></entry>
     <entry id="str_glossary_term_definition_47"><![CDATA[Si accumula man mano che gli eroi si avventurano nel dungeon e affrontano scontri. Quando un eroe raggiunge 100 stress, acquisisce un'Afflizione o una Virtù. A 200 stress, l'eroe subisce un infarto.]]></entry>
     <entry id="str_glossary_term_definition_48"><![CDATA[Un effetto che forza un eroe o un nemico a passare il proprio turno.]]></entry>
     <entry id="str_glossary_term_definition_49"><![CDATA[Bonus di resistenza ad attacchi stordenti.]]></entry>
@@ -1056,17 +1056,17 @@
     <entry id="str_glossary_term_definition_53"><![CDATA[Una condizione temporanea acquisita da un eroe che passa una prova di Afflizione. Gli eroi Virtuosi hanno dei buff e possono potenziare i loro alleati.]]></entry>
     <entry id="str_glossary_term_definition_54"><![CDATA[Un tipo di equipaggiamento usato da un eroe per combattere i pericoli trovati nei dungeon. L'arma determina DANNO, CRITICO e VELOCITÀ base di un eroe. Le armi possono essere migliorate presso il Fabbro.]]></entry>
     <entry id="str_glossary_term_definition_55"><![CDATA[Sostenuta ogni volta che l'eroe raggiunge 100 Stress e risultante in una Afflizione o in una Virtù.]]></entry>
-    <entry id="str_glossary_term_definition_56"><![CDATA[Viene sostenuta all'inizio di ogni battaglia per determinare quale gruppo viene sorpreso. Gli eroi sorpresi vengono rimescolati nella formazione. I nemici sorpresi agiscono per ultimi nel round.]]></entry>
+    <entry id="str_glossary_term_definition_56"><![CDATA[Viene sostenuta all'inizio di ogni battaglia per determinare quale squadra viene sorpresa. Gli eroi sorpresi vengono rimescolati nella formazione. I nemici sorpresi agiscono per ultimi nel round.]]></entry>
     <entry id="str_glossary_term_definition_57"><![CDATA[Un registro nascosto delle Afflizioni che un eroe è incline a sviluppare.]]></entry>
     <entry id="str_glossary_term_definition_58"><![CDATA[Un oggetto interattivo trovato in un corridoio o una stanza del dungeon.]]></entry>
-    <entry id="str_glossary_term_definition_59"><![CDATA[Danni nel tempo da stress (DNT da stress)]]></entry>
+    <entry id="str_glossary_term_definition_59"><![CDATA[Danni da stress estesi nel tempo]]></entry>
     <entry id="str_glossary_term_definition_6"><![CDATA[Un tipo di provvista usata per rimuovere Dissanguamento. Si può anche usare su molti reperti del dungeon.]]></entry>
     <entry id="str_glossary_term_definition_60"><![CDATA[Numero limitato di volte in cui un'abilità può essere usata in ogni combattimento.]]></entry>
     <entry id="str_glossary_term_definition_7"><![CDATA[Eroi e nemici colpiti da Dissanguamento subiscono danni ogni round di combattimento o passo nel corridoio. A un certo punto svanirà, ma può essere curato prima con bende, abilità di combattimento e abilità di Accampamento.]]></entry>
     <entry id="str_glossary_term_definition_8"><![CDATA[Eroi e nemici colpiti da Morbo subiscono danni ogni round di combattimento o passo nel corridoio. A un certo punto svanirà, ma può essere curato prima con antidoto, abilità di combattimento e abilità di Accampamento.]]></entry>
     <entry id="str_glossary_term_definition_9"><![CDATA[Un bonus temporaneo a un punteggio.]]></entry>
     <entry id="str_glossary_term_1002"><![CDATA[Laudano]]></entry>
-    <entry id="str_glossary_term_definition_1002"><![CDATA[Tintura utilizzata per trattare l'Orrore (DNT da stress).]]></entry>
+    <entry id="str_glossary_term_definition_1002"><![CDATA[Tintura utilizzata per trattare l'Orrore (stress esteso nel tempo).]]></entry>
     <entry id="str_gold"><![CDATA[oro]]></entry>
     <entry id="str_graveyard_summary"><![CDATA[Vedi eroi caduti]]></entry>
     <entry id="str_graveyard_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} Il %s è sbloccato.]]></entry>
@@ -1084,7 +1084,7 @@
  di Combattimento]]></entry>
     <entry id="str_guild_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} La %s è sbloccata.]]></entry>
     <entry id="[pc]str_help_raid_camping_0"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sulle opzioni del pasto per decidere quanto mangiare. Il limite è il cibo presente nell'inventario.]]></entry>
-    <entry id="[pc]str_help_raid_camping_1"><![CDATA[Il tuo gruppo ha {colour_start|town_activity_log_positive_result}[10 PUNTI AZIONE]{colour_end} da spendere in Abilità di Accampamento.]]></entry>
+    <entry id="[pc]str_help_raid_camping_1"><![CDATA[La tua squadra ha {colour_start|town_activity_log_positive_result}[10 PUNTI AZIONE]{colour_end} da spendere in Abilità di Accampamento.]]></entry>
     <entry id="[pc]str_help_raid_camping_2"><![CDATA[Fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su un eroe e fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sulla sua abilità per usarla. Alcune abilità richiedono un bersaglio per essere selezionate.]]></entry>
     <entry id="[pc]str_help_raid_camping_3"><![CDATA[Quando hai finito di spendere PUNTI AZIONE, fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su RIPOSO" per terminare l'Accampamento."]]></entry>
     <entry id="[pc]str_help_raid_combat_0"><![CDATA[Durante il turno dell'eroe, fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su un'abilità di combattimento valida e fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su un bersaglio per attaccarlo. Puoi usare anche i {colour_start|town_activity_log_positive_result}[# keys]{colour_end} 1-5 per selezionare rapidamente un'abilità.]]></entry>
@@ -1094,7 +1094,7 @@
     <entry id="[pc]str_help_raid_combat_4"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICCA]{colour_end} l'icona della ritirata (a forma di "X") per tentare di fuggire dal combattimento.]]></entry>
     <entry id="[pc]str_help_raid_combat_5"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK DESTRO]{colour_end} su un eroe per visualizzare la sua scheda personaggio.]]></entry>
     <entry id="[pc]str_help_raid_hallway_0"><![CDATA[Premi {colour_start|town_activity_log_positive_result}[D]{colour_end} per procedere, {colour_start|town_activity_log_positive_result}[A]{colour_end} per indietreggiare.]]></entry>
-    <entry id="[pc]str_help_raid_hallway_1"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'abilità di movimento di un eroe per cambiare la sua posizione nel gruppo.]]></entry>
+    <entry id="[pc]str_help_raid_hallway_1"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'abilità di movimento di un eroe per cambiare la sua posizione nella squadra.]]></entry>
     <entry id="[pc]str_help_raid_hallway_2"><![CDATA[Varcare porte: quando ti trovi davanti a una porta, fai {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su di essa o premi {colour_start|town_activity_log_positive_result}[W]{colour_end}.]]></entry>
     <entry id="[pc]str_help_raid_hallway_3"><![CDATA[Usa {colour_start|town_activity_log_positive_result}[ROTELLA DEL MOUSE]{colour_end} per ingrandire la mappa e fai {colour_start|town_activity_log_positive_result}[CLICK DESTRO]{colour_end} e {colour_start|town_activity_log_positive_result}[TRASCINA]{colour_end} per muovere la mappa.]]></entry>
     <entry id="[pc]str_help_raid_hallway_4"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sugli oggetti o premi {colour_start|town_activity_log_positive_result}[W]{colour_end} per interagire con essi. L'eroe selezionato effettuerà l'interazione.]]></entry>
@@ -1102,7 +1102,7 @@
     <entry id="[pc]str_help_raid_hallway_6"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sul riquadro INVENTARIO per esaminare le scorte.]]></entry>
     <entry id="[pc]str_help_raid_room_0"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su una stanza nella mappa per cominciare ad avvicinartici.]]></entry>
     <entry id="[pc]str_help_raid_room_1"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su un eroe per selezionarlo.]]></entry>
-    <entry id="[pc]str_help_raid_room_2"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'abilità di movimento di un eroe per cambiare la sua posizione nel gruppo.]]></entry>
+    <entry id="[pc]str_help_raid_room_2"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sull'abilità di movimento di un eroe per cambiare la sua posizione nella squadra.]]></entry>
     <entry id="[pc]str_help_raid_room_3"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sulla legna da ardere (se ne sei in possesso) per iniziare un ACCAMPAMENTO.]]></entry>
     <entry id="[pc]str_help_raid_room_4"><![CDATA[{colour_start|town_activity_log_positive_result}[MUOVI IL MOUSE]{colour_end} sull'indicatore della torcia per vedere il livello attuale di luce e conoscerne gli effetti in gioco.]]></entry>
     <entry id="[pc]str_help_raid_room_5"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICCA]{colour_end} l'icona della ritirata (a forma di "X") per abbandonare la missione.]]></entry>
@@ -1130,7 +1130,7 @@
     <entry id="str_help_town_provision_1"><![CDATA[Al termine della missione, le provviste inutilizzate verranno scartate senza rimborso. Compra solo quello di cui hai bisogno!]]></entry>
     <entry id="str_help_town_provision_2"><![CDATA[Porta sempre con te cibo e torce! Ogni eroe di solito consuma una unità di cibo per pasto (Accampamento o evento di fame)]]></entry>
     <entry id="[pc]str_help_town_quest_select_0"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sulle missioni disponibili per ispezionarle.]]></entry>
-    <entry id="[pc]str_help_town_quest_select_1"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sugli eroi o {colour_start|town_activity_log_positive_result}[DRAG]{colour_end} gli eroi nelle apposite caselle per formare un gruppo di avventura.]]></entry>
+    <entry id="[pc]str_help_town_quest_select_1"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} sugli eroi o {colour_start|town_activity_log_positive_result}[DRAG]{colour_end} gli eroi nelle apposite caselle per formare una squadra d'avventura.]]></entry>
     <entry id="str_help_town_quest_select_2"><![CDATA[Gli eroi che si trovano nella Taverna, Abbazia o Casa di Cura non sono disponibili.]]></entry>
     <entry id="str_help_town_quest_select_3"><![CDATA[Completa missioni in una regione per aumentare il tuo livello di competenza in quella regione, e sbloccare nuove tipologie di missione.]]></entry>
     <entry id="[pc]str_help_town_quest_select_4"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} su PROVVISTE" quando sei pronto a procedere."]]></entry>
@@ -1202,7 +1202,7 @@
     <entry id="str_inventory_description_heirloomportrait"><![CDATA[Un dipinto ad olio di qualche lontano parente.]]></entry>
     <entry id="str_inventory_description_heirloomurn"><![CDATA[(NON IN USO)]]></entry>
     <entry id="str_inventory_description_jewellerybronze_necklace"><![CDATA[Una semplice collana fatta di bronzo]]></entry>
-    <entry id="str_inventory_description_provision"><![CDATA[Mangia per recuperare salute e placare la fame. Ogni membro del gruppo di solito consuma 1 unità per pasto.]]></entry>
+    <entry id="str_inventory_description_provision"><![CDATA[Mangia per recuperare salute e placare la fame. Ogni membro della squadra di solito consuma una razione singola per pasto.]]></entry>
     <entry id="str_inventory_description_quest_itemancestor_portrait"><![CDATA[Anche se dipinto un secolo fa, ti somiglia incredibilmente.]]></entry>
     <entry id="str_inventory_description_quest_itemancestors_crate"><![CDATA[Alcune cose è meglio lasciarle chiuse.]]></entry>
     <entry id="str_inventory_description_quest_itemantivenom"><![CDATA[Un preparato tremendamente potente per respingere gli effetti di malattia e infezione.]]></entry>
@@ -2068,7 +2068,7 @@
     <entry id="str_overlay_loot_quest_title"><![CDATA[Tesoro]]></entry>
     <entry id="str_overlay_loot_take_all"><![CDATA[Prendi tutto]]></entry>
     <entry id="str_part"><![CDATA[Parte]]></entry>
-    <entry id="str_party_default_order"><![CDATA[Ordine standard del Gruppo]]></entry>
+    <entry id="str_party_default_order"><![CDATA[Ordine standard della squadra]]></entry>
     <entry id="str_party_members_1"><![CDATA[%s]]></entry>
     <entry id="str_party_members_2"><![CDATA[%s e %s]]></entry>
     <entry id="str_party_members_3"><![CDATA[%s, %s e %s]]></entry>
@@ -2162,7 +2162,7 @@
     <entry id="str_quest_darkest_dungeon"><![CDATA[Le geometrie di quel luogo... erano tutte fuori posto!]]></entry>
     <entry id="str_quest_info_camp_bonus_ambush_modifier"><![CDATA[Previene agguati notturni.]]></entry>
     <entry id="str_quest_info_camp_bonus_monster_surprise_chance"><![CDATA[Aumenta la possibilità di sorprendere i mostri]]></entry>
-    <entry id="str_quest_info_camp_bonus_party_surprise_chance"><![CDATA[Riduce la probabilità che il gruppo venga sorpreso]]></entry>
+    <entry id="str_quest_info_camp_bonus_party_surprise_chance"><![CDATA[Riduce la probabilità che la squadra venga sorpresa]]></entry>
     <entry id="str_quest_info_camp_bonus_scout_modifier"><![CDATA[%d%% bonus di Esplorazione]]></entry>
     <entry id="str_quest_select_town_event_title"><![CDATA[{colour_start|neutral}Evento villaggio:{colour_end}]]></entry>
     <entry id="str_quirk_description_ablutomania"><![CDATA[Ossessione per la pulizia.]]></entry>
@@ -2739,7 +2739,7 @@
     <entry id="str_ui_hp_heal_dot_onset"><![CDATA[Ristoro]]></entry>
     <entry id="str_ui_hunger_choice_eat"><![CDATA[Mangia %.0f di cibo, recupera %d%% di salute]]></entry>
     <entry id="str_ui_hunger_choice_starve"><![CDATA[Non mangiare niente, subisci %d%% danno e danno da stress]]></entry>
-    <entry id="str_ui_hunger_content"><![CDATA[Le fatiche dell'avventura hanno fatto crescere la fame tra i membri del gruppo.]]></entry>
+    <entry id="str_ui_hunger_content"><![CDATA[Le fatiche dell'avventura hanno fatto crescere la fame tra i membri della squadra.]]></entry>
     <entry id="str_ui_hunger_title"><![CDATA[Fame]]></entry>
     <entry id="str_ui_immune"><![CDATA[IMMUNE!]]></entry>
     <entry id="str_ui_MAXHP"><![CDATA[PF MAX]]></entry>
@@ -3590,7 +3590,7 @@
     <entry id="str_weald_level_5_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Landa è stata potenziata a difficoltà 5.]]></entry>
     <entry id="str_weald_level_6_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Landa è stata potenziata a difficoltà 6.]]></entry>
     <entry id="str_weald_level_7_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Landa è stata potenziata a difficoltà 7.]]></entry>
-    <entry id="str_weald_tip"><![CDATA[Ogni regione ha le sue sfide. Assembla il tuo gruppo e le tue provviste di conseguenza.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Ogni regione ha le sue sfide. Assembla la tua squadra e le tue provviste di conseguenza.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Una provvista ben utilizzata può spesso proteggere dai rischi degli oggetti interattivi che incontri.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Puoi ritirarti dal combattimento e anche abbandonare le missioni. Se le cose si mettono male, è meglio salvarsi e ritentare un'altra volta.]]></entry>
     <entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} La Landa è sbloccata.]]></entry>
@@ -3616,11 +3616,11 @@
     <entry id="town_confirm_embark_not_enough_heroes_question"><![CDATA[Non hai a disposizione quattro eroi per la missione. 
  
  Dovrai reclutarne altri alla diligenza oppure rimuovere alcuni eroi dal trattamento.]]></entry>
-    <entry id="town_estate_bar_tooltip"><![CDATA[%ss: %d (per migliorare gli edifici del villaggio.)]]></entry>
-    <entry id="town_estate_bar_tooltip_bust"><![CDATA[Busti: %d (per migliorare gli edifici del villaggio.)]]></entry>
-    <entry id="town_estate_bar_tooltip_crest"><![CDATA[Stemmi: %d (per migliorare gli edifici del villaggio.)]]></entry>
-    <entry id="town_estate_bar_tooltip_deed"><![CDATA[Documenti: %d (per migliorare gli edifici del villaggio.)]]></entry>
-    <entry id="town_estate_bar_tooltip_portrait"><![CDATA[Ritratti: %d (per migliorare gli edifici del villaggio.)]]></entry>
+    <entry id="town_estate_bar_tooltip"><![CDATA[%ss: %d (per migliorare gli edifici del villaggio)]]></entry>
+    <entry id="town_estate_bar_tooltip_bust"><![CDATA[Busti: %d (per migliorare gli edifici del villaggio)]]></entry>
+    <entry id="town_estate_bar_tooltip_crest"><![CDATA[Stemmi: %d (per migliorare gli edifici del villaggio)]]></entry>
+    <entry id="town_estate_bar_tooltip_deed"><![CDATA[Documenti: %d (per migliorare gli edifici del villaggio)]]></entry>
+    <entry id="town_estate_bar_tooltip_portrait"><![CDATA[Ritratti: %d (per migliorare gli edifici del villaggio)]]></entry>
     <entry id="town_event_description_bonus_recruit_antiquarian"><![CDATA[...i reperti recentemente trovati hanno attratto l'interesse degli appassionati locali e l'attenzione di esperti nelle regioni limitrofe.]]></entry>
     <entry id="town_event_description_bonus_recruit_bounty_hunter"><![CDATA[Silenziosi e riservati, questi uomini sono professionisti attratti non dall'odore del sangue, ma dal luccichio dell'oro.]]></entry>
     <entry id="town_event_description_bonus_recruit_crusader"><![CDATA[...inspiegabilmente, tuttavia, si sono fatti avanti solo in due. Sembra che l'accorata richiesta dell'Abate sia stata accolta, sebbene con beffarda crudeltà.]]></entry>
@@ -3632,7 +3632,7 @@
     <entry id="town_event_description_embark_party_buff_affliction_chance"><![CDATA[Abbattimento e incertezza aleggiano nel vento. Molti avventurieri confessano di sentirsi a disagio, anche qui nella relativa sicurezza del Borgo.]]></entry>
     <entry id="town_event_description_embark_party_buff_cove_buff"><![CDATA[Quest'oggi i marinai superstiziosi gioivano alla notizia che gli innominabili orrori sovrannaturali hanno cessato di minacciare il loro carico.]]></entry>
     <entry id="town_event_description_embark_party_buff_crypts_buff"><![CDATA[Le notizie dalle cascine sulle colline confermano un sollievo dall'aria di turbamento che circondava e proveniva dalle vecchie Rovine.]]></entry>
-    <entry id="town_event_description_embark_party_buff_virtue_chance"><![CDATA[Erano un gruppo terrificante: denti stretti e sguardi distanti; e tra di loro, un indistruttibile legame di solidarietà.]]></entry>
+    <entry id="town_event_description_embark_party_buff_virtue_chance"><![CDATA[Erano un manipolo terrificante: denti stretti, sguardi distanti; e tra loro, un indissolubile legame di comunione.]]></entry>
     <entry id="town_event_description_embark_party_buff_warrens_buff"><![CDATA[I residenti della zona ovest hanno espresso sollievo per la diminuzione del fetore nauseante che proveniva dagli antichi acquedotti.]]></entry>
     <entry id="town_event_description_embark_party_buff_weald_buff"><![CDATA[Della vegetazione non corrotta è stata trovata nel bosco circostante: una rarità da queste parti.]]></entry>
     <entry id="town_event_description_free_abbey"><![CDATA[L'Abbazia verrà decorata per tutta la durata dell'evento, e tutti sono i benvenuti a visitarla durante l'apertura prolungata.]]></entry>
@@ -3757,7 +3757,7 @@
     <entry id="town_provision_confirm_yes"><![CDATA[Sì]]></entry>
     <entry id="town_provision_embark_no"><![CDATA[No]]></entry>
     <entry id="town_provision_embark_yes"><![CDATA[Sì]]></entry>
-    <entry id="town_provision_no_trinkets_equipped"><![CDATA[Non tutti i membri del tuo gruppo hanno equipaggiato degli accessori. Vuoi intraprendere comunque la missione?]]></entry>
+    <entry id="town_provision_no_trinkets_equipped"><![CDATA[Non tutti i membri della tua squadra hanno equipaggiato degli accessori. Vuoi intraprendere comunque la missione?]]></entry>
     <entry id="town_provision_not_enough_food_confirm_format"><![CDATA[Non hai acquistato molto cibo per la spedizione. È consigliabile portare almeno %d unità di cibo per questa missione. Vuoi intraprenderla comunque?]]></entry>
     <entry id="town_quest_description_cleanse+1+cove+battle_all_rooms"><![CDATA[Un pesce su due game? Appurate la forza di questa nuova minaccia.]]></entry>
     <entry id="town_quest_description_cleanse+1+crypts+battle_all_rooms"><![CDATA[Abomini empi ritorcono la Luce contro sé stessa. Affrontateli in battaglia e imparate come combattono.]]></entry>
@@ -3971,7 +3971,7 @@
     <entry id="town_quest_quest_select_more_combat_skills_can_be_equipped_confirm"><![CDATA[Alcuni dei tuoi eroi non hanno equipaggiato tutte le abilità di combattimento.]]></entry>
     <entry id="town_quest_quest_select_no_combat_skills_equipped_confirm"><![CDATA[Nessuna abilità di combattimento preparata]]></entry>
     <entry id="town_quest_quest_select_no_combat_skills_equipped_confirm_hero_name_format"><![CDATA[Eroe: %s]]></entry>
-    <entry id="town_quest_quest_select_small_team_confirm"><![CDATA[Seri pericoli attendono gli sprovveduti. Vuoi davvero proseguire con un gruppo non al completo?]]></entry>
+    <entry id="town_quest_quest_select_small_team_confirm"><![CDATA[Seri pericoli attendono gli sprovveduti. Vuoi davvero proseguire con una squadra non al completo?]]></entry>
     <entry id="town_quest_quest_select_suggested_trinket_confirm"><![CDATA[Dovresti equipaggiare i seguenti Ornamenti prima di avviarti, o il fallimento è quasi certo:]]></entry>
     <entry id="town_quest_quest_select_suggested_trinket_confirm_trinket_format"><![CDATA[%s x %d]]></entry>
     <entry id="town_quest_rewards"><![CDATA[Ricompense]]></entry>
@@ -4084,7 +4084,7 @@
 Clicca su {colour_start|notable}[AVVIATI]{colour_end} in fondo alla schermata!]]></entry>
     <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Mentre sei in un {colour_start|notable}corridoio{colour_end}, premi {colour_start|town_activity_log_positive_result}[D]{colour_end} per muoverti avanti, {colour_start|town_activity_log_positive_result}[A]{colour_end} per tornare indietro.
  
- Se preferisci usare il {colour_start|notable}mouse{colour_end}, puoi fare {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} davanti o dietro al gruppo per muoverli.]]></entry>
+ Se preferisci usare il {colour_start|notable}mouse{colour_end}, puoi fare {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} davanti o dietro alla squadra per muoverti.]]></entry>
     <entry id="tutorial_popup_hallway_nav_title"><![CDATA[Movimento nei corridoi]]></entry>
     <entry id="tutorial_popup_heart_attack_description"><![CDATA[Lo {colour_start|harmful}stress{colour_end} continua ad accumularsi oltre il punto di {colour_start|harmful}Afflizione{colour_end}.
  
@@ -4127,7 +4127,7 @@ Clicca su {colour_start|notable}[AVVIATI]{colour_end} in fondo alla schermata!]]
     <entry id="tutorial_popup_questparty_description"><![CDATA[Ogni missione ha {colour_start|notable}obiettivi e ricompense diversi{colour_end}, e ogni regione presenta le sue sfide. Sperimenta varie combinazioni per vedere quale funziona meglio!
  
  Tuttavia si raccomanda di portare con sé una {colour_start|notable}Vestale{colour_end} o un {colour_start|notable}Occultista{colour_end} per le guarigioni.]]></entry>
-    <entry id="tutorial_popup_questparty_title"><![CDATA[Formazione Gruppo]]></entry>
+    <entry id="tutorial_popup_questparty_title"><![CDATA[Formazione squadra]]></entry>
     <entry id="tutorial_popup_resolve_level_description"><![CDATA[Gli eroi guadagnano {colour_start|notable}PE di Risolutezza{colour_end} in ogni missione che portano a termine con successo. I {colour_start|notable}PE di Risolutezza{colour_end} a loro volta ne determinano il {colour_start|notable}Livello di Risolutezza{colour_end}.
  
  Il {colour_start|notable}Livello di Risolutezza{colour_end} rappresenta la perizia dell'eroe, e agisce direttamente come {colour_start|notable}Resistenza allo Stress{colour_end} contro gli orrori incontrati nei dungeon.

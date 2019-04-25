@@ -2,7 +2,7 @@
 <root>
   <language id="english"/>
   <language id="italian">
-    <entry id="party_name_default"><![CDATA[Build a Party From the Roster]]></entry>
+    <entry id="party_name_default"><![CDATA[Crea una squadra dai tuoi ranghi]]></entry>
     <entry id="party_name_0"><![CDATA[I soliti sospetti.]]></entry>
     <entry id="party_name_1"><![CDATA[The Privateers]]></entry>
     <entry id="party_name_2"><![CDATA[Blood Money]]></entry>
