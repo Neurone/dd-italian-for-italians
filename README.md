@@ -12,7 +12,7 @@ NOTA: Poiché i mod installati via Steam vengono applicati solamente dopo che si
 
 Modificare i file all'interno della cartella 'mod'
 
-## Come effettuo l'upload del mod su Steam
+## Come effettuare l'upload del mod su Steam
 
 Se volete creare il vostro mod, potete utilizzare la guida ufficiale [Darkest Dungeon - Modding Guide [Official]](https://steamcommunity.com/sharedfiles/filedetails/?id=819597757)
 
