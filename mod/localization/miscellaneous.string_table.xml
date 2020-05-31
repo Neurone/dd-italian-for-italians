@@ -570,7 +570,7 @@
     <entry id="str_affliction_description_masochistic"><![CDATA[Il dolore è piacere per il giusto, il volenteroso, il vincitore.]]></entry>
     <entry id="str_affliction_description_nothing"><![CDATA[Nessuna descrizione]]></entry>
     <entry id="str_affliction_description_paranoid"><![CDATA[Ogni albero nasconde lupi in agguato; ogni pasto nasconde malattie; ogni amico cova l'avidità nel cuore.]]></entry>
-    <entry id="str_affliction_description_selfish"><![CDATA[Ma lasciamo pure che il mondo vada all'infernom, basta che io possa sempre godermi il mio té.]]></entry>
+    <entry id="str_affliction_description_selfish"><![CDATA[Ma lasciamo pure che il mondo vada all'inferno, basta che io possa sempre godermi il mio tè.]]></entry>
     <entry id="str_affliction_name_abusive"><![CDATA[Offensivo]]></entry>
     <entry id="str_affliction_name_depressed"><![CDATA[Disperato]]></entry>
     <entry id="str_affliction_name_fearful"><![CDATA[Terrorizzato]]></entry>
@@ -2507,8 +2507,8 @@
     <entry id="str_returned_from_plot_kill_necromancer_1_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Apprendista Negromante! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_necromancer_2_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Negromante. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_necromancer_2_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Negromante! ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_plot_kill_necromancer_3_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Signore dei Necromanti. ({?difficulty}%s {?length}%s)]]></entry>
-    <entry id="str_returned_from_plot_kill_necromancer_3_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Signore dei Necromanti! ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_plot_kill_necromancer_3_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Signore dei Negromanti. ({?difficulty}%s {?length}%s)]]></entry>
+    <entry id="str_returned_from_plot_kill_necromancer_3_success"><![CDATA[{?hero_names}%s si sono liberati del terribile Signore dei Negromanti! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_prophet_1_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Profeta Roboante. ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_prophet_1_success"><![CDATA[{?hero_names}%s hanno messo a tacere il Profeta Roboante! ({?difficulty}%s {?length}%s)]]></entry>
     <entry id="str_returned_from_plot_kill_prophet_2_failure"><![CDATA[{?hero_names}%s non sono stati in grado di fermare il Profeta Fulminante. ({?difficulty}%s {?length}%s)]]></entry>
@@ -3429,7 +3429,7 @@
     <entry id="str_vo_town_backstory_21_0"><![CDATA[Per tutta la vita, ho sentito questo insistente 
  tormento in un angolo della mia mente.]]></entry>
     <entry id="str_vo_town_backstory_21_1"><![CDATA[Era un desiderio, una sete di scoperta 
- che non poteva essere addormentata ne saziata.]]></entry>
+ che non poteva essere addormentata né saziata.]]></entry>
     <entry id="str_vo_town_backstory_22_0"><![CDATA[Una vita di inutile sacrificio - la penitenza 
  per i miei indicibili peccati]]></entry>
     <entry id="str_vo_town_dismiss_general_01_0"><![CDATA[Un' altra anima maltrattata e spezzata. Messo da parte come una torcia consumata.]]></entry>
@@ -3627,7 +3627,7 @@
     <entry id="town_event_description_bonus_recruit_hellion"><![CDATA[Dissoluti e decadenti fino all'eccesso, molti guerrieri vagabondi sono giunti al Borgo in cerca di morte gloriosa. Possiamo solo sperare che la trovino in fretta.]]></entry>
     <entry id="town_event_description_bonus_recruit_leper"><![CDATA[Non si possono che ammirare queste anime sfortunate: portano il loro fardello con garbo e umiltà che raramente si vedono in chi è sano di corpo.]]></entry>
     <entry id="town_event_description_bonus_recruit_occultist"><![CDATA[Sebbene strane invocazioni e cori inquietanti tipicamente caratterizzino questi raduni, ci è stato assicurato che nei rituali non c'è alcun reale pericolo.]]></entry>
-    <entry id="town_event_description_bonus_recruit_vestal"><![CDATA[Le Sorelle di Santa Martha celebreranno gli uffizi con un coro di Noi Siamo La Fiamma," dopodiché accoglieranno le confessioni nella sala secondaria."]]></entry>
+    <entry id="town_event_description_bonus_recruit_vestal"><![CDATA[Le Sorelle di Santa Martha celebreranno gli uffizi con un coro di "Noi Siamo La Fiamma," dopodiché accoglieranno le confessioni nella sala secondaria.]]></entry>
     <entry id="town_event_description_dead_recruit"><![CDATA[Per una ripugnante maledizione o un prodigio maligno, sembra che anche in questo luogo dannato si possa sfuggire alla morte. Solo UNO di questi soldati può tornare tra i vivi...]]></entry>
     <entry id="town_event_description_embark_party_buff_affliction_chance"><![CDATA[Abbattimento e incertezza aleggiano nel vento. Molti avventurieri confessano di sentirsi a disagio, anche qui nella relativa sicurezza del Borgo.]]></entry>
     <entry id="town_event_description_embark_party_buff_cove_buff"><![CDATA[Quest'oggi i marinai superstiziosi gioivano alla notizia che gli innominabili orrori sovrannaturali hanno cessato di minacciare il loro carico.]]></entry>
@@ -3676,7 +3676,7 @@
     <entry id="town_event_info_format_idle_resolve_level"><![CDATA[{?hero_class}%ss inattivo guadagna {?resolve_level}%d Livello di Risolutezza]]></entry>
     <entry id="town_event_info_format_plot_quest"><![CDATA[Pianifica Missione: %s]]></entry>
     <entry id="town_event_info_format_provision_item_type_amount_change"><![CDATA[Le quantità di {?item_type}%s cambiano del {?amount_change}%d%%]]></entry>
-    <entry id="town_event_info_format_provision_item_type_cost_change"><![CDATA[Il costi di {?item_type}%s {?cost_change}%d%%]]></entry>
+    <entry id="town_event_info_format_provision_item_type_cost_change"><![CDATA[Il costo di {?item_type}%s {?cost_change}%d%%]]></entry>
     <entry id="town_event_info_format_trinket_retention_add_from_storage"><![CDATA[L'urlatore ti ha sottratto %d accessori!]]></entry>
     <entry id="town_event_info_format_upgrade_tag_discount"><![CDATA[%s costo %d%%]]></entry>
     <entry id="town_event_info_format_upgrade_tag_free"><![CDATA[Miglioria gratuita: {?upgrade_tag}%s x {?amount}%d]]></entry>
@@ -3900,7 +3900,7 @@
     <entry id="town_quest_name_plot_kill_hag_3"><![CDATA[Uccidete la Strega Cattiva]]></entry>
     <entry id="town_quest_name_plot_kill_necromancer_1"><![CDATA[Uccidete l'Apprendista Negromante]]></entry>
     <entry id="town_quest_name_plot_kill_necromancer_2"><![CDATA[Uccidete il Negromante]]></entry>
-    <entry id="town_quest_name_plot_kill_necromancer_3"><![CDATA[Uccidete il Signore dei Necromanti]]></entry>
+    <entry id="town_quest_name_plot_kill_necromancer_3"><![CDATA[Uccidete il Signore dei Negromanti]]></entry>
     <entry id="town_quest_name_plot_kill_prophet_1"><![CDATA[Uccidete il Profeta Roboante]]></entry>
     <entry id="town_quest_name_plot_kill_prophet_2"><![CDATA[Uccidete il Profeta Fulminante]]></entry>
     <entry id="town_quest_name_plot_kill_prophet_3"><![CDATA[Uccidete il Profeta Farneticante]]></entry>
