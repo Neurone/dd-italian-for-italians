@@ -284,7 +284,7 @@
     <entry id="effect_tooltip_heal_format"><![CDATA[{colour_start|healhp}Cura{colour_end} %d PF]]></entry>
     <entry id="effect_tooltip_heal_percent_format"><![CDATA[{colour_start|healhp}Cura{colour_end} %d%% dei PF massimi]]></entry>
     <entry id="effect_tooltip_hp_heal_dot_format"><![CDATA[{colour_start|healhp}Cura{colour_end} %d punti per turno per %d turni]]></entry>
-    <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Rimuovi tutto %ss]]></entry>
+    <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Rimuovi tutti %s]]></entry>
     <entry id="effect_tooltip_move_backward"><![CDATA[{colour_start|knockback}Spingi{colour_end} %d]]></entry>
     <entry id="effect_tooltip_move_forward"><![CDATA[{colour_start|move}Tira{colour_end} %d]]></entry>
     <entry id="effect_tooltip_party"><![CDATA[Tutti gli Eroi:]]></entry>
@@ -3616,7 +3616,7 @@
     <entry id="town_confirm_embark_not_enough_heroes_question"><![CDATA[Non hai a disposizione quattro eroi per la missione. 
  
  Dovrai reclutarne altri alla diligenza oppure rimuovere alcuni eroi dal trattamento.]]></entry>
-    <entry id="town_estate_bar_tooltip"><![CDATA[%ss: %d (per migliorare gli edifici del villaggio)]]></entry>
+    <entry id="town_estate_bar_tooltip"><![CDATA[%s: %d (per migliorare gli edifici del villaggio)]]></entry>
     <entry id="town_estate_bar_tooltip_bust"><![CDATA[Busti: %d (per migliorare gli edifici del villaggio)]]></entry>
     <entry id="town_estate_bar_tooltip_crest"><![CDATA[Stemmi: %d (per migliorare gli edifici del villaggio)]]></entry>
     <entry id="town_estate_bar_tooltip_deed"><![CDATA[Documenti: %d (per migliorare gli edifici del villaggio)]]></entry>
@@ -3673,7 +3673,7 @@
     <entry id="town_event_info_format_embark_party_buff"><![CDATA[%s nella prossima missione]]></entry>
     <entry id="town_event_info_format_free_activity"><![CDATA[%s è gratis]]></entry>
     <entry id="town_event_info_format_idle_buff"><![CDATA[Tutti gli eroi inattivi %s]]></entry>
-    <entry id="town_event_info_format_idle_resolve_level"><![CDATA[{?hero_class}%ss inattivo guadagna {?resolve_level}%d Livello di Risolutezza]]></entry>
+    <entry id="town_event_info_format_idle_resolve_level"><![CDATA[{?hero_class}%s inattivo guadagna {?resolve_level}%d Livello di Risolutezza]]></entry>
     <entry id="town_event_info_format_plot_quest"><![CDATA[Pianifica Missione: %s]]></entry>
     <entry id="town_event_info_format_provision_item_type_amount_change"><![CDATA[Le quantità di {?item_type}%s cambiano del {?amount_change}%d%%]]></entry>
     <entry id="town_event_info_format_provision_item_type_cost_change"><![CDATA[Il costo di {?item_type}%s {?cost_change}%d%%]]></entry>
@@ -3832,11 +3832,11 @@
     <entry id="town_quest_difficulty_5"><![CDATA[Campione (Liv. 5)]]></entry>
     <entry id="town_quest_difficulty_6"><![CDATA[Oscuro (Liv. 6)]]></entry>
     <entry id="town_quest_dungeon_not_released"><![CDATA[Addentrati in questa regione, la più temuta di tutte.]]></entry>
-    <entry id="town_quest_goal_start_plural_activate"><![CDATA[Attiva %d %ss.]]></entry>
+    <entry id="town_quest_goal_start_plural_activate"><![CDATA[Attiva %d %s.]]></entry>
     <entry id="town_quest_goal_start_plural_battle_room"><![CDATA[Completa il %.0f%% 
  di combattimenti nelle stanze.]]></entry>
     <entry id="town_quest_goal_start_plural_explore_room"><![CDATA[Esplora: il %.0f%% delle stanze.]]></entry>
-    <entry id="town_quest_goal_start_plural_gather"><![CDATA[Raccogli %d %ss.]]></entry>
+    <entry id="town_quest_goal_start_plural_gather"><![CDATA[Raccogli %d %s.]]></entry>
     <entry id="town_quest_goal_start_plural_kill_monster"><![CDATA[Uccidi %d %s.]]></entry>
     <entry id="town_quest_goal_start_plural_tutorial_room"><![CDATA[Trovate la strada per il Borgo...]]></entry>
     <entry id="town_quest_goal_start_single_activate"><![CDATA[Attiva %d %s.]]></entry>
@@ -4333,5 +4333,7 @@ Non spammiamo e non condivideremo mai il tuo indirizzo e-mail con terzi. L'iscri
     <entry id="str_stat_base_scouting_chance"><![CDATA[Base]]></entry>
     <entry id="buff_bsrc_quest_modifier"><![CDATA[Condizione missione]]></entry>
     <entry id="tray_icon_tooltip_riposte_no_duration"><![CDATA[{colour_start|riposte}Risposta{colour_end}]]></entry>
+    <entry id="buff_rule_tooltip_attacking_monster_type"><![CDATA[%s quando attaccato da %s]]></entry>
+    <entry id="buff_rule_tooltip_monster_type_count_min"><![CDATA[%s contro %s]]></entry>
   </language>
 </root>

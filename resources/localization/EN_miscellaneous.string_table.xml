@@ -3321,7 +3321,7 @@
  place to begin than the seat of our noble line?]]></entry>
     <entry id="str_vo_neutral_crypts_explore_0"><![CDATA[Pace out the halls of your lineage, 
  once familar, now foreign.]]></entry>
-    <entry id="str_vo_neutral_crypts_gather_0"><![CDATA[There is power in symbols. Collect the scrattered 
+    <entry id="str_vo_neutral_crypts_gather_0"><![CDATA[There is power in symbols. Collect the scattered 
  scraps of faith and give comfort to the masses.]]></entry>
     <entry id="str_vo_neutral_crypts_kill_alt_0"><![CDATA[The echoes of his mindless tittering reverbate 
  maddeningly - he must be silenced!]]></entry>
@@ -4377,7 +4377,7 @@ We don't spam, and will never share your email address with third parties. Joini
     <entry id="mailing_list_answer_never"><![CDATA[Don't bother me again]]></entry>
     <entry id="buff_rule_data_tooltip_stonework"><![CDATA[Stonework]]></entry>
     <entry id="enemy_type_name_stonework"><![CDATA[Stonework]]></entry>
-    <entry id="buff_rule_tooltip_actor_base_class"><![CDATA[%s vs. %s]]></entry>
+    <entry id="buff_rule_tooltip_actor_base_class"><![CDATA[%s vs %s]]></entry>
     <entry id="str_trinket_retention_log_item"><![CDATA[The Shrieker stole %d trinkets from your downed party members! You will have to reclaim them when he reveals himself in the Weald.]]></entry>
     <entry id="str_monster_skill_head_crush"><![CDATA[Head Knocker]]></entry>
     <entry id="str_monster_skill_head_stress"><![CDATA[Head Rush]]></entry>
@@ -4386,5 +4386,8 @@ We don't spam, and will never share your email address with third parties. Joini
     <entry id="str_stat_base_scouting_chance"><![CDATA[Base]]></entry>
     <entry id="buff_bsrc_quest_modifier"><![CDATA[Quest Condition]]></entry>
     <entry id="tray_icon_tooltip_riposte_no_duration"><![CDATA[{colour_start|riposte}Riposte{colour_end}]]></entry>
+    <entry id="buff_rule_tooltip_attacking_monster_type"><![CDATA[%s when attacked by %s]]></entry>
+    <entry id="buff_rule_tooltip_monster_type_count_min"><![CDATA[%s vs %s]]></entry>
   </language>
-  </root>
+</root>
+
