@@ -1,16 +1,16 @@
 # Miglioramenti alla traduzione italiana di Darkest Dungeon
 
-Revisioni e correzioni per la traduzione italiana di Darkest Dungeon.
+Revisioni e correzioni per la traduzione italiana di Darkest Dungeon (ultima versione testata: 25544 con DLC The Butcher's Circus)
 
 Nella traduzione originale ad esempio "party" veniva tradotto con "partito", "build number" veniva tradotto con "costruiamo", ecc. :)
 
-In aggiunta alle correzioni di traduzione, il mod contiene un elenco di poco più di 9.000 di nomi italiani che si vanno ad aggiungere ai 500 nomi standard, così che gli avventurieri abbiano dei nomi più familiari e pronunciabili per il popolo italico.
+In aggiunta alle **correzioni di traduzione**, il mod contiene un **elenco di poco più di 9.000 di nomi italiani** che si vanno ad aggiungere ai 500 nomi standard, così che gli avventurieri abbiano dei nomi più familiari e pronunciabili per il popolo italico.
 
-NOTA: Poiché i mod installati via Steam vengono applicati solamente dopo che si è scelta una campagna (con i relativi mod attivati) le modifiche alla traduzione per le voci del menu principale non vengono applicate (es. in alto a sinistra si vede ancora la voce "Costruzione" invece che "Versione").
+**NOTA**: Poiché i mod installati via Steam vengono applicati solamente **dopo** che si è scelta una campagna - con i relativi mod attivati - le modifiche alla traduzione per le voci del menu principale **non** possono essere applicate con un mod regolare. E' per queto che ad esempio nella schermata iniziale in alto a sinistra si vede ancora la voce "Costruzione" (dall'inglese _build_) invece che "Versione", oppure che le opzioni del menu iniziale sono in un italiano stentato, ecc.
 
-## Contribuire alla traduzione
+## Contribuire al mod e alla traduzione
 
-La fonte principale di frasi da tradurre di trova all'interno della cartella [mod/localisation](mod/localisation) e sono in particolare tutti i file xml che trovate.
+Tutte le risorse del mod che verranno poi applicate al gioco sono all'interno della cartella [mod](mod), il resto sono file di supporto alla compilazione. La fonte principale di frasi da tradurre di trova all'interno della cartella [mod/localisation](mod/localisation) e sono in particolare tutti i file xml che trovate.
 
 ### Codifica dei caratteri
 **La codifica dei caratteri (charset) deve essere UTF-8**. Per sicurezza utilizzate direttamente un editor di testo che supporti più charset come ad esempio [Notepad++](https://notepad-plus-plus.org/downloads/) e il charset corretto verrà riconosciuto senza problemi.
@@ -40,10 +40,6 @@ Una volta scaricato e tradotto il file che volete aggiornare:
 1. Attendete che la PR sia accettata e unita
 1. _Opzionale_. Una volta accetta la vostra PR sarà chiusa (_Closed_) e il vostro ramo con la modifica unito (_Merged_) a quello principale. Potete quindi decidere di cancellare il ramo che è rimasto nel vostro repository, visto che ha assolto al proprio compito di proporre la modifica che è stata accettata
 ![](meta/08.png) ![](meta/09.png)
-
-## Come creare delle modifiche
-
-Modificare i file all'interno della cartella 'mod'
 
 ## Come effettuare l'upload del mod su Steam
 
