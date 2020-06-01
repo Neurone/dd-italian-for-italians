@@ -1,12 +1,17 @@
 # Miglioramenti alla traduzione italiana di Darkest Dungeon
 
-Revisioni e correzioni per la traduzione italiana di Darkest Dungeon (ultima versione testata: 25544 con DLC The Butcher's Circus)
+Revisioni e correzioni per la traduzione italiana di Darkest Dungeon, con correzioni e aggiustamenti anche dell'interfaccia per rendere più leggibile il tutto. Ultima versione testata: 25544 con DLC The Butcher's Circus.
 
-Nella traduzione originale ad esempio "party" veniva tradotto con "partito", "build number" veniva tradotto con "costruiamo", ecc. :)
+Nella traduzione originale ad esempio "party" veniva tradotto con "partito", "build number" veniva tradotto con "costruiamo", ecc. In più, alcune parole venivano troncate inutilmente - es. PROT al posto di PROTEZIONE - e altre invece si sovrapponevano all'interfaccia (es. Dissanguamento).
+
 
 In aggiunta alle **correzioni di traduzione**, il mod contiene un **elenco di poco più di 9.000 di nomi italiani** che si vanno ad aggiungere ai 500 nomi standard, così che gli avventurieri abbiano dei nomi più familiari e pronunciabili per il popolo italico.
 
 **NOTA**: Poiché i mod installati via Steam vengono applicati solamente **dopo** che si è scelta una campagna - con i relativi mod attivati - le modifiche alla traduzione per le voci del menu principale **non** possono essere applicate con un mod regolare. E' per queto che ad esempio nella schermata iniziale in alto a sinistra si vede ancora la voce "Costruzione" (dall'inglese _build_) invece che "Versione", oppure che le opzioni del menu iniziale sono in un italiano stentato, ecc.
+
+![](meta/11.png)
+
+![](meta/12.png)
 
 ## Contribuire al mod e alla traduzione
 
@@ -27,10 +32,13 @@ Un'alternativa, è lavorare comunque sul vostro PC ma effettuare la proposta di 
 Una volta scaricato e tradotto il file che volete aggiornare:
 1. Tornate su questo repository, assicuratevi di essere sul branch **dev**
 ![](meta/01.png)
+
 1. Navigate fino al file che volete aggiornare e premete l'icona in alto a destra per la modifica, la matita che dice "Edit this file"
 ![](meta/02.png)
+
 1. GitHub vi avverte che non avete permessi di scrittura sul repo, che verrà creato un repository uguale a questo sulla vostra utenza e che verrà creato un nuovo ramo con le vostre modifiche. A quel punto, potrete proporre una pull request sul repository principale. Fate una modifica puntuale o, in caso di modifiche multiple, direttamente copia e incolla di tutto il contenuto del vostro file aggiornato
 ![](meta/03.png)
+
 1. premete `Previw changes` per verificare che le modifiche siano quelle che vi aspettate. Se è tutto ok, inserite un messaggio che descrive brevemente la vostra modifica e premete **Propose file change**
 ![](meta/04.png)
 1. A questo punto avete aggiornato il vostro repository, e potete procedere con la proposta di unione. Premete il pulsante **Create pull request**, modificate il testo del commit - se per qualche motivo volete cambiare il testo rispetto a quanto avete inserito precedentemente - e poi premete nuovamente **Create pull request** per confermate

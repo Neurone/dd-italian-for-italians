@@ -1,0 +1,7 @@
+Revisioni e correzioni per la traduzione italiana di Darkest Dungeon, con correzioni e aggiustamenti anche dell'interfaccia per rendere più leggibile il tutto.
+
+In aggiunta alle correzioni di traduzione, il mod contiene un elenco di poco più di 9.000 di nomi italiani che si vanno ad aggiungere ai 500 nomi standard, così che gli avventurieri abbiano dei nomi più familiari e pronunciabili per il popolo italico.
+
+Potete usare l'apposita discussione per segnalare ulteriori bug o richieste di modifica della traduzione: cercherò di applicarle il prima possibile. Volendo, potete anche effettuare direttamente delle 'pull request' su GitHub, dove ho pubblicato il codice del mod: https://github.com/Neurone/dd-italian-for-italians. Trovate sempre su GitHub una guida dettagliata a riguardo.
+
+NOTA: Poiché i mod installati via Steam vengono applicati solamente dopo che si è scelta una campagna - con i relativi mod attivati - le modifiche alla traduzione per le voci del menu principale non possono essere applicate con un mod regolare. E' per queto che ad esempio nella schermata iniziale in alto a sinistra si vede ancora la voce "Costruzione" (dall'inglese _build_) invece che "Versione", oppure che le opzioni del menu iniziale sono in un italiano stentato, ecc.
