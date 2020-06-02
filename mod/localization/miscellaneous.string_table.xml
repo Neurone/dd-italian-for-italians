@@ -68,7 +68,7 @@
     <entry id="buff_rule_data_tooltip_eldritch"><![CDATA[Sovrannaturale]]></entry>
     <entry id="buff_rule_data_tooltip_flagellation"><![CDATA[Flagellazione]]></entry>
     <entry id="buff_rule_data_tooltip_gambling"><![CDATA[Gioco d'Azzardo]]></entry>
-    <entry id="buff_rule_data_tooltip_heroic_end"><![CDATA[Conclusione]]></entry>
+    <entry id="buff_rule_data_tooltip_heroic_end"><![CDATA[Gran Finale]]></entry>
     <entry id="buff_rule_data_tooltip_hounds_rush"><![CDATA[Carica del Segugio]]></entry>
     <entry id="buff_rule_data_tooltip_man"><![CDATA[Umano]]></entry>
     <entry id="buff_rule_data_tooltip_meditation"><![CDATA[Meditazione]]></entry>
@@ -92,7 +92,7 @@
     <entry id="buff_rule_tooltip_at_deaths_door_false"><![CDATA[%s se non in {colour_start|deathdoor}Punto di Morte{colour_end}]]></entry>
     <entry id="buff_rule_tooltip_firstroundonly"><![CDATA[%s al Primo Round]]></entry>
     <entry id="buff_rule_tooltip_firstroundonly_false"><![CDATA[%s dopo il Primo Round]]></entry>
-    <entry id="buff_rule_tooltip_hpabove"><![CDATA[%s se i PF sono meno del %d%%]]></entry>
+    <entry id="buff_rule_tooltip_hpabove"><![CDATA[%s se i PF sono più del %d%%]]></entry>
     <entry id="buff_rule_tooltip_hpabove_false"><![CDATA[%s se i PF non sono più del %d%%]]></entry>
     <entry id="buff_rule_tooltip_hpbelow"><![CDATA[%s se i PF sono meno del %d%%]]></entry>
     <entry id="buff_rule_tooltip_hpbelow_false"><![CDATA[%s se i PF non sono meno di %d%%]]></entry>
@@ -648,7 +648,7 @@
     <entry id="str_camping_trainer_cost_upgrade_lvl_5"><![CDATA[La rete della survivalista si è ampliata. Addestrare le abilità di accampamento è ora meno costoso. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_camping_trainer_summary"><![CDATA[Migliora Abilità 
  di Accampamento]]></entry>
-    <entry id="str_camping_trainer_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} L' %s è sbloccato.]]></entry>
+    <entry id="str_camping_trainer_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} L'%s è sbloccato.]]></entry>
     <entry id="str_cant_place_hero_here_caretaker"><![CDATA[Il Custode sta adempiendo a questa attività...]]></entry>
     <entry id="str_cant_place_hero_here_crier"><![CDATA[Il Banditore sta apprezzando molto la sua attività al momento...]]></entry>
     <entry id="str_cant_use_firewood_in_entrance_room"><![CDATA[Non è possibile accamparsi nella prima stanza]]></entry>
@@ -1501,13 +1501,13 @@
     <entry id="str_locked_building_summary"><![CDATA[Completa un maggiore numero 
  di missioni per sbloccare]]></entry>
     <entry id="str_lost"><![CDATA[perso {?amount}%d oro]]></entry>
-    <entry id="str_map_ac_ambush_curio_tooltip"><![CDATA[Battaglia in Stanza con Reperto]]></entry>
+    <entry id="str_map_ac_ambush_curio_tooltip"><![CDATA[Battaglia nella Stanza col Reperto]]></entry>
     <entry id="str_map_ac_ambush_tooltip"><![CDATA[Battaglia]]></entry>
-    <entry id="str_map_ac_ambush_treasure_tooltip"><![CDATA[Battaglia in Stanza con Tesoro]]></entry>
+    <entry id="str_map_ac_ambush_treasure_tooltip"><![CDATA[Battaglia nella Stanza col Tesoro]]></entry>
     <entry id="str_map_ac_battle_tooltip"><![CDATA[Battaglia]]></entry>
     <entry id="str_map_ac_curio_tooltip"><![CDATA[Reperto]]></entry>
-    <entry id="str_map_ac_guarded_curio_tooltip"><![CDATA[Battaglia in Stanza con Reperto]]></entry>
-    <entry id="str_map_ac_guarded_treasure_tooltip"><![CDATA[Battaglia in Stanza con Tesoro]]></entry>
+    <entry id="str_map_ac_guarded_curio_tooltip"><![CDATA[Battaglia nella Stanza col Reperto]]></entry>
+    <entry id="str_map_ac_guarded_treasure_tooltip"><![CDATA[Battaglia nella Stanza col Tesoro]]></entry>
     <entry id="str_map_ac_hidden_door_tooltip"><![CDATA[Porta segreta]]></entry>
     <entry id="str_map_ac_obstacle_tooltip"><![CDATA[Ostacolo]]></entry>
     <entry id="str_map_ac_trap_tooltip"><![CDATA[Trappola]]></entry>
@@ -2282,7 +2282,7 @@
     <entry id="str_quirk_name_flagellant"><![CDATA[Flagellante]]></entry>
     <entry id="str_quirk_name_flawed_release"><![CDATA[Rilascio Difettoso]]></entry>
     <entry id="str_quirk_name_fragile"><![CDATA[Fragile]]></entry>
-    <entry id="str_quirk_name_gambler"><![CDATA[Febbre del Gioco]]></entry>
+    <entry id="str_quirk_name_gambler"><![CDATA[Ludopatia]]></entry>
     <entry id="str_quirk_name_gave_it_all"><![CDATA[Stremato]]></entry>
     <entry id="str_quirk_name_gift_of_the_healer"><![CDATA[Dono del Guaritore]]></entry>
     <entry id="str_quirk_name_god_fearing"><![CDATA[Timorato di Dio]]></entry>
@@ -2309,7 +2309,7 @@
     <entry id="str_quirk_name_lazy_eye"><![CDATA[Occhio Pigro]]></entry>
     <entry id="str_quirk_name_lethargy"><![CDATA[Letargia]]></entry>
     <entry id="str_quirk_name_light_sleeper"><![CDATA[Sonno Leggero]]></entry>
-    <entry id="str_quirk_name_love_interest"><![CDATA[Interesse Romantico]]></entry>
+    <entry id="str_quirk_name_love_interest"><![CDATA[Interesse Sessuale]]></entry>
     <entry id="str_quirk_name_lurker"><![CDATA[Vista Notturna]]></entry>
     <entry id="str_quirk_name_lygophobia"><![CDATA[Acluofobia]]></entry>
     <entry id="str_quirk_name_meditator"><![CDATA[Meditatore]]></entry>
@@ -2329,7 +2329,7 @@
     <entry id="str_quirk_name_pack_mule"><![CDATA[Animale da Soma]]></entry>
     <entry id="str_quirk_name_paranormania"><![CDATA[Paranormania]]></entry>
     <entry id="str_quirk_name_phengophobia"><![CDATA[Fotofobia]]></entry>
-    <entry id="str_quirk_name_photomania"><![CDATA[Cibomania]]></entry>
+    <entry id="str_quirk_name_photomania"><![CDATA[Fotomania]]></entry>
     <entry id="str_quirk_name_plutomania"><![CDATA[Plutomania]]></entry>
     <entry id="str_quirk_name_precision_striker"><![CDATA[Attaccante Preciso]]></entry>
     <entry id="str_quirk_name_predator"><![CDATA[Predatore]]></entry>
@@ -2805,7 +2805,7 @@
     <entry id="str_vo_bad_darkest_fail_1"><![CDATA[ancora una volta...]]></entry>
     <entry id="str_vo_bad_death_01_0"><![CDATA[In questa tomba scomposta, la sopravvivenza è una prospettiva incerta.]]></entry>
     <entry id="str_vo_bad_death_02_0"><![CDATA[Altro sangue bagna il terreno, nutrendo il male al suo interno.]]></entry>
-    <entry id="str_vo_bad_death_03_0"><![CDATA[Un' altra vita sprecata inseguendo l'oro e la gloria.]]></entry>
+    <entry id="str_vo_bad_death_03_0"><![CDATA[Un'altra vita sprecata inseguendo l'oro e la gloria.]]></entry>
     <entry id="str_vo_bad_death_04_0"><![CDATA[Non c'è spazio per il debole, o per l'imprudente.]]></entry>
     <entry id="str_vo_bad_death_05_0"><![CDATA[Altra polvere, altre ceneri, altro sconforto.]]></entry>
     <entry id="str_vo_bad_deaths_door_01_0"><![CDATA[Sull'orlo del precipizio dell'oblio...]]></entry>
@@ -3070,7 +3070,7 @@
     <entry id="str_vo_good_weald_success_cleanse_02_0"><![CDATA[Gli untori della pestilenza verranno cacciati dai nostri boschi!]]></entry>
     <entry id="str_vo_good_weald_success_explore_01_0"><![CDATA[Ogni cammino che viene protetto e ogni strada messa
  in sicurezza riducono l'isolamento della nostra tenuta.]]></entry>
-    <entry id="str_vo_good_weald_success_explore_02_0"><![CDATA[Strade e sentieri portano soldati e rifornimenti, che possano senza incidenti!]]></entry>
+    <entry id="str_vo_good_weald_success_explore_02_0"><![CDATA[Strade e sentieri portano soldati e rifornimenti, finalmente senza incidenti!]]></entry>
     <entry id="str_vo_good_weald_success_gather_01_0"><![CDATA[Questi medicinali impediranno il diffondersi
  dell'epidemia nel nostro Borgo già in difficoltà.]]></entry>
     <entry id="str_vo_good_weald_success_gather_02_0"><![CDATA[Queste medicine e queste erbe preverranno
@@ -3432,7 +3432,7 @@
  che non poteva essere addormentata né saziata.]]></entry>
     <entry id="str_vo_town_backstory_22_0"><![CDATA[Una vita di inutile sacrificio - la penitenza 
  per i miei indicibili peccati]]></entry>
-    <entry id="str_vo_town_dismiss_general_01_0"><![CDATA[Un' altra anima maltrattata e spezzata. Messo da parte come una torcia consumata.]]></entry>
+    <entry id="str_vo_town_dismiss_general_01_0"><![CDATA[Un'altra anima maltrattata e spezzata. Messo da parte come una torcia consumata.]]></entry>
     <entry id="str_vo_town_dismiss_general_02_0"><![CDATA[Coloro che non hanno lo stomaco per questo posto si facciano da parte.]]></entry>
     <entry id="str_vo_town_dismiss_general_03_0"><![CDATA[Mandalo altrove:
  qui servono elementi di tempra più dura.]]></entry>
@@ -3982,7 +3982,7 @@
     <entry id="town_quest_specifics_format"><![CDATA[%s | %s]]></entry>
     <entry id="town_quest_trinket_retention_description_format"><![CDATA[Sconfiggi l'urlatore per recuperare %d degli accessori che ti ha sottratto.]]></entry>
     <entry id="tray_icon_tooltip_bleed_format"><![CDATA[%d danno per (%d rds) round]]></entry>
-    <entry id="tray_icon_tooltip_buff_duration_combat_end_format"><![CDATA[%s (%d Battaglie)]]></entry>
+    <entry id="tray_icon_tooltip_buff_duration_combat_end_format"><![CDATA[%s (%d Battaglia/e)]]></entry>
     <entry id="tray_icon_tooltip_buff_duration_quest_end_format"><![CDATA[%s (missione)]]></entry>
     <entry id="tray_icon_tooltip_buff_duration_quest_not_complete_format"><![CDATA[%s (missione)]]></entry>
     <entry id="tray_icon_tooltip_buff_duration_round_format"><![CDATA[%s (%d Round)]]></entry>
