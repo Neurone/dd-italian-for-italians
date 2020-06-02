@@ -59,7 +59,9 @@ Dalla cartella `D:\Giochi\Steam\SteamApps\common\DarkestDungeon\_windows` eseguo
 
 `steam_workshop_upload.exe "d:\Sviluppo\dd-italian-for-italians\mod\project.xml"`
 
-Il programma di upload creerà da solo i file .loc necessari.
+Il programma di upload crea da solo i file `.loc2` necessari e ne effettua l'upload su Steam.
+
+Per semplicità ho creato uno script `publish.bat` ma attenzione che alcuni path all'interno sono assoluti e riferiti alla mia macchina.
 
 ### Note varie
 - Inserisco dentro "mod" tutto il progetto altrimenti Steam carica anche la cartella git nel repo.
