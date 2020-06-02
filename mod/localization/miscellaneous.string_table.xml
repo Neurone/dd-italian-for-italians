@@ -284,7 +284,7 @@
     <entry id="effect_tooltip_heal_format"><![CDATA[{colour_start|healhp}Cura{colour_end} %d PF]]></entry>
     <entry id="effect_tooltip_heal_percent_format"><![CDATA[{colour_start|healhp}Cura{colour_end} %d%% dei PF massimi]]></entry>
     <entry id="effect_tooltip_hp_heal_dot_format"><![CDATA[{colour_start|healhp}Cura{colour_end} %d punti per turno per %d turni]]></entry>
-    <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Rimuovi tutti %s]]></entry>
+    <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Rimuovi ogni %s]]></entry>
     <entry id="effect_tooltip_move_backward"><![CDATA[{colour_start|knockback}Spingi{colour_end} %d]]></entry>
     <entry id="effect_tooltip_move_forward"><![CDATA[{colour_start|move}Tira{colour_end} %d]]></entry>
     <entry id="effect_tooltip_party"><![CDATA[Tutti gli Eroi:]]></entry>
@@ -3759,7 +3759,7 @@
     <entry id="town_provision_embark_yes"><![CDATA[Sì]]></entry>
     <entry id="town_provision_no_trinkets_equipped"><![CDATA[Non tutti i membri della tua squadra hanno equipaggiato degli accessori. Vuoi intraprendere comunque la missione?]]></entry>
     <entry id="town_provision_not_enough_food_confirm_format"><![CDATA[Non hai acquistato molto cibo per la spedizione. È consigliabile portare almeno %d unità di cibo per questa missione. Vuoi intraprenderla comunque?]]></entry>
-    <entry id="town_quest_description_cleanse+1+cove+battle_all_rooms"><![CDATA[Un pesce su due game? Appurate la forza di questa nuova minaccia.]]></entry>
+    <entry id="town_quest_description_cleanse+1+cove+battle_all_rooms"><![CDATA[Un pesce su due gambe? Appurate la forza di questa nuova minaccia.]]></entry>
     <entry id="town_quest_description_cleanse+1+crypts+battle_all_rooms"><![CDATA[Abomini empi ritorcono la Luce contro sé stessa. Affrontateli in battaglia e imparate come combattono.]]></entry>
     <entry id="town_quest_description_cleanse+1+warrens+battle_all_rooms"><![CDATA[Una missione di perlustrazione in un delirante reame di gallerie. Scontratevi con il nemico in battaglia e poi riparatevi al sicuro con nuove informazioni.]]></entry>
     <entry id="town_quest_description_cleanse+1+weald+battle_all_rooms"><![CDATA[Respingete le creature e i banditi che minacciano il transito sulla Vecchia Strada.]]></entry>
