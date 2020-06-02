@@ -487,7 +487,7 @@
     <entry id="realm_inventory_sell_trinket_confirm_no"><![CDATA[No]]></entry>
     <entry id="realm_inventory_sell_trinket_confirm_question_format"><![CDATA[Vendere %s per %d oro?]]></entry>
     <entry id="realm_inventory_sell_trinket_confirm_yes"><![CDATA[Sì]]></entry>
-    <entry id="realm_inventory_trinket_sell_description"><![CDATA[Vendi ornamento per:]]></entry>
+    <entry id="realm_inventory_trinket_sell_description"><![CDATA[Vendi per:]]></entry>
     <entry id="realm_inventory_trinket_sell_instruction"><![CDATA[Tieni premuto [SHIFT] per vendere Ornamenti]]></entry>
     <entry id="resistance_base"><![CDATA[Base]]></entry>
     <entry id="resistance_name_bleed"><![CDATA[{colour_start|bleed}Dissanguamento{colour_end}]]></entry>
@@ -1558,7 +1558,7 @@
     <entry id="str_monster_skill_axe_strike_weak"><![CDATA[Scure Maldestra]]></entry>
     <entry id="str_monster_skill_backhand"><![CDATA[Manrovescio Spaccaossa]]></entry>
     <entry id="str_monster_skill_ball_and_chain"><![CDATA[Palla di Ferro]]></entry>
-    <entry id="str_monster_skill_bandit_stabby"><![CDATA[Zampata]]></entry>
+    <entry id="str_monster_skill_bandit_stabby"><![CDATA[Coltellata]]></entry>
     <entry id="str_monster_skill_bandit_stabby_weak"><![CDATA[Innocuo Punzecchiamento]]></entry>
     <entry id="str_monster_skill_battlecell_bam"><![CDATA[Secrezione Stordente]]></entry>
     <entry id="str_monster_skill_bayonet_jab"><![CDATA[Colpo di Baionetta]]></entry>
@@ -3835,7 +3835,7 @@
     <entry id="town_quest_goal_start_plural_activate"><![CDATA[Attiva %d %s.]]></entry>
     <entry id="town_quest_goal_start_plural_battle_room"><![CDATA[Completa il %.0f%% 
  di combattimenti nelle stanze.]]></entry>
-    <entry id="town_quest_goal_start_plural_explore_room"><![CDATA[Esplora: il %.0f%% delle stanze.]]></entry>
+    <entry id="town_quest_goal_start_plural_explore_room"><![CDATA[Esplora il %.0f%% delle stanze.]]></entry>
     <entry id="town_quest_goal_start_plural_gather"><![CDATA[Raccogli %d %s.]]></entry>
     <entry id="town_quest_goal_start_plural_kill_monster"><![CDATA[Uccidi %d %s.]]></entry>
     <entry id="town_quest_goal_start_plural_tutorial_room"><![CDATA[Trovate la strada per il Borgo...]]></entry>
