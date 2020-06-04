@@ -794,8 +794,8 @@
     <entry id="str_death_attack_friendly_quirk_actout"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
     <entry id="str_death_attack_friendly_trait_actout"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
     <entry id="str_death_attack_hero"><![CDATA[soccombe per mano di un alleato!]]></entry>
-    <entry id="str_death_attack_monster"><![CDATA[ha perso la vita vittima per mano di]]></entry>
-    <entry id="str_death_attack_monster"><![CDATA[ha trovato la propria fine per mano di]]></entry>
+    <entry id="str_death_attack_monster"><![CDATA[ha perso la vita per mano di:]]></entry>
+    <entry id="str_death_attack_monster"><![CDATA[ha trovato la propria fine per mano di:]]></entry>
     <entry id="str_death_bleed_friendly"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
     <entry id="str_death_bleed_friendly_quirk_actout"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
     <entry id="str_death_bleed_friendly_trait_actout"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
@@ -1068,7 +1068,7 @@
     <entry id="str_glossary_term_1002"><![CDATA[Laudano]]></entry>
     <entry id="str_glossary_term_definition_1002"><![CDATA[Tintura utilizzata per trattare l'Orrore (stress esteso nel tempo).]]></entry>
     <entry id="str_gold"><![CDATA[oro]]></entry>
-    <entry id="str_graveyard_summary"><![CDATA[Vedi eroi caduti]]></entry>
+    <entry id="str_graveyard_summary"><![CDATA[Vedi gli eroi caduti]]></entry>
     <entry id="str_graveyard_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} Il %s è sbloccato.]]></entry>
     <entry id="str_graveyard_week_string"><![CDATA[Settimana %d]]></entry>
     <entry id="str_guild_cost_upgrade_lvl_1"><![CDATA[La gilda è stata migliorata. L'addestramento è meno costoso. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
