@@ -104,10 +104,10 @@
     <entry id="buff_rule_tooltip_in_mode"><![CDATA[%s se in modalità %s]]></entry>
     <entry id="buff_rule_tooltip_in_rank"><![CDATA[%s se in posizione %d]]></entry>
     <entry id="buff_rule_tooltip_in_rank_false"><![CDATA[%s se non nella posizione %d]]></entry>
-    <entry id="buff_rule_tooltip_lightabove"><![CDATA[%s se la Torcia è sopra il %d]]></entry>
-    <entry id="buff_rule_tooltip_lightabove_false"><![CDATA[%s se la Torcia non è sopra il %d]]></entry>
-    <entry id="buff_rule_tooltip_lightbelow"><![CDATA[%s se la Torcia è sotto il %d]]></entry>
-    <entry id="buff_rule_tooltip_lightbelow_false"><![CDATA[%s se la Torcia non è sotto il %d]]></entry>
+    <entry id="buff_rule_tooltip_lightabove"><![CDATA[%s se la Torcia è sopra il %d%%]]></entry>
+    <entry id="buff_rule_tooltip_lightabove_false"><![CDATA[%s se la Torcia non è sopra il %d%%]]></entry>
+    <entry id="buff_rule_tooltip_lightbelow"><![CDATA[%s se la Torcia è sotto il %d%%]]></entry>
+    <entry id="buff_rule_tooltip_lightbelow_false"><![CDATA[%s se la Torcia non è sotto il %d%%]]></entry>
     <entry id="buff_rule_tooltip_meleeonly"><![CDATA[%s Abilità {colour_start|attacktype}Corpo a Corpo{colour_end}]]></entry>
     <entry id="buff_rule_tooltip_meleeonly_false"><![CDATA[%s non {colour_start|attacktype}Corpo a Corpo{colour_end}]]></entry>
     <entry id="buff_rule_tooltip_monsterSize"><![CDATA[%s contro taglia %d]]></entry>
@@ -119,8 +119,8 @@
     <entry id="buff_rule_tooltip_rangedonly_false"><![CDATA[%s non {colour_start|attacktype}A Distanza{colour_end}]]></entry>
     <entry id="buff_rule_tooltip_riposte"><![CDATA[{colour_start|riposte}Risposta{colour_end}: %s]]></entry>
     <entry id="buff_rule_tooltip_skill"><![CDATA[%s: %s]]></entry>
-    <entry id="buff_rule_tooltip_stress_above"><![CDATA[%s se lo {colour_start|stress}Stress {colour_end}è maggiore del %d]]></entry>
-    <entry id="buff_rule_tooltip_stress_below"><![CDATA[%s se lo {colour_start|stress}Stress {colour_end}è minore del %d]]></entry>
+    <entry id="buff_rule_tooltip_stress_above"><![CDATA[%s se lo {colour_start|stress}Stress{colour_end} è maggiore del %d%%]]></entry>
+    <entry id="buff_rule_tooltip_stress_below"><![CDATA[%s se lo {colour_start|stress}Stress{colour_end} è minore del %d%%]]></entry>
     <entry id="buff_rule_tooltip_virtued"><![CDATA[%s se {colour_start|virtue}Virtuoso{colour_end}]]></entry>
     <entry id="buff_rule_tooltip_virtued_false"><![CDATA[%s se non {colour_start|virtue}Virtuoso{colour_end}]]></entry>
     <entry id="buff_rule_tooltip_walking_backwards"><![CDATA[%s camminando all'indietro]]></entry>
