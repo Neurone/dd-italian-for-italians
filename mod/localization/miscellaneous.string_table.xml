@@ -663,10 +663,10 @@ di Accampamento]]></entry>
     <entry id="str_caretaker_gambling"><![CDATA[Mi gioco l'anima su questo lancio di dadi! Ancora!]]></entry>
     <entry id="str_caretaker_gambling"><![CDATA[Scommetto tutto; tutto!]]></entry>
     <entry id="str_caretaker_goal_hero_resolve"><![CDATA[Porta un %s al Livello 6]]></entry>
-    <entry id="str_caretaker_goal_plot_darkest_dungeon_1"><![CDATA[Trionfa nel primo assalto al Darkest Dungeon.]]></entry>
-    <entry id="str_caretaker_goal_plot_darkest_dungeon_2"><![CDATA[Trionfa nel secondo assalto al Darkest Dungeon.]]></entry>
-    <entry id="str_caretaker_goal_plot_darkest_dungeon_3"><![CDATA[Trionfa nel terzo assalto al Darkest Dungeon.]]></entry>
-    <entry id="str_caretaker_goal_plot_darkest_dungeon_4"><![CDATA[Completa la missione finale nel Darkest Dungeon.]]></entry>
+    <entry id="str_caretaker_goal_plot_darkest_dungeon_1"><![CDATA[Trionfa nel primo assalto al Darkest Dungeon]]></entry>
+    <entry id="str_caretaker_goal_plot_darkest_dungeon_2"><![CDATA[Trionfa nel secondo assalto al Darkest Dungeon]]></entry>
+    <entry id="str_caretaker_goal_plot_darkest_dungeon_3"><![CDATA[Trionfa nel terzo assalto al Darkest Dungeon]]></entry>
+    <entry id="str_caretaker_goal_plot_darkest_dungeon_4"><![CDATA[Completa la missione finale nel Darkest Dungeon]]></entry>
     <entry id="str_caretaker_goal_plot_kill_brigand_cannon_1"><![CDATA[Sconfiggete il Cannone Brigante da 8 Libbre]]></entry>
     <entry id="str_caretaker_goal_plot_kill_brigand_cannon_2"><![CDATA[Sconfiggete il Cannone Brigante da 12 Libbre]]></entry>
     <entry id="str_caretaker_goal_plot_kill_brigand_cannon_3"><![CDATA[Sconfiggete il Cannone Brigante da 16 Libbre]]></entry>
