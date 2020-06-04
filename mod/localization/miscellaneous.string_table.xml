@@ -614,8 +614,8 @@
     <entry id="str_blacksmith_cost_upgrade_lvl_3"><![CDATA[Il fabbro è ora più efficiente nel suo lavoro, rendendo meno costose le migliorie. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_blacksmith_cost_upgrade_lvl_4"><![CDATA[Il fabbro è ora più efficiente nel suo lavoro, rendendo meno costose le migliorie. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_blacksmith_cost_upgrade_lvl_5"><![CDATA[Il fabbro è ora più efficiente nel suo lavoro, rendendo meno costose le migliorie. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
-    <entry id="str_blacksmith_summary"><![CDATA[Migliora Armi 
- e Armatura]]></entry>
+    <entry id="str_blacksmith_summary"><![CDATA[Migliora Armi
+e Armature]]></entry>
     <entry id="str_blacksmith_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} Il %s è sbloccato.]]></entry>
     <entry id="str_blacksmith_weapon_upgrade_lvl_1"><![CDATA[Possono essere forgiate armi migliori. {colour_start|town_activity_log_positive_result}Livelli: {?level}%d{colour_end}]]></entry>
     <entry id="str_blacksmith_weapon_upgrade_lvl_2"><![CDATA[Possono essere forgiate armi migliori. {colour_start|town_activity_log_positive_result}Livelli: {?level}%d{colour_end}]]></entry>
@@ -646,8 +646,8 @@
     <entry id="str_camping_trainer_cost_upgrade_lvl_3"><![CDATA[La rete della survivalista si è ampliata. Addestrare le abilità di accampamento è ora meno costoso. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_camping_trainer_cost_upgrade_lvl_4"><![CDATA[La rete della survivalista si è ampliata. Addestrare le abilità di accampamento è ora meno costoso. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_camping_trainer_cost_upgrade_lvl_5"><![CDATA[La rete della survivalista si è ampliata. Addestrare le abilità di accampamento è ora meno costoso. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
-    <entry id="str_camping_trainer_summary"><![CDATA[Migliora Abilità 
- di Accampamento]]></entry>
+    <entry id="str_camping_trainer_summary"><![CDATA[Migliora Abilità
+di Accampamento]]></entry>
     <entry id="str_camping_trainer_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} L'%s è sbloccato.]]></entry>
     <entry id="str_cant_place_hero_here_caretaker"><![CDATA[Il Custode sta adempiendo a questa attività...]]></entry>
     <entry id="str_cant_place_hero_here_crier"><![CDATA[Il Banditore sta apprezzando molto la sua attività al momento...]]></entry>
@@ -2042,8 +2042,7 @@
     <entry id="str_nomad_wagon_numitems_upgrade_lvl_2"><![CDATA[Un numero maggiore di mercanti visita il villaggio, aumentando la scelta di ornamenti disponibili. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_nomad_wagon_numitems_upgrade_lvl_3"><![CDATA[Un numero maggiore di mercanti visita il villaggio, aumentando la scelta di ornamenti disponibili. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_nomad_wagon_numitems_upgrade_lvl_4"><![CDATA[Un numero maggiore di mercanti visita il villaggio, aumentando la scelta di ornamenti disponibili. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
-    <entry id="str_nomad_wagon_summary"><![CDATA[Compra oggetti 
- rari]]></entry>
+    <entry id="str_nomad_wagon_summary"><![CDATA[Compra oggetti rari]]></entry>
     <entry id="str_nomad_wagon_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} Il %s è sbloccato.]]></entry>
     <entry id="str_obstacle_rubble_description"><![CDATA[Un grezzo ammasso di pietre e detriti blocca il sentiero.]]></entry>
     <entry id="str_obstacle_rubble_title"><![CDATA[Detriti]]></entry>
@@ -2556,8 +2555,8 @@
     <entry id="str_sanitarium_slots_upgrade_lvl_2"><![CDATA[La casa di cura ha aggiunto stanze per i trattamenti! {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_sanitarium_slots_upgrade_lvl_3"><![CDATA[La casa di cura ha aggiunto stanze per i trattamenti! {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_sanitarium_slots_upgrade_lvl_4"><![CDATA[La casa di cura ha aggiunto stanze per i trattamenti! {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
-    <entry id="str_sanitarium_summary"><![CDATA[Trattamento malattie 
- e tratti]]></entry>
+    <entry id="str_sanitarium_summary"><![CDATA[Trattamento malattie
+e tratti]]></entry>
     <entry id="str_sanitarium_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} La %s è sbloccata.]]></entry>
     <entry id="str_save_nuke_confirm"><![CDATA[Cancellare salvataggio?]]></entry>
     <entry id="str_save_nuke_confirm_no"><![CDATA[No]]></entry>
@@ -2605,8 +2604,8 @@
     <entry id="str_stage_coach_rostersize_upgrade_lvl_3"><![CDATA[Nuove caserme per gli eroi sono state aggiunte! Le dimensioni dei ranghi sono aumentate. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_stage_coach_rostersize_upgrade_lvl_4"><![CDATA[Nuove caserme per gli eroi sono state aggiunte! Le dimensioni dei ranghi sono aumentate. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
     <entry id="str_stage_coach_rostersize_upgrade_lvl_5"><![CDATA[Nuove caserme per gli eroi sono state aggiunte! Le dimensioni dei ranghi sono aumentate. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
-    <entry id="str_stage_coach_summary"><![CDATA[Recluta 
- nuovi eroi]]></entry>
+    <entry id="str_stage_coach_summary"><![CDATA[Recluta
+nuovi eroi]]></entry>
     <entry id="str_stage_coach_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} La %s è sbloccata.]]></entry>
     <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_1"><![CDATA[Eroi di Livello 1 possono ora apparire nella Diligenza.]]></entry>
     <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_2"><![CDATA[Eroi di Livello 2 possono ora apparire nella Diligenza.]]></entry>
@@ -2649,8 +2648,8 @@
     <entry id="str_stat_speed"><![CDATA[VELOCITÀ]]></entry>
     <entry id="str_stat_speed_bonus"><![CDATA[Modificatore VELOCITÀ]]></entry>
     <entry id="str_statue_ancestor_quote"><![CDATA[Col tempo apprenderete la tragica entità dei miei fallimenti...]]></entry>
-    <entry id="str_statue_summary"><![CDATA[Vedi memorie 
- dell'antenato]]></entry>
+    <entry id="str_statue_summary"><![CDATA[Vedi memorie
+dell'antenato]]></entry>
     <entry id="str_still_missing"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} manca ancora.]]></entry>
     <entry id="str_stress"><![CDATA[{colour_start|stressNOT1}stress{colour_end}]]></entry>
     <entry id="str_tavern_bar_upgrade_lvl_1"><![CDATA[Il bancone è stato migliorato. {colour_start|town_activity_log_positive_result}Livello: {?level}%d{colour_end}]]></entry>
