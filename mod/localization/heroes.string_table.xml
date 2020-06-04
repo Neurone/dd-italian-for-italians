@@ -569,15 +569,15 @@
     <entry id="action_verbose_body_camping_trainer_abomination"><![CDATA[L'Abominio passa i suoi momenti di riposo perso nei sintomi della sua condizione. Buff eccitanti gli forniscono una ancor più grande efficacia nella mischia successiva, mentre concentrarsi sul sopprimere i suoi terribili impulsi può alleviare un po' dell'apprensione del gruppo.]]></entry>
     <entry id="action_verbose_body_camping_trainer_antiquarian"><![CDATA[Una ricercatrice non riposa mai! L'Antiquaria scandaglia l'accampamento, ottenendo provviste e persino ornamenti che il gruppo potrebbe aver tralasciato. I suoi curiosi discorsi e strane polverine sono rinomati per la capacità di placare le menti e rafforzare le resistenze fisiche.]]></entry>
     <entry id="action_verbose_body_camping_trainer_musketeer"><![CDATA[La Moschettiera capisce che il suo è uno strumento delicato e va quindi curato di conseguenza, se ci si vuole fare affidamento in battaglia! È ugualmente preparata e disponibile a fornire pronto soccorso ai suoi compagni, anche solo per tenerli tra se stessa e i suoi bersagli.]]></entry>
-    <entry id="building_verbose_abbey"><![CDATA[Migliorare l'Abbazia aumenta i tipi di trattamenti per lo stress e la loro efficacia.]]></entry>
-    <entry id="building_verbose_blacksmith"><![CDATA[Migliorare il Fabbro permette di acquistare armi e armature migliori a costi ridotti.]]></entry>
-    <entry id="building_verbose_camping_trainer"><![CDATA[Migliorare la Survivalista aumenta il numero di abilità di Accampamento disponibili e ne riduce il costo di apprendimento.]]></entry>
-    <entry id="building_verbose_graveyard"><![CDATA[Il Cimitero non può essere migliorato.]]></entry>
-    <entry id="building_verbose_guild"><![CDATA[Migliorare la Gilda permette di addestrare livelli avanzati nelle abilità degli eroi.]]></entry>
-    <entry id="building_verbose_nomad_wagon"><![CDATA[Migliorare il Carro Nomade amplia la selezione degli ornamenti acquistabili e ne riduce il costo.]]></entry>
-    <entry id="building_verbose_sanitarium"><![CDATA[Migliorare la Casa di Cura aumenta il numero di caselle disponibili per il trattamento, e riduce il costo di quest'ultimo.]]></entry>
-    <entry id="building_verbose_stage_coach"><![CDATA[Migliorare la Diligenza aumenta il numero di eroi disponibili ogni settimana o amplia le dimensioni dei tuoi ranghi.]]></entry>
-    <entry id="building_verbose_tavern"><![CDATA[Migliorare la Taverna aumenta i tipi di trattamenti per lo stress e la loro efficacia.]]></entry>
+    <entry id="building_verbose_abbey"><![CDATA[Migliorare l'Abbazia aumenta i tipi di trattamenti per lo stress e la loro efficacia]]></entry>
+    <entry id="building_verbose_blacksmith"><![CDATA[Migliorare il Fabbro permette di acquistare armi e armature migliori a costi ridotti]]></entry>
+    <entry id="building_verbose_camping_trainer"><![CDATA[Migliorare la Survivalista aumenta il numero di abilità di Accampamento disponibili e ne riduce il costo di apprendimento]]></entry>
+    <entry id="building_verbose_graveyard"><![CDATA[Il Cimitero non può essere migliorato]]></entry>
+    <entry id="building_verbose_guild"><![CDATA[Migliorare la Gilda permette di addestrare livelli avanzati nelle abilità degli eroi]]></entry>
+    <entry id="building_verbose_nomad_wagon"><![CDATA[Migliorare il Carro Nomade amplia la selezione degli ornamenti acquistabili e ne riduce il costo]]></entry>
+    <entry id="building_verbose_sanitarium"><![CDATA[Migliorare la Casa di Cura aumenta il numero di caselle disponibili per il trattamento, e riduce il costo di quest'ultimo]]></entry>
+    <entry id="building_verbose_stage_coach"><![CDATA[Migliorare la Diligenza aumenta il numero di eroi disponibili ogni settimana o amplia le dimensioni dei tuoi ranghi]]></entry>
+    <entry id="building_verbose_tavern"><![CDATA[Migliorare la Taverna aumenta i tipi di trattamenti per lo stress e la loro efficacia]]></entry>
     <entry id="str_bark_clean_musket"><![CDATA[Levigato e lucidato. Ora sparerai dritto, amore mio.]]></entry>
   </language>
 </root>
