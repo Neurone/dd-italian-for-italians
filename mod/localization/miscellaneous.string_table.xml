@@ -3594,7 +3594,7 @@
     <entry id="town_activity_description_brothel"><![CDATA[Il piacere della carne]]></entry>
     <entry id="town_activity_description_disease_treatment"><![CDATA[Cura Malattie, umori e altri malesseri fisici]]></entry>
     <entry id="town_activity_description_flagellation"><![CDATA[La flagellazione porta assoluzione]]></entry>
-    <entry id="town_activity_description_gambling"><![CDATA[Il brivido della vittoria.]></entry>
+    <entry id="town_activity_description_gambling"><![CDATA[Il brivido della vittoria.]]></entry>
     <entry id="town_activity_description_meditation"><![CDATA[Pace attraverso la meditazione]]></entry>
     <entry id="town_activity_description_prayer"><![CDATA[Pregate un Potere Supremo]]></entry>
     <entry id="town_activity_description_treatment"><![CDATA[Cura Tratti e altri atteggiamenti problematici]]></entry>
@@ -3987,7 +3987,7 @@
     <entry id="tray_icon_tooltip_buff_until_end_of_raid_format"><![CDATA[%s (missione)]]></entry>
     <entry id="tray_icon_tooltip_deathsdoor"><![CDATA[Il prossimo colpo potrebbe essere fatale!]]></entry>
     <entry id="tray_icon_tooltip_deathsdoor_title"><![CDATA[Punto di Morte]]></entry>
-    <entry id="tray_icon_tooltip_guard"><![CDATA[%s(%d Round)]]></entry>
+    <entry id="tray_icon_tooltip_guard"><![CDATA[%s (%d Round)]]></entry>
     <entry id="tray_icon_tooltip_guard_name_with_rank_format"><![CDATA[%s (Livello: %d)]]></entry>
     <entry id="tray_icon_tooltip_guard_title"><![CDATA[Difeso da:]]></entry>
     <entry id="tray_icon_tooltip_immobilized"><![CDATA[Immobilizzato]]></entry>
