@@ -4,7 +4,7 @@
   <language id="italian">
     <entry id="hero_class_name_shieldbreaker"><![CDATA[Frangiscudi]]></entry>
     <entry id="str_dlc_title_shieldbreaker"><![CDATA[Frangiscudi]]></entry>
-    <entry id="str_confirm_dlc_details_shieldbreaker"><![CDATA[Il DLC The Shieldbreaker introduce diversi nuovi mostri e la classe Frangiscudi. Potrai reclutare questa eroina nel Borgo.]]></entry>
+    <entry id="str_confirm_dlc_details_shieldbreaker"><![CDATA[Il DLC The Shieldbreaker introduce diversi nuovi mostri e la classe Frangiscudi. Potrai reclutare questa eroina nel Borgo]]></entry>
     <entry id="str_confirm_dlc_shieldbreaker"><![CDATA[Vuoi abilitare la Frangiscudi?]]></entry>
     <entry id="str_confirm_dlc_shieldbreaker_yes"><![CDATA[Abilita]]></entry>
     <entry id="str_confirm_dlc_shieldbreaker_no"><![CDATA[Annulla]]></entry>
@@ -30,13 +30,13 @@
     <entry id="str_inventory_title_trinketsb_set_2"><![CDATA[Mano tagliata]]></entry>
     <entry id="str_inventory_set_title_sb_set1"><![CDATA[Bella e dannata]]></entry>
     <entry id="str_inventory_title_estatesnake_scale"><![CDATA[Scaglia protettiva]]></entry>
-    <entry id="str_inventory_description_estatesnake_scale"><![CDATA[Una scaglia misteriosa di una terra lontana. Protezione elevatissima.]]></entry>
+    <entry id="str_inventory_description_estatesnake_scale"><![CDATA[Una scaglia misteriosa di una terra lontana. Protezione elevatissima]]></entry>
     <entry id="combat_skill_name_shieldbreaker_pierce"><![CDATA[Perforazione]]></entry>
     <entry id="combat_skill_name_shieldbreaker_break_guard"><![CDATA[Intontimento]]></entry>
     <entry id="combat_skill_name_shieldbreaker_adders_kiss"><![CDATA[Morso della vipera]]></entry>
     <entry id="combat_skill_name_shieldbreaker_spearing"><![CDATA[Impalamento]]></entry>
     <entry id="combat_skill_name_shieldbreaker_expose"><![CDATA[Breccia]]></entry>
-    <entry id="combat_skill_name_shieldbreaker_single_out"><![CDATA[Malia]]></entry>
+    <entry id="combat_skill_name_shieldbreaker_single_out"><![CDATA[Ammalia]]></entry>
     <entry id="combat_skill_name_shieldbreaker_serpents_sway"><![CDATA[Danza del serpente]]></entry>
     <entry id="combat_skill_name_shieldbreaker_move"><![CDATA[Muovi]]></entry>
     <entry id="upgrade_tree_name_shieldbreaker.pierce"><![CDATA[Perforazione]]></entry>
@@ -44,7 +44,7 @@
     <entry id="upgrade_tree_name_shieldbreaker.adders_kiss"><![CDATA[Morso della vipera]]></entry>
     <entry id="upgrade_tree_name_shieldbreaker.spearing"><![CDATA[Impalamento]]></entry>
     <entry id="upgrade_tree_name_shieldbreaker.expose"><![CDATA[Breccia]]></entry>
-    <entry id="upgrade_tree_name_shieldbreaker.single_out"><![CDATA[Malia]]></entry>
+    <entry id="upgrade_tree_name_shieldbreaker.single_out"><![CDATA[Ammalia]]></entry>
     <entry id="upgrade_tree_name_shieldbreaker.serpents_sway"><![CDATA[Danza del serpente]]></entry>
     <entry id="town_event_title_first_shieldbreaker"><![CDATA[Un vento del deserto]]></entry>
     <entry id="town_event_title_bonus_recruit_shieldbreaker"><![CDATA[Il morso della vipera]]></entry>
@@ -58,8 +58,8 @@
     <entry id="action_verbose_body_blacksmith_shieldbreaker"><![CDATA[La Frangiscudi usa lancia e scudo, vantando così un ottimo allungo e discrete capacità difensive. Le sue vesti da danzatrice sono più adatte al palcoscenico che alle segrete; dovrà puntare sulla rapidità per sopravvivere.]]></entry>
     <entry id="action_verbose_body_camping_trainer_shieldbreaker"><![CDATA[Silenziosa e misurata in battaglia, la Frangiscudi è tormentata dagli incubi del suo passato. Queste visioni sono così potenti che vanno distrutte nel mondo dei sogni, o rischiano di renderla lenta, stanca e stressata.]]></entry>
     <entry id="str_monstername_snake_cobra_A"><![CDATA[Pliskin]]></entry>
-    <entry id="str_monstername_snake_cobra_B"><![CDATA[Gran pliskin]]></entry>
-    <entry id="str_monstername_snake_cobra_C"><![CDATA[Orrore pliskin]]></entry>
+    <entry id="str_monstername_snake_cobra_B"><![CDATA[Gran Pliskin]]></entry>
+    <entry id="str_monstername_snake_cobra_C"><![CDATA[Orrore Pliskin]]></entry>
     <entry id="str_monstername_snake_rattler_A"><![CDATA[Serpente a sonagli]]></entry>
     <entry id="str_monstername_snake_rattler_B"><![CDATA[Serpente a sonagli irritato]]></entry>
     <entry id="str_monstername_snake_rattler_C"><![CDATA[Serpente a sonagli infuriato]]></entry>
