@@ -32,7 +32,7 @@
     <entry id="str_inventory_title_estatesnake_scale"><![CDATA[Scaglia protettiva]]></entry>
     <entry id="str_inventory_description_estatesnake_scale"><![CDATA[Una scaglia misteriosa di una terra lontana. Protezione elevatissima]]></entry>
     <entry id="combat_skill_name_shieldbreaker_pierce"><![CDATA[Perforazione]]></entry>
-    <entry id="combat_skill_name_shieldbreaker_break_guard"><![CDATA[Intontimento]]></entry>
+    <entry id="combat_skill_name_shieldbreaker_break_guard"><![CDATA[Puntura]]></entry>
     <entry id="combat_skill_name_shieldbreaker_adders_kiss"><![CDATA[Morso della vipera]]></entry>
     <entry id="combat_skill_name_shieldbreaker_spearing"><![CDATA[Impalamento]]></entry>
     <entry id="combat_skill_name_shieldbreaker_expose"><![CDATA[Breccia]]></entry>
@@ -40,7 +40,7 @@
     <entry id="combat_skill_name_shieldbreaker_serpents_sway"><![CDATA[Danza del serpente]]></entry>
     <entry id="combat_skill_name_shieldbreaker_move"><![CDATA[Muovi]]></entry>
     <entry id="upgrade_tree_name_shieldbreaker.pierce"><![CDATA[Perforazione]]></entry>
-    <entry id="upgrade_tree_name_shieldbreaker.break_guard"><![CDATA[Intontimento]]></entry>
+    <entry id="upgrade_tree_name_shieldbreaker.break_guard"><![CDATA[Puntura]]></entry>
     <entry id="upgrade_tree_name_shieldbreaker.adders_kiss"><![CDATA[Morso della vipera]]></entry>
     <entry id="upgrade_tree_name_shieldbreaker.spearing"><![CDATA[Impalamento]]></entry>
     <entry id="upgrade_tree_name_shieldbreaker.expose"><![CDATA[Breccia]]></entry>
