@@ -792,8 +792,8 @@
     <entry id="str_death_attack_friendly_quirk_actout"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
     <entry id="str_death_attack_friendly_trait_actout"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
     <entry id="str_death_attack_hero"><![CDATA[soccombe per mano di un alleato!]]></entry>
-    <entry id="str_death_attack_monster"><![CDATA[ha perso la vita per mano di:]]></entry>
-    <entry id="str_death_attack_monster"><![CDATA[ha trovato la propria fine per mano di:]]></entry>
+    <entry id="str_death_attack_monster"><![CDATA[ha perso la vita vittima per mano di]]></entry>
+    <entry id="str_death_attack_monster"><![CDATA[ha trovato la propria fine per mano di]]></entry>
     <entry id="str_death_bleed_friendly"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
     <entry id="str_death_bleed_friendly_quirk_actout"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
     <entry id="str_death_bleed_friendly_trait_actout"><![CDATA[ha perso la vita per mano di un alleato.]]></entry>
