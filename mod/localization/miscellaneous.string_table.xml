@@ -3911,9 +3911,9 @@
     <entry id="town_quest_name_plot_tutorial_crypts"><![CDATA[Esplorazione]]></entry>
     <entry id="town_quest_name_tutorial"><![CDATA[La Vecchia Strada]]></entry>
     <entry id="town_quest_number_of_camps0"><![CDATA[Questa missione non include Accampamento]]></entry>
-    <entry id="town_quest_number_of_camps1"><![CDATA[Gli eroi si accamperanno una volta durante questa missione.]]></entry>
+    <entry id="town_quest_number_of_camps1"><![CDATA[Gli eroi si accamperanno una volta durante questa missione]]></entry>
     <entry id="town_quest_number_of_camps2"><![CDATA[Gli eroi si accamperanno due volte durante questa missione]]></entry>
-    <entry id="town_quest_number_of_camps3"><![CDATA[Gli eroi si accamperanno tre volte durante questa missione.]]></entry>
+    <entry id="town_quest_number_of_camps3"><![CDATA[Gli eroi si accamperanno tre volte durante questa missione]]></entry>
     <entry id="town_quest_number_of_camps4"><![CDATA[Gli eroi si accamperanno quattro volte durante questa missione]]></entry>
     <entry id="town_quest_number_of_camps_random"><![CDATA[In questa missione, gli eroi potrebbero trovare degli accampamenti]]></entry>
     <entry id="town_quest_progress_format"><![CDATA[Ripulisci la strada per il boss! Progresso: %3.0f%%]]></entry>
