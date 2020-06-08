@@ -3826,21 +3826,21 @@
     <entry id="town_quest_difficulty_5"><![CDATA[Campione (Liv. 5)]]></entry>
     <entry id="town_quest_difficulty_6"><![CDATA[Oscuro (Liv. 6)]]></entry>
     <entry id="town_quest_dungeon_not_released"><![CDATA[Addentrati in questa regione, la più temuta di tutte.]]></entry>
-    <entry id="town_quest_goal_start_plural_activate"><![CDATA[Attiva %d %s.]]></entry>
+    <entry id="town_quest_goal_start_plural_activate"><![CDATA[Attiva %d %s]]></entry>
     <entry id="town_quest_goal_start_plural_battle_room"><![CDATA[Completa il %.0f%% 
- di combattimenti nelle stanze.]]></entry>
-    <entry id="town_quest_goal_start_plural_explore_room"><![CDATA[Esplora il %.0f%% delle stanze.]]></entry>
-    <entry id="town_quest_goal_start_plural_gather"><![CDATA[Raccogli %d %s.]]></entry>
-    <entry id="town_quest_goal_start_plural_kill_monster"><![CDATA[Uccidi %d %s.]]></entry>
+ di combattimenti nelle stanze]]></entry>
+    <entry id="town_quest_goal_start_plural_explore_room"><![CDATA[Esplora il %.0f%% delle stanze]]></entry>
+    <entry id="town_quest_goal_start_plural_gather"><![CDATA[Raccogli %d %s]]></entry>
+    <entry id="town_quest_goal_start_plural_kill_monster"><![CDATA[Uccidi %d %s]]></entry>
     <entry id="town_quest_goal_start_plural_tutorial_room"><![CDATA[Trovate la strada per il Borgo...]]></entry>
-    <entry id="town_quest_goal_start_single_activate"><![CDATA[Attiva %d %s.]]></entry>
-    <entry id="town_quest_goal_start_single_gather"><![CDATA[Raccogli %d %s.]]></entry>
+    <entry id="town_quest_goal_start_single_activate"><![CDATA[Attiva %d %s]]></entry>
+    <entry id="town_quest_goal_start_single_gather"><![CDATA[Raccogli %d %s]]></entry>
     <entry id="town_quest_goals"><![CDATA[Obiettivi:]]></entry>
     <entry id="town_quest_length_1"><![CDATA[Corta]]></entry>
     <entry id="town_quest_length_2"><![CDATA[Media]]></entry>
     <entry id="town_quest_length_3"><![CDATA[Lunga]]></entry>
     <entry id="town_quest_length_4"><![CDATA[Sfiancante]]></entry>
-    <entry id="town_quest_locked"><![CDATA[Esplora altre regioni per sbloccare questa.]]></entry>
+    <entry id="town_quest_locked"><![CDATA[Esplora altre regioni per sbloccare questa]]></entry>
     <entry id="town_quest_name_cleanse+1+cove+battle_all_rooms"><![CDATA[Schermaglia]]></entry>
     <entry id="town_quest_name_cleanse+1+crypts+battle_all_rooms"><![CDATA[Schermaglia]]></entry>
     <entry id="town_quest_name_cleanse+1+warrens+battle_all_rooms"><![CDATA[Schermaglia]]></entry>
